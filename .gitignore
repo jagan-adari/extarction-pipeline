@@ -18,6 +18,7 @@ build/
 venv/
 ENV/
 .env.*
+!.env.example
 
 # VS Code
 .vscode/
