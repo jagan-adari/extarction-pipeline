@@ -1,0 +1,6798 @@
+{
+  "report_info": {
+    "requester_report_id": "2026012306343172623",
+    "requester_user_id": "2026012306343143696",
+    "requested_on": "January 23, 2026",
+    "days_requested": 150,
+    "accounts": 1
+  },
+  "borrower_info": {
+    "first_name": "Rodger",
+    "middle_name": "",
+    "last_name": "McGee",
+    "ssn": "",
+    "phone_number": "8123195822",
+    "email": "brightcleaninc@yahoo.com"
+  },
+  "asset_summary": [
+    {
+      "institution": "Centra Credit Union",
+      "account_name": "Payroll Account",
+      "account_mask": "7570",
+      "current_balance": 2120.33,
+      "available_balance": 0.0,
+      "account_type": ""
+    },
+    {
+      "institution": "Centra Credit Union",
+      "account_name": "General Expense",
+      "account_mask": "7562",
+      "current_balance": 2322.68,
+      "available_balance": 0.0,
+      "account_type": ""
+    }
+  ],
+  "account_details": [
+    {
+      "institution": "Centra Credit Union",
+      "account_name": "Payroll Account",
+      "account_mask": "7570",
+      "holder_name": "Rodger McGee",
+      "current_balance": 2120.33,
+      "available_balance": 0.0,
+      "account_type": "Depository",
+      "transactions": [
+        {
+          "date": "August 27, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 2500.0,
+          "outflow": null,
+          "ending_daily_balance": 2690.53,
+          "is_pending": false
+        },
+        {
+          "date": "August 29, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 916.28,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 29, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 29, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 505.44,
+          "ending_daily_balance": 80.93,
+          "is_pending": false
+        },
+        {
+          "date": "September 3, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 2530.0,
+          "outflow": null,
+          "ending_daily_balance": 2610.93,
+          "is_pending": false
+        },
+        {
+          "date": "September 5, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 5, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 505.44,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 5, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 916.28,
+          "ending_daily_balance": 1.33,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 1000.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 609.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 1000.0,
+          "outflow": null,
+          "ending_daily_balance": 2610.33,
+          "is_pending": false
+        },
+        {
+          "date": "September 12, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 12, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 916.28,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 12, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 505.44,
+          "ending_daily_balance": 0.73,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2610.0,
+          "outflow": null,
+          "ending_daily_balance": 2610.73,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 916.28,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 505.44,
+          "ending_daily_balance": 1.13,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 1250.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 1250.0,
+          "outflow": null,
+          "ending_daily_balance": 2501.13,
+          "is_pending": false
+        },
+        {
+          "date": "September 26, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 408.23,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 26, 2025",
+          "description": "Xfer To ******7562",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 26, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 26, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 748.48,
+          "ending_daily_balance": 6.54,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "Deposit",
+          "inflow": 1500.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "Deposit",
+          "inflow": 800.0,
+          "outflow": null,
+          "ending_daily_balance": 2306.54,
+          "is_pending": false
+        },
+        {
+          "date": "October 3, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 748.48,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 3, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 3, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 359.61,
+          "ending_daily_balance": 10.57,
+          "is_pending": false
+        },
+        {
+          "date": "October 9, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2335.0,
+          "outflow": null,
+          "ending_daily_balance": 2345.57,
+          "is_pending": false
+        },
+        {
+          "date": "October 10, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 10, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 748.48,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 10, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 408.23,
+          "ending_daily_balance": 0.98,
+          "is_pending": false
+        },
+        {
+          "date": "October 16, 2025",
+          "description": "Xfer To ******7562",
+          "inflow": null,
+          "outflow": 325.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 16, 2025",
+          "description": "Deposit",
+          "inflow": 1875.0,
+          "outflow": null,
+          "ending_daily_balance": 1550.98,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 292.78,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 56.28,
+          "ending_daily_balance": 14.04,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 1850.0,
+          "outflow": null,
+          "ending_daily_balance": 1864.04,
+          "is_pending": false
+        },
+        {
+          "date": "October 22, 2025",
+          "description": "Xfer To ******7562",
+          "inflow": null,
+          "outflow": 15.0,
+          "ending_daily_balance": 1849.04,
+          "is_pending": false
+        },
+        {
+          "date": "October 24, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 24, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 657.34,
+          "ending_daily_balance": 3.82,
+          "is_pending": false
+        },
+        {
+          "date": "October 31, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 837.14,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 31, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 31, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 31, 2025",
+          "description": "Salary/Regular Income from Intuit",
+          "inflow": 1187.88,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 31, 2025",
+          "description": "INTUIT 63921184 - PAYROLL 17968892",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": 891.32,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Deposit",
+          "inflow": 900.0,
+          "outflow": null,
+          "ending_daily_balance": 8.68,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 1500.0,
+          "outflow": null,
+          "ending_daily_balance": 1508.68,
+          "is_pending": false
+        },
+        {
+          "date": "November 5, 2025",
+          "description": "Intuit Service Charges/Fees",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 5, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": 220.8,
+          "is_pending": false
+        },
+        {
+          "date": "November 6, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2750.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 6, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2000.0,
+          "outflow": null,
+          "ending_daily_balance": 4970.8,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Over Counter Check # 1062",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": 3782.92,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Check # 1063: Completed",
+          "inflow": null,
+          "outflow": 879.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Check # 1064: Completed",
+          "inflow": null,
+          "outflow": 879.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Check # 1065: Completed",
+          "inflow": null,
+          "outflow": 879.5,
+          "ending_daily_balance": 1144.42,
+          "is_pending": false
+        },
+        {
+          "date": "November 12, 2025",
+          "description": "Check # 1061: Completed",
+          "inflow": null,
+          "outflow": 916.28,
+          "ending_daily_balance": 228.14,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2000.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Xfer To ******7562",
+          "inflow": null,
+          "outflow": 225.0,
+          "ending_daily_balance": 2003.14,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Xfer To ******7562",
+          "inflow": null,
+          "outflow": 65.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 748.48,
+          "ending_daily_balance": 1.78,
+          "is_pending": false
+        },
+        {
+          "date": "November 17, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2000.0,
+          "outflow": null,
+          "ending_daily_balance": 2001.78,
+          "is_pending": false
+        },
+        {
+          "date": "November 19, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 150.0,
+          "outflow": null,
+          "ending_daily_balance": 2151.78,
+          "is_pending": false
+        },
+        {
+          "date": "November 21, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 21, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 916.28,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 21, 2025",
+          "description": "Xfer To ******7562",
+          "inflow": null,
+          "outflow": 47.0,
+          "ending_daily_balance": 0.62,
+          "is_pending": false
+        },
+        {
+          "date": "November 26, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 1575.0,
+          "outflow": null,
+          "ending_daily_balance": 1575.62,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 383.92,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": 3.82,
+          "is_pending": false
+        },
+        {
+          "date": "December 3, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2105.0,
+          "outflow": null,
+          "ending_daily_balance": 2108.82,
+          "is_pending": false
+        },
+        {
+          "date": "December 5, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 916.28,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 5, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": 4.66,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2000.0,
+          "outflow": null,
+          "ending_daily_balance": 2004.66,
+          "is_pending": false
+        },
+        {
+          "date": "December 12, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 12, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 748.48,
+          "ending_daily_balance": 68.3,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 1900.0,
+          "outflow": null,
+          "ending_daily_balance": 1968.3,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 748.48,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": 31.94,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 50.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2025.0,
+          "outflow": null,
+          "ending_daily_balance": 2106.94,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 916.28,
+          "ending_daily_balance": 2.78,
+          "is_pending": false
+        },
+        {
+          "date": "December 29, 2025",
+          "description": "Xfer From ******7562",
+          "inflow": 2117.0,
+          "outflow": null,
+          "ending_daily_balance": 2119.78,
+          "is_pending": false
+        },
+        {
+          "date": "January 2, 2026",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1193.33,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 2, 2026",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 924.82,
+          "ending_daily_balance": 1.63,
+          "is_pending": false
+        },
+        {
+          "date": "January 8, 2026",
+          "description": "Xfer From ******7562",
+          "inflow": 1500.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 8, 2026",
+          "description": "Xfer From ******7562",
+          "inflow": 619.0,
+          "outflow": null,
+          "ending_daily_balance": 2120.63,
+          "is_pending": false
+        },
+        {
+          "date": "January 9, 2026",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 924.82,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 9, 2026",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1193.33,
+          "ending_daily_balance": 2.48,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Xfer From ******7562",
+          "inflow": 2118.0,
+          "outflow": null,
+          "ending_daily_balance": 2120.48,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 1193.33,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Intuit",
+          "inflow": null,
+          "outflow": 924.82,
+          "ending_daily_balance": 2.33,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Xfer From ******7562",
+          "inflow": 2118.0,
+          "outflow": null,
+          "ending_daily_balance": 2120.33,
+          "is_pending": false
+        }
+      ],
+      "transaction_count": 95
+    },
+    {
+      "institution": "Centra Credit Union",
+      "account_name": "General Expense",
+      "account_mask": "7562",
+      "holder_name": "Rodger McGee",
+      "current_balance": 2322.68,
+      "available_balance": 0.0,
+      "account_type": "Depository",
+      "transactions": [
+        {
+          "date": "August 27, 2025",
+          "description": "DOR ITS PAYMENTS - INDORITS XX1113",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "DOR ITS PAYMENTS - INDORITS XX1113",
+          "inflow": null,
+          "outflow": 574.82,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 475.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 90.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 750.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 500.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "Withdrawal",
+          "inflow": null,
+          "outflow": 475.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 48.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "Reversal",
+          "inflow": 29.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 27, 2025",
+          "description": "Deposit",
+          "inflow": 475.0,
+          "outflow": null,
+          "ending_daily_balance": 1441.03,
+          "is_pending": false
+        },
+        {
+          "date": "August 28, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 652.6,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 28, 2025",
+          "description": "Reversal",
+          "inflow": 29.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 28, 2025",
+          "description": "Deposit",
+          "inflow": 750.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 25.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 28, 2025",
+          "description": "",
+          "inflow": 800.0,
+          "outflow": null,
+          "ending_daily_balance": 2341.45,
+          "is_pending": false
+        },
+        {
+          "date": "August 29, 2025",
+          "description": "Xfer To ******3665",
+          "inflow": null,
+          "outflow": 1084.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 29, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 327.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 29, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 42.79,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 29, 2025",
+          "description": "Quickbooks",
+          "inflow": null,
+          "outflow": 243.0,
+          "ending_daily_balance": 643.79,
+          "is_pending": false
+        },
+        {
+          "date": "August 30, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 88.01,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "August 30, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 18.18,
+          "ending_daily_balance": 537.6,
+          "is_pending": false
+        },
+        {
+          "date": "September 1, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 150.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 1, 2025",
+          "description": "Circle K",
+          "inflow": null,
+          "outflow": 32.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 1, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 116.26,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 1, 2025",
+          "description": "SP AFF ELORY C SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 26.93,
+          "ending_daily_balance": 511.66,
+          "is_pending": false
+        },
+        {
+          "date": "September 2, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 27.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 2, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 34.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 2, 2025",
+          "description": "THE KROOT CORP - RECEIVABLE",
+          "inflow": 300.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 2, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 8.55,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 2, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 84.75,
+          "ending_daily_balance": 657.36,
+          "is_pending": false
+        },
+        {
+          "date": "September 3, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 450.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 3, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 172.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 3, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 88.38,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 3, 2025",
+          "description": "Xfer From *****9370",
+          "inflow": 100.0,
+          "outflow": null,
+          "ending_daily_balance": 946.73,
+          "is_pending": false
+        },
+        {
+          "date": "September 4, 2025",
+          "description": "Centra Credit Union",
+          "inflow": 1100.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 4, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 652.6,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 4, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": 1144.13,
+          "is_pending": false
+        },
+        {
+          "date": "September 5, 2025",
+          "description": "Buc-ee's",
+          "inflow": null,
+          "outflow": 181.78,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 5, 2025",
+          "description": "Sirius XM",
+          "inflow": null,
+          "outflow": 32.07,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 5, 2025",
+          "description": "Payment to Discover Bank",
+          "inflow": null,
+          "outflow": 202.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 5, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 102.92,
+          "ending_daily_balance": 625.36,
+          "is_pending": false
+        },
+        {
+          "date": "September 6, 2025",
+          "description": "Buc-ee's",
+          "inflow": null,
+          "outflow": 18.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 6, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 33.11,
+          "ending_daily_balance": 574.25,
+          "is_pending": false
+        },
+        {
+          "date": "September 7, 2025",
+          "description": "SP AFF TWS USA SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 17.95,
+          "ending_daily_balance": 556.3,
+          "is_pending": false
+        },
+        {
+          "date": "September 8, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 300.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 8, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 24.6,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 8, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 54.76,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 8, 2025",
+          "description": "Kwik Trip",
+          "inflow": null,
+          "outflow": 82.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 8, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 24.6,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 8, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 32.0,
+          "ending_daily_balance": 638.09,
+          "is_pending": false
+        },
+        {
+          "date": "September 9, 2025",
+          "description": "Love's",
+          "inflow": null,
+          "outflow": 93.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 9, 2025",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 9, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 20.01,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 9, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 300.0,
+          "outflow": null,
+          "ending_daily_balance": 725.08,
+          "is_pending": false
+        },
+        {
+          "date": "September 10, 2025",
+          "description": "Deposit",
+          "inflow": 675.0,
+          "outflow": null,
+          "ending_daily_balance": 1400.08,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 652.6,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Sheffield Financial",
+          "inflow": null,
+          "outflow": 419.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 44.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 609.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 1000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Audible",
+          "inflow": null,
+          "outflow": 14.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Fundbox",
+          "inflow": 2333.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 334.54,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 11, 2025",
+          "description": "Deposit",
+          "inflow": 1050.0,
+          "outflow": null,
+          "ending_daily_balance": 1707.99,
+          "is_pending": false
+        },
+        {
+          "date": "September 12, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 57.42,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 12, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 83.43,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 12, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": 1417.14,
+          "is_pending": false
+        },
+        {
+          "date": "September 13, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 30.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 13, 2025",
+          "description": "Xfer To ******2180",
+          "inflow": null,
+          "outflow": 153.28,
+          "ending_daily_balance": 1233.86,
+          "is_pending": false
+        },
+        {
+          "date": "September 14, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 104.71,
+          "ending_daily_balance": 1129.15,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "",
+          "inflow": 575.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 143.37,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Deposit",
+          "inflow": 2375.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Stinker",
+          "inflow": null,
+          "outflow": 22.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "IRS Deposit",
+          "inflow": 4215.63,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Audible",
+          "inflow": null,
+          "outflow": 14.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Audible",
+          "inflow": null,
+          "outflow": 14.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Tax Payment to IRS",
+          "inflow": null,
+          "outflow": 4215.63,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "IRS - USATAXPYMT 220565812482414",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Payment to Synchrony Bank",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "GOOD TO GO STOR CODY CODY WYUS",
+          "inflow": null,
+          "outflow": 50.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Stinker",
+          "inflow": null,
+          "outflow": 50.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Payment to Vectren",
+          "inflow": null,
+          "outflow": 68.77,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 1500.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 90.83,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Conoco Gas Station",
+          "inflow": null,
+          "outflow": 62.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 15, 2025",
+          "description": "Payment to Chase",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": 4681.56,
+          "is_pending": false
+        },
+        {
+          "date": "September 16, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 119.63,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 16, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 358.82,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 16, 2025",
+          "description": "Buc-ee's",
+          "inflow": null,
+          "outflow": 66.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 16, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 129.14,
+          "ending_daily_balance": 4007.47,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2610.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 94.04,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Audible",
+          "inflow": null,
+          "outflow": 14.94,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 1000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 8.35,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 66.73,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Fundbox",
+          "inflow": 601.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Audible",
+          "inflow": null,
+          "outflow": 14.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 145.86,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 17, 2025",
+          "description": "",
+          "inflow": 700.0,
+          "outflow": null,
+          "ending_daily_balance": 1103.57,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 70.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 652.6,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 25.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 22.79,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "Payment to American Express",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "Conoco Gas Station",
+          "inflow": null,
+          "outflow": 35.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "Deposit",
+          "inflow": 3125.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "SP AFF GRUNTST SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 64.72,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 18, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 90.26,
+          "ending_daily_balance": 3217.7,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Deposit",
+          "inflow": 1200.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Xfer To ******7554",
+          "inflow": null,
+          "outflow": 1850.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Maverik",
+          "inflow": null,
+          "outflow": 44.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "7-Eleven",
+          "inflow": null,
+          "outflow": 46.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "7-Eleven",
+          "inflow": null,
+          "outflow": 29.58,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 45.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Tiny Town Cabins",
+          "inflow": null,
+          "outflow": 63.01,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 19, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 33.49,
+          "ending_daily_balance": 2306.16,
+          "is_pending": false
+        },
+        {
+          "date": "September 20, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 169.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 20, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 39.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 20, 2025",
+          "description": "Tractor Supply Company",
+          "inflow": null,
+          "outflow": 10.53,
+          "ending_daily_balance": 2086.45,
+          "is_pending": false
+        },
+        {
+          "date": "September 21, 2025",
+          "description": "ExxonMobil",
+          "inflow": null,
+          "outflow": 81.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 21, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 7.56,
+          "ending_daily_balance": 1997.89,
+          "is_pending": false
+        },
+        {
+          "date": "September 22, 2025",
+          "description": "Payment to Citibank",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 22, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 250.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 22, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 22, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 38.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 22, 2025",
+          "description": "Source One",
+          "inflow": null,
+          "outflow": 475.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 22, 2025",
+          "description": "Iu Credit Union",
+          "inflow": null,
+          "outflow": 500.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 22, 2025",
+          "description": "Chevron",
+          "inflow": null,
+          "outflow": 80.75,
+          "ending_daily_balance": 828.73,
+          "is_pending": false
+        },
+        {
+          "date": "September 23, 2025",
+          "description": "Payment to Verizon Wireless",
+          "inflow": null,
+          "outflow": 400.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 23, 2025",
+          "description": "Best Buy",
+          "inflow": null,
+          "outflow": 175.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 23, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 250.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 23, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 121.42,
+          "ending_daily_balance": 381.85,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "Deposit",
+          "inflow": 2396.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "Intuit Deposit",
+          "inflow": 1125.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "Maverik",
+          "inflow": null,
+          "outflow": 70.51,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 75.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "Intuit Service Charges/Fees",
+          "inflow": null,
+          "outflow": 11.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 1250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 24, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 72.97,
+          "ending_daily_balance": 2423.12,
+          "is_pending": false
+        },
+        {
+          "date": "September 25, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 786.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 25, 2025",
+          "description": "Texaco",
+          "inflow": null,
+          "outflow": 11.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 25, 2025",
+          "description": "Last Stop",
+          "inflow": null,
+          "outflow": 68.75,
+          "ending_daily_balance": 1556.16,
+          "is_pending": false
+        },
+        {
+          "date": "September 26, 2025",
+          "description": "Xfer From ******7570",
+          "inflow": 150.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 26, 2025",
+          "description": "Chevron",
+          "inflow": null,
+          "outflow": 30.0,
+          "ending_daily_balance": 1676.16,
+          "is_pending": false
+        },
+        {
+          "date": "September 27, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 181.25,
+          "ending_daily_balance": 1494.91,
+          "is_pending": false
+        },
+        {
+          "date": "September 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 25.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 28, 2025",
+          "description": "Chevron",
+          "inflow": null,
+          "outflow": 77.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 32.06,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 48.09,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 28, 2025",
+          "description": "SP AFF WINDOWS SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 50.82,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 59.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 28, 2025",
+          "description": "Maverik",
+          "inflow": null,
+          "outflow": 50.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 28, 2025",
+          "description": "Maverik",
+          "inflow": null,
+          "outflow": 60.25,
+          "ending_daily_balance": 1089.96,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "Quickbooks",
+          "inflow": null,
+          "outflow": 243.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "Shell",
+          "inflow": null,
+          "outflow": 72.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "Buc-ee's",
+          "inflow": null,
+          "outflow": 43.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "DOR ITS PAYMENTS - INDORITS XX0403",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "On The Run",
+          "inflow": null,
+          "outflow": 75.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "DOR ITS PAYMENTS - INDORITS XX0403",
+          "inflow": null,
+          "outflow": 813.44,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 327.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "Deposit",
+          "inflow": 1886.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 29, 2025",
+          "description": "Deposit",
+          "inflow": 800.0,
+          "outflow": null,
+          "ending_daily_balance": 2171.86,
+          "is_pending": false
+        },
+        {
+          "date": "September 30, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 24.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 30, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 76.49,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "September 30, 2025",
+          "description": "Pilot Flying J",
+          "inflow": null,
+          "outflow": 70.75,
+          "ending_daily_balance": 2000.12,
+          "is_pending": false
+        },
+        {
+          "date": "October 1, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 150.57,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 1, 2025",
+          "description": "Payment to Duke Energy",
+          "inflow": null,
+          "outflow": 180.23,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 1, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 88.38,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 1, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 175.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 1, 2025",
+          "description": "Fundbox",
+          "inflow": 1346.0,
+          "outflow": null,
+          "ending_daily_balance": 2751.94,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "",
+          "inflow": 325.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "Withdrawal",
+          "inflow": null,
+          "outflow": 800.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 73.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 64.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "Payment to Discover Bank",
+          "inflow": null,
+          "outflow": 243.57,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "Payment to First Insurance",
+          "inflow": null,
+          "outflow": 472.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 786.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 2, 2025",
+          "description": "Payment to Chase",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": 437.22,
+          "is_pending": false
+        },
+        {
+          "date": "October 3, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 172.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 3, 2025",
+          "description": "Deposit",
+          "inflow": 850.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 3, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 57.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 3, 2025",
+          "description": "Gillman Home Center",
+          "inflow": null,
+          "outflow": 6.18,
+          "ending_daily_balance": 1050.81,
+          "is_pending": false
+        },
+        {
+          "date": "October 4, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 6.94,
+          "ending_daily_balance": 1043.87,
+          "is_pending": false
+        },
+        {
+          "date": "October 5, 2025",
+          "description": "Sirius XM",
+          "inflow": null,
+          "outflow": 32.07,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 5, 2025",
+          "description": "Arby's",
+          "inflow": null,
+          "outflow": 21.05,
+          "ending_daily_balance": 990.75,
+          "is_pending": false
+        },
+        {
+          "date": "October 6, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 43.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 6, 2025",
+          "description": "Xfer To ******7421",
+          "inflow": null,
+          "outflow": 819.2,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 6, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 77.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 6, 2025",
+          "description": "Deposit",
+          "inflow": 2675.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 6, 2025",
+          "description": "Applebee's",
+          "inflow": null,
+          "outflow": 104.09,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 6, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 58.7,
+          "ending_daily_balance": 2563.01,
+          "is_pending": false
+        },
+        {
+          "date": "October 7, 2025",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 7, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 302.65,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 7, 2025",
+          "description": "Xfer To ******3665",
+          "inflow": null,
+          "outflow": 1138.68,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 7, 2025",
+          "description": "Deposit",
+          "inflow": 5534.0,
+          "outflow": null,
+          "ending_daily_balance": 6555.68,
+          "is_pending": false
+        },
+        {
+          "date": "October 8, 2025",
+          "description": "Payment to Pekin Insurance",
+          "inflow": null,
+          "outflow": 1982.83,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 8, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 8, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 47.12,
+          "ending_daily_balance": 4325.73,
+          "is_pending": false
+        },
+        {
+          "date": "October 9, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 847.58,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 9, 2025",
+          "description": "Sheffield Financial",
+          "inflow": null,
+          "outflow": 419.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 9, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2335.0,
+          "ending_daily_balance": 723.18,
+          "is_pending": false
+        },
+        {
+          "date": "October 10, 2025",
+          "description": "Centra Credit Union",
+          "inflow": 350.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 10, 2025",
+          "description": "RMT*IV*XXXX*175.00\\DTM*XXX*XX0902\\",
+          "inflow": 175.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 10, 2025",
+          "description": "Xfer To ******2180",
+          "inflow": null,
+          "outflow": 175.0,
+          "ending_daily_balance": 1073.18,
+          "is_pending": false
+        },
+        {
+          "date": "October 11, 2025",
+          "description": "Deposit",
+          "inflow": 325.0,
+          "outflow": null,
+          "ending_daily_balance": 1398.18,
+          "is_pending": false
+        },
+        {
+          "date": "October 12, 2025",
+          "description": "Sport Clips",
+          "inflow": null,
+          "outflow": 74.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 12, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 67.47,
+          "ending_daily_balance": 1256.71,
+          "is_pending": false
+        },
+        {
+          "date": "October 14, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 14, 2025",
+          "description": "Deposit",
+          "inflow": 1025.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 14, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 334.54,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 14, 2025",
+          "description": "Payment to Synchrony Bank",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 14, 2025",
+          "description": "Deposit",
+          "inflow": 2575.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 14, 2025",
+          "description": "Menards",
+          "inflow": null,
+          "outflow": 21.33,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 14, 2025",
+          "description": "THE KROOT CORP - RECEIVABLE",
+          "inflow": 300.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 14, 2025",
+          "description": "Subway",
+          "inflow": null,
+          "outflow": 13.25,
+          "ending_daily_balance": 4537.59,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 54.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 119.63,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Tax Payment to IRS",
+          "inflow": null,
+          "outflow": 3240.84,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 20.31,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Payment to Chase",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "RMT*IV*XXXX*175.00\\DTM*XXX*XX1001\\",
+          "inflow": 175.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "American Express",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Payment to Citibank",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 358.82,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 129.14,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 300.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Town Of Paris",
+          "inflow": null,
+          "outflow": 106.36,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 57.42,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Deposit",
+          "inflow": 1350.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Pressure Washer Payment",
+          "inflow": 1625.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 90.83,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Service Charges/Fees",
+          "inflow": null,
+          "outflow": 40.37,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 143.37,
+          "ending_daily_balance": 2500.51,
+          "is_pending": false
+        },
+        {
+          "date": "October 16, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 847.58,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 16, 2025",
+          "description": "Best Buy",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 16, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 3.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 16, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 79.01,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 16, 2025",
+          "description": "Xfer From ******7570",
+          "inflow": 325.0,
+          "outflow": null,
+          "ending_daily_balance": 1745.46,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Gillman Home Center",
+          "inflow": null,
+          "outflow": 20.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Deposit",
+          "inflow": 300.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Pilot Flying J",
+          "inflow": null,
+          "outflow": 25.28,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Withdrawal",
+          "inflow": null,
+          "outflow": 300.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "",
+          "inflow": 1275.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Fundbox",
+          "inflow": 1504.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 76.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Deposit",
+          "inflow": 225.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Payment to Vectren",
+          "inflow": null,
+          "outflow": 55.72,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Deposit",
+          "inflow": 2300.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Withdrawal",
+          "inflow": null,
+          "outflow": 225.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 17, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 145.86,
+          "ending_daily_balance": 6500.66,
+          "is_pending": false
+        },
+        {
+          "date": "October 18, 2025",
+          "description": "Grunt Style",
+          "inflow": null,
+          "outflow": 64.72,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 18, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 347.72,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 18, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": 5938.22,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 66.95,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "Uplift",
+          "inflow": null,
+          "outflow": 169.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "Texas Roadhouse",
+          "inflow": null,
+          "outflow": 139.84,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "Check # 1046: Completed",
+          "inflow": null,
+          "outflow": 4300.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 90.26,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 52.93,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "Deposit",
+          "inflow": 200.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 20, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 39.99,
+          "ending_daily_balance": 1179.06,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Kroger Fuel Center",
+          "inflow": null,
+          "outflow": 38.91,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 73.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 300.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 45.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Source One",
+          "inflow": null,
+          "outflow": 475.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Deposit",
+          "inflow": 2675.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Iu Credit Union",
+          "inflow": null,
+          "outflow": 450.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Xfer From *****9370",
+          "inflow": 300.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 33.49,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 44.11,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 1850.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 21, 2025",
+          "description": "Source One",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": 814.59,
+          "is_pending": false
+        },
+        {
+          "date": "October 22, 2025",
+          "description": "Xfer From ******7570",
+          "inflow": 15.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 22, 2025",
+          "description": "Deposit",
+          "inflow": 450.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 22, 2025",
+          "description": "Audible",
+          "inflow": null,
+          "outflow": 18.68,
+          "ending_daily_balance": 1260.91,
+          "is_pending": false
+        },
+        {
+          "date": "October 23, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 23, 2025",
+          "description": "Deposit",
+          "inflow": 200.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 23, 2025",
+          "description": "Xfer From ******4172",
+          "inflow": 80.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 23, 2025",
+          "description": "Deposit",
+          "inflow": 29.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 23, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 121.42,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 23, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 847.58,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 23, 2025",
+          "description": "Payment to Verizon Wireless",
+          "inflow": null,
+          "outflow": 401.89,
+          "ending_daily_balance": 170.02,
+          "is_pending": false
+        },
+        {
+          "date": "October 24, 2025",
+          "description": "Deposit",
+          "inflow": 42.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 24, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 30.0,
+          "ending_daily_balance": 182.02,
+          "is_pending": false
+        },
+        {
+          "date": "October 27, 2025",
+          "description": "Martin Orthodontics",
+          "inflow": null,
+          "outflow": 181.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 27, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 30.51,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 27, 2025",
+          "description": "Fundbox",
+          "inflow": 789.0,
+          "outflow": null,
+          "ending_daily_balance": 759.26,
+          "is_pending": false
+        },
+        {
+          "date": "October 28, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 76.49,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 28, 2025",
+          "description": "Deposit",
+          "inflow": 775.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 25.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 28, 2025",
+          "description": "Windows",
+          "inflow": null,
+          "outflow": 50.82,
+          "ending_daily_balance": 1380.97,
+          "is_pending": false
+        },
+        {
+          "date": "October 29, 2025",
+          "description": "Quickbooks",
+          "inflow": null,
+          "outflow": 233.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 29, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 327.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 29, 2025",
+          "description": "",
+          "inflow": 275.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 29, 2025",
+          "description": "DOR ITS PAYMENTS - INDORITS XX4364",
+          "inflow": null,
+          "outflow": 515.4,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 29, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 75.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 29, 2025",
+          "description": "Fundbox",
+          "inflow": 790.0,
+          "outflow": null,
+          "ending_daily_balance": 1295.16,
+          "is_pending": false
+        },
+        {
+          "date": "October 30, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 87.31,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 30, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 916.21,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 30, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 24.5,
+          "ending_daily_balance": 267.14,
+          "is_pending": false
+        },
+        {
+          "date": "October 31, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 75.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 31, 2025",
+          "description": "",
+          "inflow": 125.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "October 31, 2025",
+          "description": "Deposit",
+          "inflow": 400.0,
+          "outflow": null,
+          "ending_daily_balance": 716.89,
+          "is_pending": false
+        },
+        {
+          "date": "November 1, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": 616.89,
+          "is_pending": false
+        },
+        {
+          "date": "November 2, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 205.23,
+          "ending_daily_balance": 411.66,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 88.38,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 36.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Deposit",
+          "inflow": 10926.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Xfer To ******7421",
+          "inflow": null,
+          "outflow": 792.77,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Deposit",
+          "inflow": 1775.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Xfer To ******3665",
+          "inflow": null,
+          "outflow": 1084.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Payment to Discover Bank",
+          "inflow": null,
+          "outflow": 212.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Xfer To ******3665",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 3, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 350.0,
+          "ending_daily_balance": 10299.05,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 31.07,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 172.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 16.03,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 1500.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Payment to First Insurance",
+          "inflow": null,
+          "outflow": 414.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 350.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 16.03,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Payment to Chase",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "Hyundai Motor Company",
+          "inflow": null,
+          "outflow": 793.24,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 4, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 83.72,
+          "ending_daily_balance": 6671.83,
+          "is_pending": false
+        },
+        {
+          "date": "November 5, 2025",
+          "description": "Payment to Pekin Insurance",
+          "inflow": null,
+          "outflow": 990.76,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 5, 2025",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 5, 2025",
+          "description": "Sirius XM",
+          "inflow": null,
+          "outflow": 45.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 5, 2025",
+          "description": "",
+          "inflow": 13550.0,
+          "outflow": null,
+          "ending_daily_balance": 18935.09,
+          "is_pending": false
+        },
+        {
+          "date": "November 6, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2750.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 6, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 6, 2025",
+          "description": "Fundbox",
+          "inflow": 845.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 6, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 987.94,
+          "ending_daily_balance": 14042.15,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 1187.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "",
+          "inflow": 75.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Check # 1047: Completed",
+          "inflow": null,
+          "outflow": 2500.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Transfer to Dick's Sporting Goods",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Intuit Deposit",
+          "inflow": 800.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 48.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 192.85,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 88.18,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Sheffield Financial",
+          "inflow": null,
+          "outflow": 419.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 332.05,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Over Counter Check # 1049",
+          "inflow": null,
+          "outflow": 3000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Deposit",
+          "inflow": 1187.88,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 7, 2025",
+          "description": "Intuit Service Charges/Fees",
+          "inflow": null,
+          "outflow": 8.0,
+          "ending_daily_balance": 8227.6,
+          "is_pending": false
+        },
+        {
+          "date": "November 8, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 320.73,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 8, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 348.94,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 8, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 76.6,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 8, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 175.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 8, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 93.81,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 8, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 9.59,
+          "ending_daily_balance": 7202.93,
+          "is_pending": false
+        },
+        {
+          "date": "November 9, 2025",
+          "description": "CVS Pharmacy",
+          "inflow": null,
+          "outflow": 59.73,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 9, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 205.42,
+          "ending_daily_balance": 6937.78,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 69.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 210.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 64.16,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 24.6,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "THE KROOT CORP - RECEIVABLE",
+          "inflow": 300.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 84.51,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Payment to Progressive Corporation",
+          "inflow": null,
+          "outflow": 651.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 29.91,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 69.02,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 10.74,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 10, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 500.0,
+          "ending_daily_balance": 5524.84,
+          "is_pending": false
+        },
+        {
+          "date": "November 12, 2025",
+          "description": "Check # 1048: Completed",
+          "inflow": null,
+          "outflow": 2000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 12, 2025",
+          "description": "Deposit",
+          "inflow": 1425.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 12, 2025",
+          "description": "Payment to Walmart Plus",
+          "inflow": null,
+          "outflow": 98.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 12, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 334.54,
+          "ending_daily_balance": 4517.3,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 57.42,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 90.83,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Tax Payment to IRS",
+          "inflow": null,
+          "outflow": 3242.79,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 987.94,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Xfer From *****9370",
+          "inflow": 2475.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Payment to Chase",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Xfer From ******7570",
+          "inflow": 225.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Tax Payment to IRS",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 143.37,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Xfer From *****9370",
+          "inflow": 125.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 275.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 31.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Xfer From *****9370",
+          "inflow": 125.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 13, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 115.05,
+          "ending_daily_balance": 294.44,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 119.63,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "CP-Paid",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 78.61,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Xfer From ******7570",
+          "inflow": 65.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Check # 1050: Completed",
+          "inflow": null,
+          "outflow": 255.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Payment to Synchrony Bank",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Xfer From *****9370",
+          "inflow": 50.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "",
+          "inflow": 600.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Centra Credit Union",
+          "inflow": 150.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 54.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 14, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 358.82,
+          "ending_daily_balance": 113.39,
+          "is_pending": false
+        },
+        {
+          "date": "November 15, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 150.0,
+          "outflow": null,
+          "ending_daily_balance": 263.39,
+          "is_pending": false
+        },
+        {
+          "date": "November 17, 2025",
+          "description": "Payment to Vectren",
+          "inflow": null,
+          "outflow": 72.57,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 17, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 17, 2025",
+          "description": "Fundbox",
+          "inflow": 903.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 17, 2025",
+          "description": "Xfer To ******2180",
+          "inflow": null,
+          "outflow": 175.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 17, 2025",
+          "description": "Deposit",
+          "inflow": 2825.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 17, 2025",
+          "description": "Xfer From ******7554",
+          "inflow": 5350.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 17, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 129.14,
+          "ending_daily_balance": 6964.68,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "TF Group Inc/Taycor financial",
+          "inflow": null,
+          "outflow": 5639.15,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 121.89,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 145.86,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "Payment to American Express",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "Domestic x3728",
+          "inflow": null,
+          "outflow": 15.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "SP AFF GRUNTST SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 64.72,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 66.95,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "",
+          "inflow": 825.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 90.26,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 18, 2025",
+          "description": "Payment to Citibank",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": 1295.85,
+          "is_pending": false
+        },
+        {
+          "date": "November 19, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 19, 2025",
+          "description": "Intuit Deposit",
+          "inflow": 1350.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 19, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 45.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 19, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 176.85,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 19, 2025",
+          "description": "Intuit Service Charges/Fees",
+          "inflow": null,
+          "outflow": 13.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 19, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 33.49,
+          "ending_daily_balance": 2226.55,
+          "is_pending": false
+        },
+        {
+          "date": "November 20, 2025",
+          "description": "",
+          "inflow": 325.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 20, 2025",
+          "description": "Source One",
+          "inflow": null,
+          "outflow": 475.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 20, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 39.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 20, 2025",
+          "description": "Uplift",
+          "inflow": null,
+          "outflow": 169.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 20, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 1026.54,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 20, 2025",
+          "description": "Deposit",
+          "inflow": 600.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 20, 2025",
+          "description": "Iu Credit Union",
+          "inflow": null,
+          "outflow": 500.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 20, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": 790.83,
+          "is_pending": false
+        },
+        {
+          "date": "November 21, 2025",
+          "description": "Xfer From ******7570",
+          "inflow": 47.0,
+          "outflow": null,
+          "ending_daily_balance": 837.83,
+          "is_pending": false
+        },
+        {
+          "date": "November 22, 2025",
+          "description": "Deposit",
+          "inflow": 225.0,
+          "outflow": null,
+          "ending_daily_balance": 1062.83,
+          "is_pending": false
+        },
+        {
+          "date": "November 24, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 121.42,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 24, 2025",
+          "description": "Payment to Verizon Wireless",
+          "inflow": null,
+          "outflow": 401.89,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 24, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 83.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 24, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 81.0,
+          "ending_daily_balance": 374.77,
+          "is_pending": false
+        },
+        {
+          "date": "November 25, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 22.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 25, 2025",
+          "description": "Fundbox",
+          "inflow": 1859.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 25, 2025",
+          "description": "Riverlink",
+          "inflow": null,
+          "outflow": 20.0,
+          "ending_daily_balance": 2191.52,
+          "is_pending": false
+        },
+        {
+          "date": "November 26, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 181.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 26, 2025",
+          "description": "Centra Credit Union",
+          "inflow": 3000.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 26, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 1575.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 26, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 20.0,
+          "ending_daily_balance": 3415.27,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 25.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Windows",
+          "inflow": null,
+          "outflow": 50.82,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Xfer To ******3665",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 1067.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Xfer To ******7421",
+          "inflow": null,
+          "outflow": 800.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 24.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Xfer To ******3665",
+          "inflow": null,
+          "outflow": 1084.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 53.36,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 28, 2025",
+          "description": "Deposit",
+          "inflow": 13525.0,
+          "outflow": null,
+          "ending_daily_balance": 13583.4,
+          "is_pending": false
+        },
+        {
+          "date": "November 29, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 18.45,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 29, 2025",
+          "description": "Quickbooks",
+          "inflow": null,
+          "outflow": 233.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 29, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 350.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 29, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 29, 2025",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 311.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 29, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 211.85,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 29, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 92.55,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 29, 2025",
+          "description": "MyPillow",
+          "inflow": null,
+          "outflow": 176.38,
+          "ending_daily_balance": 11989.2,
+          "is_pending": false
+        },
+        {
+          "date": "November 30, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 327.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 30, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 21.07,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "November 30, 2025",
+          "description": "CVS Pharmacy",
+          "inflow": null,
+          "outflow": 86.54,
+          "ending_daily_balance": 11554.18,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Sam's Club",
+          "inflow": null,
+          "outflow": 675.49,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Best Buy",
+          "inflow": null,
+          "outflow": 350.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 27.33,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 52.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Payment to American Express",
+          "inflow": null,
+          "outflow": 500.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 368.54,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "SP AFF REACH I SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 205.23,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 76.49,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 180.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 26.29,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Sam's Club",
+          "inflow": null,
+          "outflow": 6.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 78.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 1, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 24.51,
+          "ending_daily_balance": 8982.57,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 31.07,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 26.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "Deposit",
+          "inflow": 8065.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "Payment to Discover Bank",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "Payment to American Express",
+          "inflow": null,
+          "outflow": 350.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 88.38,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "Payment to Pekin Insurance",
+          "inflow": null,
+          "outflow": 990.76,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "Payment to First Insurance",
+          "inflow": null,
+          "outflow": 414.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 2, 2025",
+          "description": "DOR ITS PAYMENTS - INDORITS XX3723",
+          "inflow": null,
+          "outflow": 603.86,
+          "ending_daily_balance": 14292.37,
+          "is_pending": false
+        },
+        {
+          "date": "December 3, 2025",
+          "description": "Payment to American Express",
+          "inflow": null,
+          "outflow": 350.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 3, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 3, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2105.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 3, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 172.25,
+          "ending_daily_balance": 11515.12,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "Payment to Chase",
+          "inflow": null,
+          "outflow": 500.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "Sam's Club",
+          "inflow": null,
+          "outflow": 201.18,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "JayC Food Stores",
+          "inflow": null,
+          "outflow": 213.9,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "Gillman Home Center",
+          "inflow": null,
+          "outflow": 59.45,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 222.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 1152.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "Deposit",
+          "inflow": 1589.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 180.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 4, 2025",
+          "description": "McDonald's",
+          "inflow": null,
+          "outflow": 16.11,
+          "ending_daily_balance": 10558.41,
+          "is_pending": false
+        },
+        {
+          "date": "December 5, 2025",
+          "description": "Payment to Sheffield Financial",
+          "inflow": null,
+          "outflow": 419.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 5, 2025",
+          "description": "The UPS Store",
+          "inflow": null,
+          "outflow": 10.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 5, 2025",
+          "description": "JayC Food Stores",
+          "inflow": null,
+          "outflow": 87.09,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 5, 2025",
+          "description": "Taco Bell",
+          "inflow": null,
+          "outflow": 11.55,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 5, 2025",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 253.67,
+          "ending_daily_balance": 9776.13,
+          "is_pending": false
+        },
+        {
+          "date": "December 6, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 1518.07,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 6, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 6, 2025",
+          "description": "Sirius XM",
+          "inflow": null,
+          "outflow": 45.98,
+          "ending_daily_balance": 8012.08,
+          "is_pending": false
+        },
+        {
+          "date": "December 7, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 50.78,
+          "ending_daily_balance": 7961.3,
+          "is_pending": false
+        },
+        {
+          "date": "December 8, 2025",
+          "description": "Payment to American Express",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 8, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 54.84,
+          "ending_daily_balance": 7656.46,
+          "is_pending": false
+        },
+        {
+          "date": "December 10, 2025",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 9.07,
+          "ending_daily_balance": 7647.39,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 2217.34,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "Deposit",
+          "inflow": 5747.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "JayC Food Stores",
+          "inflow": null,
+          "outflow": 11.76,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 1152.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 334.52,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 62.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 11, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 23.0,
+          "ending_daily_balance": 7592.61,
+          "is_pending": false
+        },
+        {
+          "date": "December 12, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 63.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 12, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 57.42,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 12, 2025",
+          "description": "Withdrawal",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 12, 2025",
+          "description": "Buc-ee's",
+          "inflow": null,
+          "outflow": 129.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 12, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 27.8,
+          "ending_daily_balance": 7064.23,
+          "is_pending": false
+        },
+        {
+          "date": "December 13, 2025",
+          "description": "Under Armour",
+          "inflow": null,
+          "outflow": 87.38,
+          "ending_daily_balance": 6976.85,
+          "is_pending": false
+        },
+        {
+          "date": "December 14, 2025",
+          "description": "Grunt Style",
+          "inflow": null,
+          "outflow": 65.82,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 14, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 13.0,
+          "ending_daily_balance": 6898.03,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Payment to Vectren",
+          "inflow": null,
+          "outflow": 87.24,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 375.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 153.65,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 578.61,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Buc-ee's",
+          "inflow": null,
+          "outflow": 71.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Buc-ee's",
+          "inflow": null,
+          "outflow": 8.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 120.9,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 215.63,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 143.37,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Payment to Synchrony Bank",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 15, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 90.83,
+          "ending_daily_balance": 4802.55,
+          "is_pending": false
+        },
+        {
+          "date": "December 16, 2025",
+          "description": "Payment to Citibank",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 16, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 119.63,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 16, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 4.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 16, 2025",
+          "description": "Tax Payment to IRS",
+          "inflow": null,
+          "outflow": 2749.32,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 16, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 129.14,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 16, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 54.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 16, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 57.38,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 16, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 358.82,
+          "ending_daily_balance": 1178.28,
+          "is_pending": false
+        },
+        {
+          "date": "December 17, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 121.89,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 17, 2025",
+          "description": "Deposit",
+          "inflow": 1400.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 17, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 88.45,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 17, 2025",
+          "description": "Hobby Lobby",
+          "inflow": null,
+          "outflow": 96.34,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 17, 2025",
+          "description": "Withdrawal",
+          "inflow": null,
+          "outflow": 400.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 17, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 145.86,
+          "ending_daily_balance": 1725.74,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 697.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Audible",
+          "inflow": null,
+          "outflow": 16.73,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Xfer To ******2180",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 1900.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "SP AFF GRUNTST SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 64.72,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 73.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 66.95,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Meijer",
+          "inflow": null,
+          "outflow": 61.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 90.26,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 18, 2025",
+          "description": "Fundbox",
+          "inflow": 3123.0,
+          "outflow": null,
+          "ending_daily_balance": 1378.14,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 175.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 45.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Dollar Tree",
+          "inflow": null,
+          "outflow": 35.85,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Macy's",
+          "inflow": null,
+          "outflow": 77.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 78.89,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 550.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Deposit",
+          "inflow": 11430.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 19, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 33.49,
+          "ending_daily_balance": 11811.48,
+          "is_pending": false
+        },
+        {
+          "date": "December 20, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 365.86,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 20, 2025",
+          "description": "Conner Prairie",
+          "inflow": null,
+          "outflow": 260.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 20, 2025",
+          "description": "Uplift",
+          "inflow": null,
+          "outflow": 169.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 20, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 39.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 20, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 154.79,
+          "ending_daily_balance": 10821.65,
+          "is_pending": false
+        },
+        {
+          "date": "December 21, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 26.74,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 21, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 96.58,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 21, 2025",
+          "description": "7 Brew",
+          "inflow": null,
+          "outflow": 40.11,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 21, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 53.09,
+          "ending_daily_balance": 10605.13,
+          "is_pending": false
+        },
+        {
+          "date": "December 22, 2025",
+          "description": "Iu Credit Union",
+          "inflow": null,
+          "outflow": 500.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 22, 2025",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 750.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 22, 2025",
+          "description": "Source One",
+          "inflow": null,
+          "outflow": 475.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 22, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 36.69,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 22, 2025",
+          "description": "Payment to Chase",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": 8693.44,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 20.53,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Payment to Verizon Wireless",
+          "inflow": null,
+          "outflow": 381.62,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2025.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Deposit",
+          "inflow": 7525.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 121.42,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 50.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 23, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 31.08,
+          "ending_daily_balance": 13588.79,
+          "is_pending": false
+        },
+        {
+          "date": "December 24, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 30.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 24, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 34.22,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 24, 2025",
+          "description": "Waffle House",
+          "inflow": null,
+          "outflow": 31.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 24, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 53.04,
+          "ending_daily_balance": 13440.03,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 21.34,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 75.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 78.08,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 64.79,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 181.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Check # 1053: Completed",
+          "inflow": null,
+          "outflow": 3250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Payment to American Express",
+          "inflow": null,
+          "outflow": 325.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 41.68,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 4.27,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 10.69,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 26, 2025",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 697.19,
+          "ending_daily_balance": 8689.99,
+          "is_pending": false
+        },
+        {
+          "date": "December 27, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 51.35,
+          "ending_daily_balance": 8638.64,
+          "is_pending": false
+        },
+        {
+          "date": "December 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 25.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 28, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 299.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 28, 2025",
+          "description": "Windows",
+          "inflow": null,
+          "outflow": 50.82,
+          "ending_daily_balance": 8262.84,
+          "is_pending": false
+        },
+        {
+          "date": "December 29, 2025",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2117.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 29, 2025",
+          "description": "Quickbooks",
+          "inflow": null,
+          "outflow": 233.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 29, 2025",
+          "description": "",
+          "inflow": null,
+          "outflow": 327.41,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 29, 2025",
+          "description": "Payment to American Express",
+          "inflow": null,
+          "outflow": 325.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 29, 2025",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 214.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 29, 2025",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 48.03,
+          "ending_daily_balance": 4998.4,
+          "is_pending": false
+        },
+        {
+          "date": "December 30, 2025",
+          "description": "DOR ITS PAYMENTS - INDORITS XX7489",
+          "inflow": null,
+          "outflow": 520.96,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 30, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 76.49,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 30, 2025",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 26.29,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 30, 2025",
+          "description": "Payment to Duke Energy",
+          "inflow": null,
+          "outflow": 86.63,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 30, 2025",
+          "description": "Payment to Discover Bank",
+          "inflow": null,
+          "outflow": 225.0,
+          "ending_daily_balance": 4063.03,
+          "is_pending": false
+        },
+        {
+          "date": "December 31, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 31, 2025",
+          "description": "Macy's",
+          "inflow": 61.92,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 31, 2025",
+          "description": "Check # 1052: Completed",
+          "inflow": null,
+          "outflow": 3000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "December 31, 2025",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 500.0,
+          "ending_daily_balance": 474.95,
+          "is_pending": false
+        },
+        {
+          "date": "January 1, 2026",
+          "description": "SP AFF REACH I SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 205.23,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 1, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 1, 2026",
+          "description": "Holiday Inn",
+          "inflow": null,
+          "outflow": 379.62,
+          "ending_daily_balance": 138.9,
+          "is_pending": false
+        },
+        {
+          "date": "January 2, 2026",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 839.87,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 2, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 88.34,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 2, 2026",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 54.75,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 2, 2026",
+          "description": "Withdrawal",
+          "inflow": null,
+          "outflow": 26.74,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 2, 2026",
+          "description": "",
+          "inflow": 2085.0,
+          "outflow": null,
+          "ending_daily_balance": 936.4,
+          "is_pending": false
+        },
+        {
+          "date": "January 3, 2026",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 5.27,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 3, 2026",
+          "description": "Amazon",
+          "inflow": null,
+          "outflow": 2.09,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 3, 2026",
+          "description": "Kroger Fuel Center",
+          "inflow": null,
+          "outflow": 50.75,
+          "ending_daily_balance": 878.29,
+          "is_pending": false
+        },
+        {
+          "date": "January 5, 2026",
+          "description": "",
+          "inflow": 2255.9,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 5, 2026",
+          "description": "Payment to First Insurance",
+          "inflow": null,
+          "outflow": 414.88,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 5, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 172.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 5, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 2255.9,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 5, 2026",
+          "description": "Sirius XM",
+          "inflow": null,
+          "outflow": 45.98,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 5, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 29.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 5, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 31.07,
+          "ending_daily_balance": 185.11,
+          "is_pending": false
+        },
+        {
+          "date": "January 6, 2026",
+          "description": "Deposit",
+          "inflow": 2675.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 6, 2026",
+          "description": "Xfer To ******7421",
+          "inflow": null,
+          "outflow": 750.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 6, 2026",
+          "description": "Payment to Affirm.com",
+          "inflow": null,
+          "outflow": 54.84,
+          "ending_daily_balance": 2055.27,
+          "is_pending": false
+        },
+        {
+          "date": "January 7, 2026",
+          "description": "Sheffield Financial",
+          "inflow": null,
+          "outflow": 419.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 7, 2026",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 34.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 7, 2026",
+          "description": "Deposit",
+          "inflow": 3500.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 7, 2026",
+          "description": "Lowe's",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": 5000.31,
+          "is_pending": false
+        },
+        {
+          "date": "January 8, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 2265.9,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 8, 2026",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 726.32,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 8, 2026",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 619.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 8, 2026",
+          "description": "Blue Ridge Bank Deposit",
+          "inflow": 1830.2,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 8, 2026",
+          "description": "RMT*IV*XXXX*175.00\\DTM*XXX*XX1104\\",
+          "inflow": 175.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 8, 2026",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 1500.0,
+          "ending_daily_balance": 1894.29,
+          "is_pending": false
+        },
+        {
+          "date": "January 9, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": 1744.29,
+          "is_pending": false
+        },
+        {
+          "date": "January 11, 2026",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 73.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 11, 2026",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 0.94,
+          "ending_daily_balance": 1670.16,
+          "is_pending": false
+        },
+        {
+          "date": "January 12, 2026",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 58.92,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 12, 2026",
+          "description": "",
+          "inflow": 9263.0,
+          "outflow": null,
+          "ending_daily_balance": 10874.24,
+          "is_pending": false
+        },
+        {
+          "date": "January 13, 2026",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 50.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 13, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 90.83,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 13, 2026",
+          "description": "CVS Pharmacy",
+          "inflow": null,
+          "outflow": 23.73,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 13, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 57.42,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 13, 2026",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 350.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 13, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 13, 2026",
+          "description": "Payment to Pekin Insurance",
+          "inflow": null,
+          "outflow": 990.76,
+          "ending_daily_balance": 9061.5,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Payment to Synchrony Bank",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 119.63,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 154.1,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Best Buy",
+          "inflow": null,
+          "outflow": 175.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Tax Payment to IRS",
+          "inflow": null,
+          "outflow": 168.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 358.82,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Payment to Citibank",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 218.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Tax Payment to IRS",
+          "inflow": null,
+          "outflow": 2574.36,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 14, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 54.99,
+          "ending_daily_balance": 4737.63,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 263.39,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Payment to Capital One",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2118.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 75.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 57.38,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 55.32,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 726.32,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 134.97,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "AFIC 2777 EFT - AFC EMPAFBCXX1799",
+          "inflow": null,
+          "outflow": 80.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 129.14,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 15, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": 573.11,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 4.39,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "",
+          "inflow": 1025.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Xfer To ******2180",
+          "inflow": null,
+          "outflow": 150.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 11.57,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Centra Credit Union",
+          "inflow": 4125.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Payment to Vectren",
+          "inflow": null,
+          "outflow": 161.52,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "CVS Pharmacy",
+          "inflow": null,
+          "outflow": 22.17,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Deposit",
+          "inflow": 875.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "Gillman Home Center",
+          "inflow": null,
+          "outflow": 11.76,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 16, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 158.0,
+          "ending_daily_balance": 5953.7,
+          "is_pending": false
+        },
+        {
+          "date": "January 17, 2026",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 43.96,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 17, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 200.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 17, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": 5584.74,
+          "is_pending": false
+        },
+        {
+          "date": "January 18, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 3.2,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 18, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 75.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 18, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 18, 2026",
+          "description": "SP AFF GRUNTST SAN FRANCISCO CAUS",
+          "inflow": null,
+          "outflow": 64.72,
+          "ending_daily_balance": 5316.82,
+          "is_pending": false
+        },
+        {
+          "date": "January 19, 2026",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 1000.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 19, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 884.29,
+          "ending_daily_balance": 3432.53,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "Iu Credit Union",
+          "inflow": null,
+          "outflow": 500.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 56.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 0.44,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 145.86,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 121.89,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "Uplift",
+          "inflow": null,
+          "outflow": 169.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 39.99,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 309.23,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 20, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 100.0,
+          "ending_daily_balance": 1864.93,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Source One",
+          "inflow": null,
+          "outflow": 475.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 33.49,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 31.08,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 78.89,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Xfer To ******7570",
+          "inflow": null,
+          "outflow": 2118.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "",
+          "inflow": 875.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Deposit",
+          "inflow": 3825.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Walmart",
+          "inflow": null,
+          "outflow": 50.36,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 45.46,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Intuit Financing",
+          "inflow": null,
+          "outflow": 66.95,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": 3415.7,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 52.06,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "Fundbox",
+          "inflow": null,
+          "outflow": 726.32,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "Check # 1054: Completed",
+          "inflow": null,
+          "outflow": 421.5,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "Xfer To ******8704",
+          "inflow": null,
+          "outflow": 125.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "Xfer To *****9370",
+          "inflow": null,
+          "outflow": 250.0,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "RMT*IV*XXXX*200.00\\DTM*XXX*XX0105\\",
+          "inflow": 200.0,
+          "outflow": null,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "Giant Eagle",
+          "inflow": null,
+          "outflow": 33.14,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "",
+          "inflow": 440.0,
+          "outflow": null,
+          "ending_daily_balance": 2322.68,
+          "is_pending": false
+        },
+        {
+          "date": "January 21, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 23.25,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "Card Hold; Walmart.com Bentonville ARUS",
+          "inflow": null,
+          "outflow": 16.76,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 22, 2026",
+          "description": "",
+          "inflow": null,
+          "outflow": 99.96,
+          "ending_daily_balance": null,
+          "is_pending": false
+        },
+        {
+          "date": "January 23, 2026",
+          "description": "VERIZON WIRELESS - PAYMENTS",
+          "inflow": null,
+          "outflow": 468.19,
+          "ending_daily_balance": null,
+          "is_pending": false
+        }
+      ],
+      "transaction_count": 747
+    }
+  ],
+  "total_balance": 4443.01
+}

@@ -1,0 +1,2115 @@
+{
+  "businessCategoryKeywords": {
+    "8-fig": ["8FIG INC", "UNCAPPED", "Currency Cloud", "8fig Growth"],
+    "Bluevine": [
+      "CELTIC BANK BV_LOAN",
+      "BV_LOAN",
+      "Wire Transfer Dep WIRE IN CELTIC BANK",
+      "Bluevine Capital",
+      "DESCR:BV_LOAN SEC:CCD",
+      "BlueVine Loan Proceeds",
+      "BlueVine Loan"
+    ],
+    "BriteCap": ["BriteCap", "forwardline"],
+    "Byzfunder": [
+      "BYZFUNDER",
+      "JPMORGAN CHASE BAN /ORG=BYZFUNDER",
+      "/ORG=BYZFUNDER",
+      "ORG=BYZFUNDER",
+      "Tandem Advance",
+      "B/O: BYZFUNDER NY LLC",
+      "B/O: BYZFUNDER",
+      "BOOK TRANSFER CREDIT B/O: BYZFUNDER",
+      "FED WIRE TRANSFER CREDIT 2506137WIRE-IN",
+      "DOMESTIC INCOMING WIRE 254SK1310Q6N2FCT",
+      "Byzfunder",
+      "INCOMING WIRE*72670277",
+      "INCOMING WIRE*76078129",
+      "DOMESTIC INCOMING WIRE 2558K1935JC1546T",
+      "NAME:ByzFlex",
+      "ByzFlex",
+      "Deposit - Incoming Wire XX9716"
+    ],
+    "Capchase": [],
+    "CFG Merchant Solutions": [
+      "CFGMS - GGG",
+      "CFGMS",
+      "CFG MERCHANT SOL",
+      "CFG MERCHANT",
+      "CREDITCFG MERCHANT SOLUTIONS",
+      "ACHPAYMENTCFG",
+      "Wire Transfer Deposit Wt76 Ref039647 Jpmchase Nyc 250501b031vg 05/01 Card 0000",
+      "Wire Transfer Deposit Wt76 Ref069332 Jpmchase Nyc 250228b0946g 02/28 Card 0000",
+      "Wire Transfer Deposit 08/01 Card 0000 Wt76 Ref043813 Jpmchase Nyc 240801b03d5q",
+      "DOMESTIC INCOMING WIRE 2488L023485H7D35",
+      "DOMESTIC INCOMING WIRE 252QI0435IPX50WO",
+      "DOMESTIC INCOMING WIRE 2559K2321OI117QM",
+      "DOMESTIC INCOMING WIRE 257IK2149FAZ4LPA",
+      "DOMESTIC INCOMING WIRE 252RM1108PXV84F0",
+      "CFG MERCHANT SOLUTIONS",
+      "CFG MERCHANT SOLUTIONS LLC",
+      "WIRE REF# XXXXXXXXXXXX7990 INCOMING WIRE TRANSFER",
+      "Deposit - Incoming Wire XX4201"
+    ],
+    "Clearco": [],
+    "Credit Ninja": ["CREDITNINJA PMT PAYMENT", "CREDITNINJA SERV ADVANCE"],
+    "Delta Bridge Funding": [
+      "Delta Bridge Fun",
+      "ORIG:DELTA BRIDGE FUNDING LLC"
+    ],
+    "Everest Business Funding": [
+      "EBF Holdings",
+      "EBF HOLDINGS, LLC",
+      "EBF / HOLDINGS LLC",
+      "EBF DEBIT",
+      "EBF HOL",
+      "FED WIRE TRANSFER CREDIT 2502074WIRE-IN",
+      "WIRE REF# 20250703-00026316 INCOMING WIRE TRANSFER",
+      "WIRE REF# 20250609-00021393 INCOMING WIRE TRANSFER",
+      "WIRE REF# 20250806-00015450 INCOMING WIRE TRANSFER",
+      "Wire Transfer Deposit Wt76 Ref012738 Wells Sf 250521b01ft1 05/21 Card 0000",
+      "BNF:EBF HOLDING,",
+      "Wire Transfer Deposit Wt76 Ref014944 Wells Sf 250709b01y90 07/09 Card 0000",
+      "EBFH REFUNEBFHOLDINGCREDIT",
+      "EBFHOLDINGCREDIT",
+      "8006192943EBF",
+      "EBF HOLDINGS,",
+      "WIRE REF# 20250805-00008143 INCOMING WIRE TRANSFER",
+      "WIRE REF# XXXXXXXXXXXX9621 INCOMING WIRE TRANSFER",
+      "DOMESTIC INCOMING WIRE 259UJ00072PJ4QVO",
+      "ire Transfer Deposit 02/14 Card 0000 Wt76 Ref005346 Wells Sf 250214b00lwv",
+      "CreditEBF HOLDINGS,",
+      "EVEREST BUSINESS FUNDING",
+      "Credit EBF HOLDINGS,"
+    ],
+    "Expansion Capital Group": [
+      "ACH EXPANSIONCAPITAL",
+      "EXPANSION CAPITA FUNDING",
+      "EXPANSIONCAPITAL",
+      "EXPANSIONCAP",
+      "EXPANSION CAPITAL GROUP",
+      "EXPANSION CAPITAFUNDING",
+      "EXPANSIONCAPITALPMTS",
+      "WIRE WIRE FROM EXPANSION",
+      "EXPANSION CAPITAPMTS",
+      "EXPANSIONCAPITA",
+      "091408446;EXPANSION CAPITAL GR",
+      "EXPANSION CAPITAL GR",
+      "EXPANSION CAPITA",
+      "EXPANSION CAPITA FEE",
+      "Expansion Capit Funding",
+      "Expansion Capita",
+      "ExpansionCapital",
+      "ExpansionCap",
+      "EXPANSION CAPITAL",
+      "EXPANSION FF",
+      "EXPANSION CAPITACCD"
+    ],
+    "Flash funding": [
+      "FLASH FUNDING SERVICES",
+      "FLASHFUNDINGSERVICES",
+      "FLASHFUNDINGSVC",
+      "FLASHFUNDINGSVCS",
+      "xxxxxx7337",
+      "DOMESTIC INCOMING WIRE 24A2F1543OS56WHE",
+      "8002017337FLASHFUNDINGSVC",
+      "8002017337"
+    ],
+    "Forward Financing": [
+      "FF FORWARD FINANCIN GROUP CORP",
+      "FORWARDFINANCE3 PAYMENTS",
+      "FORWARDFINANCING",
+      "FORWARD FINANCINFF",
+      "FORWARD FINANCIN",
+      "FF SPE II",
+      "FORWARDFINANCING8882449099",
+      "FORWARD FINANCINRPP2952677FF",
+      "NAME:FORWARDFINANCE4",
+      "Forward Financing",
+      "FORWARDFINANCINGACH",
+      "FF FORWARD FINANCINCCD",
+      "Wire Transfer Deposit Wt01 Ref001072 Axos Bank San Dieg 250506b01r6f 05/06 Card 0000",
+      "WIRE REF# 20250609-00023380 INCOMING WIRE TRANSFER",
+      "FORWARDFINANCE3ACH239693",
+      "DEPOSIT / Incoming Wire Transfer-1560112652",
+      "FORWARDFINANCE3",
+      "WIRE REF# 20250722-00010686 INCOMING WIRE TRANSFER",
+      "FORWARDFINANCE4|FORWARDFINANC...",
+      "Wire Transfer Deposit 03/07 Card 0000 Wt01 Ref000274 Axos Bank San Dieg 250307b00xwk",
+      "FORWARD FIN",
+      "FORWARD FINANC",
+      "FORWARDFINUSA6",
+      "FORWARD / FINANCIN",
+      "FINANCIN CORPORATE ACH FORWARD"
+    ],
+    "Fundbox": [
+      "ORIG CO NAME:Fundbox INC.",
+      "Orig CO Name:Fundbox Inc.",
+      "Fundbox",
+      "Fundbox INC."
+    ],
+    "FundingMetrics": [
+      "FDM001",
+      "FUNDING METRICS",
+      "DOMESTIC INCOMING WIRE 252EG192158Q2GM7",
+      "Incoming Wire Incoming Wire Member # 164420",
+      "Wire Transfer Deposit Wt01 Ref000185 Lake City Warsaw 250523b0213t 05/23 Card 0000",
+      "DOMESTIC INCOMING WIRE 244NJ4143RAW1SL0",
+      "WIRE TRANSFER IN 239FF5909A4D2WKG",
+      "DEPOSIT / Incoming Wire Transfer-1543314634",
+      "DEPOSIT / Incoming Wire Transfer-1450110794",
+      "DOMESTIC INCOMING WIRE 2544J42433IF71HH",
+      "DOMESTIC INCOMING WIRE 245DF17068G32ZUW",
+      "DOMESTIC INCOMING WIRE 241OK4404AXL7GPO",
+      "Wire Transfer Deposit Wt01 Ref000063 Lake City Warsaw 250214b0104g 02/14",
+      "WIRE TRANSFER CREDIT|20252240...",
+      "FUNDING MET,RICS",
+      "BANK FUNDING MET,RICS",
+      "FUNDING METRIC",
+      "FUNDING METRICS",
+      "WIRE TRANSFER CREDIT FUNDING METRICS"
+    ],
+    "Giggle Finance": [
+      "Giggle Finance",
+      "GIGGLE FINAN",
+      "4694895343GIGGLE FINANCE",
+      "ACH DEBIT GIGGLE xxxxxx5343",
+      "GIGGLE xxxxxx5343",
+      "4694895343",
+      "xxxxxx5343",
+      "ACH DEBIT GIGGLE",
+      "INTERBANKGIGGLE"
+    ],
+    "Greenbox Capital": [
+      "GREENBOX CAPITAL DES:PREAUTHPAY",
+      "WIRE TYPE ORIG:GREENBOX CAPITAL",
+      "GREENBOX CAPITAL",
+      "WIRE TRANSFER FROM MERCHANT CAPITAL GROUP",
+      "MERCHANT CAPITAL GROUP"
+    ],
+    "Lendr": [
+      "Lendr/TRN",
+      "LendrFund",
+      "LendrFund7282",
+      "Lendr",
+      "LENDR",
+      "Lendr VenturesCR Lendr",
+      "Lendr VenturesCR",
+      "LENDR VENTURES"
+    ],
+    "Lighter Capital": [],
+    "McKenzie Capital": [
+      "McKenzie Capital CO",
+      "McKenzie Capital",
+      "McKenzie Capital - Advance",
+      "McKenzie Capital - Payment"
+    ],
+    "Parkside Funding Group": [
+      "ORIG CO NAME PARKSIDE FUND",
+      "FEDWIRE CREDIT PARKSIDE FUNDING GROUP LLC",
+      "PARKSIDE FUND",
+      "PARKSIDE FUNDING GROUP",
+      "PARKSIDE FUND WEEKLY",
+      "PARKSIDE FUND DAILY",
+      "BANKUNITED /ORG=PARKSIDE FUNDING GROUP LLC",
+      "/ORG=PARKSIDE FUNDING GROUP LLC",
+      "/ORG=PARKSIDE FUNDING GROUP",
+      "BANKUNITED /ORG=PARKSIDE FUNDING GROUP"
+    ],
+    "Paypal Working Capital": ["PayPal DES:DEBIT", "ORIG:1/WebBank/PayPal"],
+    "Small Business Funding": ["Smalll Business funding"],
+    "Snap Advances": ["ACH SNAP ADVANCES", "SNAP ADVANCES LLC SRF"],
+    "SoFi": [],
+    "The Fundworks": [
+      "The Fundworks",
+      "THE FUNDWORKS",
+      "WIRE REF# 20250618-00033284 INCOMING WIRE TRANSFER"
+    ],
+    "Union Funding Source": [
+      "Unionfundingsour",
+      "Union Fund Funding",
+      "UNION FUNDING",
+      "ORIG:UNION FUNDING",
+      "OPTIMUMBANK/067015096 B/O: UNION FUNDING"
+    ],
+    "Uplyft Capital": [],
+    "VADER MOUNTAIN CAPITAL": [
+      "VADER SERVICING, LLC",
+      "VADER ORIG",
+      "VADER SERVICING VADER",
+      "Vader Servicing LI",
+      "VADER",
+      "DOMESTIC INCOMING WIRE PA2QE10316250IUF",
+      "DOMESTIC INCOMING WIRE PA6QG07208WP2BI1",
+      "WIRE TRANSFER REF NUMBER = 015265 0",
+      "DOMESTIC INCOMING WIRE PA8RE2946JF915DT",
+      "VADER SERVICING,",
+      "Wire Transfer Deposit Wt01 Ref014162 Wells Sf 251027b01xnv",
+      "CREDIT VADER SERVICING,"
+    ],
+    "Torro": [],
+    "Rok Financial": [],
+    "Fenix Capital Funding": ["FENIX CAPITAL", "FENIX / CAPITAL"],
+    "Paz Funding Source": [],
+    "National Funding": [
+      "NFAS2",
+      "NF1017",
+      "National Funding",
+      "NFSPV",
+      "NFSPV1Collection",
+      "NF1016",
+      "QB1017",
+      "NAME:NFAS3",
+      "NFSPV1CollectionEDI",
+      "NFSPV1CollectionEDI PYMNTS",
+      "NFAS3"
+    ],
+    "Vox Funding": [
+      "Vox Funding",
+      "VOX FUNDINGEntry",
+      "DOMESTIC INCOMING WIRE 251RM04040JJ3IOD"
+    ],
+    "VitalCap Funding": [
+      "Vitalcap Fund",
+      "Vital cap Fund",
+      "Vitalcap",
+      "Vital cap",
+      "EMERALD GROUP HOLDINGS LLC"
+    ],
+    "Smart Business Funding": ["Smart Business", "SMART BUSINE8970"],
+    "Highland Hill Capital": [
+      "HIGHLANDHILLCAP",
+      "HIGHLAND HILL CA",
+      "Highland Hill Payment",
+      "HIGHLAND HILL"
+    ],
+    "Splash Advance": [
+      "ACHPAYMENTSPLASHADVANCELLC",
+      "Splash advance",
+      "SPLASHADVANCELLC"
+    ],
+    "Bizfund": ["BizFund", "biz fund"],
+    "Liquidbee": ["LIQUIDIBEE", "Southern Cap", "ORIG:LIQUIDIBEE"],
+    "Legend Funding": [],
+    "South End Capital": [],
+    "BCC USA": [],
+    "Canyongate Financial": [],
+    "Smarter": [],
+    "Pearl Capital": ["Pearl Capital", "ORIG:PEARL DELTA FUNDING"],
+    "Hunter Caroline": ["HUNTER CAROLINE CAPITAL", "HUNTER CAROLINE"],
+    "Amerifi Capital": [
+      "Amerifi Capital",
+      "AMERIFI CAP-9601Funding",
+      "AMERIFI CAP-9601REA-",
+      "AMERIFI CAP"
+    ],
+    "Fox Business Funding": [],
+    "Spartan Capital": [
+      "SPARTAN BUSINESS SOLUTIONS",
+      "SPARTAN BUSINESS",
+      "SPARTAN CAPITAL",
+      "SPARTAN CAP",
+      "SPARTAN CAPITAL FUNDING",
+      "SPARTAN COLLECT"
+    ],
+    "1Stop Cap": ["ORIG:1STOPCAP", "1STOPCAP", "STOPCAP INC"],
+    "In Advance Capital": [
+      "AdvanceServicing",
+      "IAC 6464123303",
+      "ADVANCE SERVICE FUNDING2",
+      "FLAGSTAR BANK, NA /ORG=ADVANCE SERVICE GROUP,",
+      "FLAGSTAR BANK, NA /ORG=ADVANCE SERVICE GROUP",
+      "/ORG=ADVANCE SERVICE GROUP,",
+      "/ORG=ADVANCE SERVICE GROUP",
+      "FLAGSTAR BANK, NA/026013576 B/O: ADVANCE SERVICE GROUP, LLC",
+      "NA/026013576 B/O: ADVANCE SERVICE GROUP, LLC",
+      "B/O: ADVANCE SERVICE GROUP, LLC",
+      "NAME:IAC",
+      "Advance Service 6464010954",
+      "Advance Service",
+      "6464010954",
+      "Wire Transfer Deposit Wt01 Ref001686 Flagstar Bank, Na 250606b012hd 06/06 Card 0000",
+      "Electronic Withdrawal Iac",
+      "IAC"
+    ],
+    "Green Note Capital": [
+      "GREEN NOTE CAP",
+      "GREEN NOTE CAPITAL",
+      "0012204348",
+      "12204348"
+    ],
+    "Global Funding": [],
+    "Cap Front": ["NAME:CAPFRONT", "Cap front", "CAPFRONT"],
+    "Go Fresh Funding": [],
+    "Flash Advance": [
+      "Flash Advance",
+      "ORIG:FLASH II LLC",
+      "/ORG=FLASH II LLC",
+      "/ORG=FLASH",
+      "FLASH II"
+    ],
+    "TMR Now": [],
+    "Byz Funder": [],
+    "Flager Advance": [],
+    "Wynwood Capital Group": ["WYNWOOD CAPITAL"],
+    "Bitty Advance": [],
+    "Capital on Tap": [],
+    "Novo Funding": ["Novo Funding"],
+    "Parafin Capital": ["Parafin Capital"],
+    "Onramp MCA": ["Onramp Funds", "Onramp funds,"],
+    "Flagstar": [],
+    "OnDeck Capital": [
+      "ONDECK",
+      "NAME:CELTIC BANK ORIG ID:0000248509",
+      "CELTIC BANK CORPORATE ACH",
+      "CELTIC BANK CELTIC BANK ACH CREDIT",
+      "CELTIC BANK DES:86787136 ID:86787136",
+      "NAME:ONDECK CAPITAL",
+      "CELTIC BANK 85385775 250225 85385775",
+      "ONDECK CAPITAL",
+      "NAME:ONDECK CAPITAL20",
+      "ONDECK VISA",
+      "CELTIC BANK DES:83093581 ID:83093581",
+      "AC-CELTIC BANK",
+      "CELTIC BANK 90291072 90291072",
+      "CELTIC BANK DES:89449802 ID:89449802",
+      "CELTIC BANK DES:90765587",
+      "CELTIC BANK DES:90765321",
+      "CELTIC BANK 85727152 030625",
+      "CELTIC BANK 76546325 051724",
+      "CELTIC BANK 85543402 250228",
+      "CELTIC BANK 81277689",
+      "CELTIC BANK 90617942 250714",
+      "CELTIC BANK 87341699 250421",
+      "CELTIC BANK 86921368 250407",
+      "CELTIC BANK 86304057 250324",
+      "CELTIC BANK 85385775 250225",
+      "CELTIC BANK 84272991 250123",
+      "CELTIC BANK DES:88398358 ID:88398358",
+      "89673877 CELTIC BANK 0000248509 124084809053264",
+      "CELTIC BANK DES:92670296 ID:92670296",
+      "CELTIC BANK DES:87216713",
+      "CELTIC BANK DES:92274832",
+      "CELTIC BANK DES:93532279",
+      "ONDECK CAPITAL 8",
+      "ACH CREDIT CELTIC BANK/94809177 94809177"
+    ],
+    "Kalamata Capital": [
+      "Kalamata Capital",
+      "KalamataCapital",
+      "KALAMATA CAPIT",
+      "PRIME KALAMATA",
+      "KALAMATACAPITAL"
+    ],
+    "Specialty Capital": [
+      "Specialty Capita",
+      "Specialty Capital, LLC",
+      "SPECIALTYCAPITAL",
+      "SPECIALTY CAPSPV",
+      "ORIG:SPECIALTY CAPITAL",
+      "SPECIALTY CAPITAL",
+      "SPECIALTY CAP",
+      "SPECIALTYCAPITALPAYMENT"
+    ],
+    "Velocity Capital": ["VELOCITY CAPITAL", "VCG"],
+    "IOU Financial": [
+      "IOU CENTRAL",
+      "IOU CENTRAL INC",
+      "DOMESTIC INCOMING WIRE 246ED1525CSR12J4"
+    ],
+    "Blackbridge Big": ["Blackbridge BIG CO ENTRY"],
+    "Lg Funding LLC": [
+      "LG Funding LLC ORIG",
+      "LG FUNDING LLC BROOKLYN NY",
+      "Lg Funding",
+      "NAME:LGFUNDINGLLC",
+      "INCOMING WIRE FROM LG FUNDING"
+    ],
+    "Revenued": ["REVENUED", "Revenued", "ABF Servicing", "ORIG:REVENUED"],
+    "OLYMPUSLENDING CASH DISB": [
+      "OLYMPUS LENDING",
+      "OLYMPUSLENDING ORIG",
+      "OLYMPUSLENDING",
+      "PREAUTHPMTOLYMPUS LENDING",
+      "9192809001",
+      "Wire 85804471 OLYMPUS L",
+      "Olympus Business, Capital",
+      "OLYMPUS BUSINESS CAPITAL",
+      "OLYMPUS BUSINESS"
+    ],
+    "KALAMATA": ["12345dontusethisone789"],
+    "The LCF Group": [
+      "LCF",
+      "LAST CHANCE FUNDING",
+      "LAST CHANCE FUNDIN",
+      "Last Chance Fund",
+      "LCFGROUPINC",
+      "Wire Transfer Deposit Wt01 Ref001427 Axos Bank San Dieg 250528b02kdr 05/28 Card",
+      "DOMESTIC INCOMING WIRE 256CG08075ZH6VJH",
+      "WIRE REF# 20250716-00016604 INCOMING WIRE TRANSFER",
+      "WIRE REF# 20250417-00030060 INCOMING WIRE TRANSFER",
+      "DOMESTIC INCOMING WIRE 259CK38339MS3R2T"
+    ],
+    "MCA Servicing": [
+      "MCA SERVICING",
+      "Mca Serviceing Fun",
+      "Bitty",
+      "MCA SERVICINGFUN042325499057",
+      "8003243863MCA SERVICING",
+      "8003243863",
+      "8003243863MCA",
+      "ACH MCA SERVICING",
+      "MCA ServicingCCD",
+      "Mca Serviceing",
+      "MCA / SERVICING"
+    ],
+    "Headway Capital": [
+      "Headway Capital",
+      "headwaycapital",
+      "HEADWAY CAPITAL",
+      "HWCRCVBLS23",
+      "NAME:HWCRCVBLS23",
+      "NAME:HEADWAYCAPITAL",
+      "HWCRCVBLSxx"
+    ],
+    "QFS Capital": [
+      "QFS CAPITAL",
+      "QFS CAP",
+      "QFSCAPITAL",
+      "QFS CAPITAL LLC",
+      "QFS CAPITAL LLC/(754) 799-7400",
+      "QFSCAPITAL RPP4492677",
+      "RPP4492677"
+    ],
+    "Favo Funding": [
+      "Favo Funding",
+      "OPTIMUMBANK /ORG=FAVO FUNDING LLC",
+      "/ORG=FAVO FUNDING LLC",
+      "/ORG=FAVO FUNDING",
+      "OPTIMUMBANK /ORG=FAVO FUNDING"
+    ],
+    "First Merchant": ["First Merchant"],
+    "Kapitus": ["Kapitus"],
+    "Wellen Capital": ["Wellen Capital"],
+    "CROMWELL CAPITAL": [
+      "CROMWELL CAPITAL",
+      "CROMWELL CAPIT",
+      "CROMWELL CAPITAL,",
+      "0277153004"
+    ],
+    "United": [
+      "United First/UCE",
+      "United First",
+      "UFCE/ 8449090040 7864084809",
+      "UFCE/ 8449090040",
+      "7864084809",
+      "First/UCE",
+      "UFCE/"
+    ],
+    "East Hudson": ["East Hudson/ GCE"],
+    "Samson": ["SAMSONSERVICING", "SAMSON SERVICING", "SAMSON SERVICI"],
+    "Forever Funding": ["FE1139 DRE FOREVER FUNDING", "FOREVER FUNDING"],
+    "Fundamental Capital / NEXI": [
+      "FUNDAMENTAL CAPITAL",
+      "Nexi Fundamental",
+      "FUNDAMENTAL CAPITA",
+      "NAME:PL*TopNotchPrope",
+      "ORIG ID:9000457257"
+    ],
+    "LENDWISE CAPITAL": ["LENDWISE CAPITAL"],
+    "Honest Funding": [
+      "HONESTFUNDINGLLC",
+      "HONEST,FUNDING",
+      "HONEST FUNDING",
+      "ORIG ID:852323670",
+      "CALHONEST FUND",
+      "HONEST FUND",
+      "ORIG:HONEST FUNDING"
+    ],
+    "Aspire Funding": [
+      "ASPIREFUNDING",
+      "ASPIRE FUND",
+      "ASPIRE FUNDING",
+      "DOMESTIC INCOMING WIRE 24CNM1848IJY56BZ",
+      "DOMESTIC INCOMING WIRE 253KI3249QFD2XAO"
+    ],
+    "Micro Funding": ["MicroAdvanceFund"],
+    "Ocean Funding": ["Ocean Fund", "ORIG:OCEAN FUNDING", "OCEAN FUNDING"],
+    "Mantis Funding": [
+      "MantisFund",
+      "MANTIS FUND",
+      "MANTIS FUNDING",
+      "DOMESTIC INCOMING WIRE PA8FH0908EB94PYA",
+      "2127561297MANTISFUND",
+      "2127561297"
+    ],
+    "Channel Partner": [
+      "Channel Partner",
+      "CHANNEL PARTNERS CAPITAL",
+      "Channel Partners",
+      "LendingServices"
+    ],
+    "1st Alliance": ["1ST ALLIANCE"],
+    "DLP Funding": [
+      "DLP Funding",
+      "DLPFUNDINGLLC",
+      "DLP FUND",
+      "Wire Transfer Deposit Wt76 Ref000026 Bankunited, Na Mia",
+      "DOMESTIC INCOMING WIRE 256OJ13586OJ27J3",
+      "DLPBUS"
+    ],
+    "Square Advance": [
+      "Square Advance",
+      "SQUARE ADVANCE",
+      "SquareFundingllc",
+      "BANKUNITED /ORG=SQUARE FUNDING",
+      "/ORG=SQUARE FUNDING",
+      "SQUARE ADV",
+      "SQUARE OP",
+      "SQUARE FUNDING",
+      "B/O: SQ ADVANCE LLC",
+      "WIRE REF# 20240926-00030426",
+      "WIRE REF# 20250401-00030768",
+      "WIRE REF# 20250731-00032677",
+      "SQ ADVANCE"
+    ],
+    "Central Advance": ["CENTRAL ADVANCE", "CENTRALADVANCE"],
+    "Loot": ["Loot"],
+    "Ascendus": ["Ascendus"],
+    "Elevate Funding": [
+      "Elevate Funding",
+      "DOMESTIC INCOMING WIRE 241GL0515DNL47SG"
+    ],
+    "Zlur Funding": ["Zlur", "Zlurfundingpmt", "ZLUR FUNDIN", "ZLURFUND"],
+    "Beckham Capital": ["Beckham Capital", "BeckhamCapitl"],
+    "KMT Funding": ["KMTFUNDING"],
+    "Berkovitch & Bouskila, PLLC": ["123456789movingtagtohighriskcategory"],
+    "Aspira Capital": [
+      "Aspira Capital",
+      "8007101816ASPIRA",
+      "ASPIRA CAPITAL GROUP"
+    ],
+    "One River": [
+      "ONERIVSERV",
+      "/ORG=ONE RIVER SERVICES",
+      "FLAGSTAR BANK, NA /ORG=ONE RIVER SERVICES",
+      "ORIG:ONE RIVER SERVICES",
+      "FLAGSTAR BANK, NA/026013576 B/O: ONE RIVER SERVICES LLC",
+      "B/O: ONE RIVER SERVICES LLC",
+      "ONE RIVER FUNDIN",
+      "NAME:ONE_RIVER_FUND",
+      "ONE_RIVER_FUND",
+      "Wire Transfer Deposit Wt01 Ref002737 Flagstar Bank, Na 250513b01tm2 05/13 Card",
+      "Wire Transfer Deposit Wt01 Ref001989 Flagstar Bank, Na 250804b01f1h 08/04 Card 0000",
+      "ONE RIVER SERVICES LLC"
+    ],
+    "Kings Fund": ["Kings Fund"],
+    "Levo Funding": ["Levo Funding", "LF SPV I LLC"],
+    "EMMY CAPITAL": ["EMMY CAPITAL"],
+    "Flow Capital Lending": ["FLOW CAPITAL"],
+    "Good Funding": ["Good Funding"],
+    "Blackbridge - BIG Funding": ["Blackbridge", "BIG Funding"],
+    "FOREST CAPITAL": ["FOREST CAPITAL"],
+    "CRC Edge": ["CRC EDGE"],
+    "App Funding": [
+      "APP FUNDING",
+      "App Funding",
+      "Wire Transfer Deposit Wt01 Ref043086 Optimumbank Planta",
+      "Funding Beta"
+    ],
+    "Yes Capital Group": ["YES CAPITAL GROU", "YES CAPITAL"],
+    "Alpha Equity Funding": [
+      "Alpha EquityFund",
+      "AJ Equity",
+      "ALPHA EQUITY FUN",
+      "Alpha Equity Fund"
+    ],
+    "Capytal": ["Capytal"],
+    "American Choice Funding": ["Amer Choice Fund"],
+    "Lily Advance": ["Lily Advance", "MASON CAPITAL"],
+    "SRP Capital": ["SRP CAPITAL"],
+    "Mynt Advance": ["MYNT ADV"],
+    "Flexibility Capital": [
+      "Flexibility Capi",
+      "ORIG:FLEXIBILITY CAPITAL",
+      "MANUFACTURERS & TRADERS TRUST CO/022000046 B/O: FLEXIBILITY CAPITAL",
+      "CO/022000046 B/O: FLEXIBILITY CAPITAL",
+      "B/O: FLEXIBILITY CAPITAL",
+      "FLEXIBILITY CAPITAL",
+      "Wire Transfer Credit FLEXIBILITY CAPITAL INC",
+      "FLEXIBILIT Flexibility CapiCCD",
+      "NAME:Flex Cap",
+      "Wire Transfer Deposit 09/30 Card 0000 Wt76 Ref003936 Mfrs And Traders T 240930b05396"
+    ],
+    "COAST FUNDING": ["COAST FUNDING"],
+    "Web Funder": ["WEBFUNDERLLC", "Webfunder", "Name:Webfunder"],
+    "E Advance": ["E Advance Servic", "E Advance"],
+    "Fundfi": ["Fundfi"],
+    "Millstone Funding": [
+      "MILLSTONE FUNDING",
+      "MILLSTONE FUNDIN",
+      "MILLSTONE FUNDIN'"
+    ],
+    "Lazarus Business Funding": [
+      "LAZARUSBUSINESSF",
+      "LAZARUS BUSINESS FUNDING GROUP"
+    ],
+    "Monmouth Funding": ["MONMOUTHFUNDING", "MONMOUTH FUNDING"],
+    "EN OD Capital": ["EN OD Capital", "B/O: EN OD CAPITAL"],
+    "Can Capital": ["CAN CAPITAL", "WEBBANK/CANCAP"],
+    "Fundo": ["FUNDO"],
+    "Mulligan Funding": [
+      "Mulligan Funding",
+      "Wire Transfer Credit Finwise Bank"
+    ],
+    "Prosperum Capital": [
+      "PROSPERUM CAPITA",
+      "Arsenal Funding",
+      "PROSPERUM",
+      "6467669922ARSENAL FUNDING",
+      "BA11/9/25ARSENAL FUNDING",
+      "6467669922",
+      "FUNDING CORPORATE ACH ARSENAL"
+    ],
+    "Titan Funding Group": ["Titan Funding", "Titan Funding Gr"],
+    "Lightspeed Funding": [
+      "LIGHTSPEED FUNDING",
+      "LIGHTSPEED RECEIVE",
+      "LIGHTSPEED 7871055346",
+      "FUNDING LIGHTSPEED",
+      "7871055346",
+      "FUNDING LIGHTSPEED 7871055346",
+      "LSPD CAPITAL",
+      "LIGHTSPEED COMME CAPITAL",
+      "LIGHTSPEED COMME",
+      "LIGHTSPEED COMME LS"
+    ],
+    "Advance Syndicate": [
+      "AdvanceSyndicate",
+      "JJM Enterprises",
+      "JJM EnterprisesFUNDING",
+      "SYNDICATE GROUP",
+      "ADVANCE SERVICIN",
+      "SYNDICATEGROUPUS",
+      "NAME:ADVANCESERVICING",
+      "JJM / ENTERPRISES LLC",
+      "Advancesyndicat",
+      "MERADV6468272952"
+    ],
+    "Pinnacle Business Funding": [
+      "Pinnacle Busines",
+      "PINNACLE BUSINESS",
+      "B/O: PINNACLE BUSINESS FUNDING"
+    ],
+    "Lendumo": ["Lendumo"],
+    "YouLend": ["YOULEND"],
+    "Torro Business Funding": ["GOTORRO", "TORRO HOLDINGS"],
+    "Pathway Funding": ["PATHWAY FUNDING"],
+    "Intuit Lending": [
+      "INTUIT FINANCING QBC_PMTS",
+      "WEBBANK/INTUIT",
+      "INTUIT FINANCING",
+      "FINANCINGQBC_PMTS"
+    ],
+    "Biz2Credit": [
+      "ITRIA VENTURE",
+      "Itria Ventures",
+      "B2C ABS",
+      "ITRIAVENTUR",
+      "Biz2credit",
+      "B2C",
+      "NAME:Itria",
+      "DOMESTIC INCOMING WIRE 252RM18116HW230X",
+      "PMTITRIA VENTURES C CORPORATE ACH ITRIA PMT",
+      "ITRIA PMT",
+      "PMTITRIA",
+      "PAYMENTITRIA",
+      "ITRIA PAYMENT",
+      "Itria Ven",
+      "WIRE REF# 20250114-00027189",
+      "Itria Ventur",
+      "Itria Ventur Ma",
+      "BNF:ITRA VENTURES,"
+    ],
+    "Firstline Advance": [
+      "Firstline Advance",
+      "WIRE FROM FIRSTLINE",
+      "Firstline Advanc"
+    ],
+    "Credibly": [
+      "Credibly",
+      "RETAIL CAPITAL",
+      "RETAIL CAPITAL CORPORATE",
+      "Retail Capital"
+    ],
+    "Canfield Capital": ["Canfield Capital", "Canfield"],
+    "NRS Funding": ["NRS Funding"],
+    "Fast Business Funding": ["FAST BUSINESS", "FASTBUSCASH"],
+    "Mint Funding": ["MINTFUND", "MINT FUNDING", "MINT FUND"],
+    "Family Funding": [
+      "Family Funding",
+      "OFFFAMILY FUNDING",
+      "FAMILY BUSINESS",
+      "NAME:FAMILYBUSINESS1D",
+      "MFAMILY FUNDING"
+    ],
+    "KRS Partners": ["KRS PARTNERS"],
+    "LAF California": ["ORIG:LAF CALIFORNIA", "LAFCALIFORNIA"],
+    "LEGEND ADVANCE FUNDING": [
+      "LEGEND ADVANCE FUNDING",
+      "Legendadvfunding",
+      "LEGEND ADVANCE",
+      "MLEGEND ADVANCE",
+      "ORIG:LEGEND ADVANCE FUNDING",
+      "B/O: LEGEND ADVANCE FUNDING",
+      "ADVANCE L CORPORATE ACH LEGEND",
+      "LEGEND ADVANCE FUNDING"
+    ],
+    "Nitro Advance": [
+      "NITRO ADVANCE",
+      "OPTIMUMBANK/067015096 B/O: NITRO ADVANCE",
+      "B/O: NITRO ADVANCE"
+    ],
+    "TOP CHOICE FINANCIAL LLC": [
+      "TOP CHOICE FINANCIAL LLC",
+      "WORKING CAPITAL|TOPCHOIC",
+      "TOPCHOIC FIN",
+      "/ORG=TOP CHOICE FINANCIAL",
+      "Top Choice",
+      "WORKING CAPITAL|TOPCHOIC"
+    ],
+    "Cambridge Advance": ["CAMBRIDGE ADVANCE", "CAMBRIDGE ADV"],
+    "Lexio Capital": [
+      "LEXIO CAPITAL",
+      "LEXINGTON FINANC /ORG=LEXINGTON FINANCIAL CONSULTANTS",
+      "/ORG=LEXINGTON FINANCIAL CONSULTANTS",
+      "LEXINGTON FINANC",
+      "LEXINGTON FINANCIAL CONSULTANTS",
+      "LEXINGTON FINANCIAL CONSULTA"
+    ],
+    "Jaris Lending": ["jaris"],
+    "Rapid (SBFS)": [
+      "SBFS",
+      "ORIG:SMALL BUSINESS FINANCIAL",
+      "WELLS FARGO BANK, N.A./121000248 B/O: SMALL BUSINESS FINANCIAL SOLUTIONS",
+      "B/O: SMALL BUSINESS FINANCIAL SOLUTIONS",
+      "SMALL BUSINESS FINANCIAL SOLUTIONS",
+      "SMALL BUSINESS FINANCIAL SO",
+      "SMALL BUSINESS FINANCIAL SOLUT",
+      "ORIG:Rapid Financial Services,",
+      "ORIG:Rapid Financial",
+      "WIRE IN 251031010117 SMALL BUSIN",
+      "NAME:SBFS",
+      "TRANSFER-SMALL BUSINESS FINA"
+    ],
+    "PDM Capital": ["PDM CAPITAL"],
+    "Milvado Capital": [
+      "MILVADO CAPITAL",
+      "WIRE REF# 20250514-00029684 INCOMING WIRE TRANSFER",
+      "B/O: MILVADO CAPITAL"
+    ],
+    "Maison Capital Group": [
+      "MAISON CAPITAL",
+      "Maison Capital Group",
+      "MAISON CAPITAL GROUP"
+    ],
+    "Capitalize Group": [
+      "CAPITALIZE GROUP",
+      "CAPITALIZE",
+      "CAPITALIZED",
+      "CAPITALIZEDEQ01",
+      "6464341054"
+    ],
+    "First Gold Buyers Funding": [
+      "First Gold Buyer",
+      "ORG=FIRST GOLD BUYERS, INC"
+    ],
+    "Overton Funding": [
+      "Overton Funding",
+      "Overtonfunding",
+      "/ORG=OVERTON FUNDING LLC",
+      "OPTIMUMBANK /ORG=OVERTON FUNDING LLC"
+    ],
+    "Fora Financial": [
+      "Forafinancial",
+      "fora",
+      "WIRE REF# 20250909-00027087 INCOMING WIRE TRANSFER"
+    ],
+    "Reliant Funding": ["RELIANT FUNDING", "RELIANT SPV"],
+    "Epic Advance": ["EPIC ADVANC", "EPIC ADVANCE"],
+    "Silverline Funding": [
+      "SILVERLINE SERVI",
+      "SILVERLINE SERVICING",
+      "Silverline Service",
+      "/ORG=SILVERLINESERVICES",
+      "/FTR/BNF=Silverlineservices",
+      "OPTIMUMBANK /ORG=SILVERLINESERVICES",
+      "OPTIMUMBANK /FTR/BNF=Silverlineservices",
+      "SILVERLINESERVICfunding",
+      "OPTIMUMBANK/067015096 B/O: SILVERLINESERVICES",
+      "NAME:SILVERLINESERVIC",
+      "SILVERLINESERVIC",
+      "SILVERLINESERVICES LLC",
+      "WIRE TRANSFER FROM SILVERLINESERVICES",
+      "SILVERLINESERVICES",
+      "SILVERLINE SERVICCD"
+    ],
+    "Finpoint Funding": [
+      "FINPOINT FUNDING",
+      "OPTIMUMBANK /ORG=FINPOINT FUNDING",
+      "/ORG=FINPOINT FUNDING",
+      "FOLFINPOINT FUNDING",
+      "DOMESTIC INCOMING WIRE 258MH1021DEM5PMW"
+    ],
+    "Clara Capital": [
+      "CLARA CAPITAL",
+      "NAME:CLARA CAPITAL",
+      "NAME:CLARACAPITAL",
+      "CLARA CAPITAL 2",
+      "WIRE DEPOSIT CLARA CAPITAL"
+    ],
+    "Blue Sky Advance": [
+      "Blue Sky Advance",
+      "VistaPointSrvcs 9044799562",
+      "9044799562",
+      "VistaPointSrvcs",
+      "VISTA POINT SERVICES"
+    ],
+    "Litefund Solution": [
+      "Litefund Solutio",
+      "LITEFUND SOLUTIONS",
+      "NAME:LITEFUND SOLUT",
+      "WIRE REF# 20250820-00020333",
+      "WIRE REF# 20251107-00021171 INCOMING WIRE TRANSFER"
+    ],
+    "FOX FUNDING": [
+      "FOX FUNDING",
+      "FOX FUNDING GROU",
+      "FOXFUNDINGGROUPL",
+      "PAYMENFOX FUNDING",
+      "PAYMENFOX",
+      "FOX PAYMEN"
+    ],
+    "True Advance": [
+      "TRUEADVANCE",
+      "True advance",
+      "NAME:TRUEADVANCE",
+      "Wire Transfer Deposit Wt01 Ref031781 Jpmchase Nyc 250820b023mr",
+      "Wire Transfer Deposit Wt76 Ref030218 Jpmchase Nyc 250415b02gxw",
+      "Wire Transfer Deposit 12/12 Card 0000 Wt76 Ref028184 Jpmchase Nyc 241212b01ml1",
+      "Wire Transfer Deposit 08/07 Card 0000 Wt76 Ref026266 Jpmchase Nyc 240807b01l5l"
+    ],
+    "Small Business Advance": [
+      "Small Business A dvance",
+      "Small Business Advance",
+      "NAME:Small Business"
+    ],
+    "26 Capital Group": ["26 Capital Group"],
+    "Alternative Funding": [
+      "/ORG=ALTERNATIVE FUNDING GROUP",
+      "ALTFUNDING",
+      "ALT FUNDING",
+      "ALTERNATIVE FUNDING GROUP",
+      "ALTERNATIVE FUND"
+    ],
+    "Surge Advance": [
+      "SURGE COLLECTION",
+      "SURGE ADVANCE",
+      "ID:853557081",
+      "Wire Transfer Deposit Wt01 Ref003730 Flagstar",
+      "WIRE REF# 20250722-00026398 INCOMING WIRE TRANSFER"
+    ],
+    "Jaffe Capital": ["JAFFE CAPITAL"],
+    "Credit2Fund": ["CREDIT2FUND"],
+    "Westwood Funding": ["WESTWOOD FUNDING", "ORIG:WESTWOOD FUNDING"],
+    "Slate Advance": [
+      "Slate Advance",
+      "SLATE ADVANCE/PAYMENT",
+      "AC-SLATE ADVANCE"
+    ],
+    "Blade Funding": ["BLADE FUNDING", "AC-BLADE FUNDING"],
+    "Infusion Capital": ["Infusion Cap", "Infusion Capital"],
+    "UNIQUE FUNDING SOLUTIONS": [
+      "UNIQUE FUNDING SOLUTIONS",
+      "ORIG-UNIQUE FUNDING SOLUTIONS",
+      "UFS/7183166899",
+      "AC-UFS -7183166899",
+      "UNIQUE FUNDING",
+      "UFS 7183166899",
+      "Incoming Wire/87154403",
+      "UFS DES:XXXXX66899"
+    ],
+    "Newco": ["NEWCO CAPITA4874", "NEWCO CAPITAL GROUP", "Newco Capital"],
+    "Essential Funding": [
+      "ESSENTIAL FUNDIN",
+      "-9177221106",
+      "ORIG:ESSENTIAL FUNDING GROUP",
+      "/ORIG:ESSENTIAL FUNDING GROUP",
+      "9177221106",
+      "BNF:ESSENTIAL FUNDING",
+      "ESSENTIAL FUNDING GROUP"
+    ],
+    "FUNDONATIC": ["FUNDONATIC"],
+    "Shopify Capital": ["Shopify Capital", "ShopifyCA PItAL"],
+    "Nano Advance": ["NANO ADVANCE"],
+    "Symplifi Capital": [
+      "Symplifi Capital",
+      "SYMPLIFI",
+      "B/O: SYMPLIFI",
+      "NAME:SYMPLIFI"
+    ],
+    "Speedy Funding": ["SPEEDY FUNDING"],
+    "Webfund LLC": ["Webfund LLC"],
+    "MCA Summer School": [
+      "MCA Summer Schoo",
+      "WELLS FARGO BANK, N.A./121000248 B/O: MCA SUMMER SCHOOL LLC",
+      "MCA SUMMER SCHOOL",
+      "B/O: MCA SUMMER SCHOOL"
+    ],
+    "Coconut Funding": [
+      "NAME:COCONUTFUNDINGCO",
+      "Coconut Funding",
+      "Name:Coconut Funding",
+      "COCONUTFUNDINGCO"
+    ],
+    "Breeze Advance": ["BREEZE ADVANCE", "ORIG:1/BREEZE ADVANCE"],
+    "Retro Advance": ["RETRO ADVANCE"],
+    "E Financial Tree": [
+      "eFinancialTree",
+      "NAME:eFinancialTree",
+      "SOFIAGREY",
+      "SOFIAGREY,"
+    ],
+    "Fund Cloud": ["DESCR:FUNDCLOUD", "Fundcloud", "Fund cloud"],
+    "Qs Private Lending": [
+      "Qs Private Lendi",
+      "Qs Private Lending LLC",
+      "Qs Private Lendi Des"
+    ],
+    "Alpine Advance": ["ALPINE ADVANCE", "ALPINEADVANCE"],
+    "BCA Capital": [
+      "BCA CAPITAL",
+      "BCACAPITAL",
+      "6153415900BCA CAPITAL",
+      "DOMESTIC INCOMING WIRE 2581E5226OB30RBG"
+    ],
+    "The Smarter Merchant": [
+      "THE SMARTER MERC",
+      "The Smarter Merchant",
+      "B/O: DMKA LLC D/B/A THE SMARTER MERCHANTNEW YORK",
+      "B/O: DMKA",
+      "B/O: DMKA LLC D/B/A THE SMARTER MERCHANT",
+      "WIRE IN DMKA LLC DBA SMARTER MERCHANT",
+      "DMKA LLC DBA SMARTER MERCHANT",
+      "DMKA LLC",
+      "SMARTER MERCHANT",
+      "Wire Transfer Deposit Wt01 Ref000038 Fieldpoint Private 250520b01rgq 05/20"
+    ],
+    "Future Funding": [
+      "Future Funding",
+      "/ORG=FUTURE FUNDING",
+      "FutureFunding"
+    ],
+    "Rapid Finance": ["Rapid Finance"],
+    "Seamless Funding": ["Seamless Funding"],
+    "QM ADVANCE": ["Qm Advance", "QMADVANCE", "ORIG:RDY HOLDINGS"],
+    "Alo Advance": ["alo advance", "OPTIMUMBANK /FTR/BNF=All Advance"],
+    "River Advance": [
+      "/FTR/BNF=River Capital Partners",
+      "River Advance",
+      "OPTIMUMBANK /ORG=RIVER CAPITAL PARTNERS",
+      "ORIG:RIVER CAPITAL PARTNERS"
+    ],
+    "Amsterdam Group": [
+      "/ORG=AMSTERDAM GROUP INC",
+      "Amsterdam Group",
+      "Amsterdam GRP",
+      "/BNF=AMSTERDAM PLATFORM GROUP,",
+      "AMSTERDAM PLATFORM GROU",
+      "AC GROUP 9178814069",
+      "AC GROUP",
+      "9178814069AC GROUP",
+      "9178814069AMSTERDAMCAP"
+    ],
+    "Quick Funding Group": [
+      "OPTIMUMBANK /FTR/BNF=QUICK FUNDING GROUP",
+      "QUICK FUNDING GROUP",
+      "QUICK FUNDING GR",
+      "OPTIMUMBANK/067015096 B/O: QUICK FUNDING GROUP"
+    ],
+    "Avion Funding": [
+      "BANKUNITED /ORG=AVION FUNDING",
+      "Avion Funding",
+      "/ORG=AVION FUNDING",
+      "AVION 3678 DES:WEEKLY",
+      "AVION 0228",
+      "ORIG:AVION FUNDING"
+    ],
+    "JRG Funding": [
+      "JRG FUNDING",
+      "FLAGSTAR BANK, NA /FTR/BNF=JRG FUNDING",
+      "/FTR/BNF=JRG FUNDING",
+      "WIRE REF# 20250318-00026060 INCOMING WIRE TRANSFER"
+    ],
+    "FinTap": [
+      "FINTAP",
+      "/ORG=RDM CAPITAL",
+      "CROSS RIVER BANK /ORG=RDM CAPITAL"
+    ],
+    "Palmetto Capital": ["Palmetto Capital", "Palmetto CapitalDebit"],
+    "Overnight Capital": [
+      "OVERNIGHT CAPITAL",
+      "OVERNIGHT CAPITA",
+      "OVERNIGHT CAPITADIRECT"
+    ],
+    "24 Capital": [
+      "24 CAPITAL",
+      "24CAPITAL",
+      "24CAPITALDAILY",
+      "24CAPITALWEEKLY"
+    ],
+    "Arena Funding": [
+      "Arena Funding",
+      "ArenaFunding",
+      "Arena Fundin",
+      "Arena Fundingvia"
+    ],
+    "Rocket Capital": [
+      "ROCKETCAPITALNY",
+      "ROCKETCAPITAL NY",
+      "ROCKETCAPITAL",
+      "METROPOLITAN COMME /ORG=ROCKET CAPITAL",
+      "/ORG=ROCKET CAPITAL",
+      "ROCKET CAPITAL"
+    ],
+    "Diverse Capital": ["DIVERSE CAP"],
+    "Fintegra": [
+      "CITIZENS BANK, NAT /ORG=FINTEGRA",
+      "FINTEGRA",
+      "/ORG=FINTEGRA",
+      "B/O: FINTEGRA",
+      "DOMESTIC INCOMING WIRE 24A8K22210WB8H16",
+      "DOMESTIC INCOMING WIRE 23C8N0939L271H7I",
+      "/ORG=FINTEGRA LLC"
+    ],
+    "Simply Funding": [
+      "TD BANK, NA /ORG=SIMPLY FUNDING",
+      "/ORG=SIMPLY FUNDING",
+      "SIMPLY FUNDING",
+      "SIMPLY2",
+      "SIMPLY FUN",
+      "SIMPLYFUNDING",
+      "SIMPLY FUNDING"
+    ],
+    "Funding Flow": [
+      "NAME:FUNDING FLOW",
+      "OPTIMUMBANK/067015096 B/O: FUNDING FLOW",
+      "FUNDING FLOW",
+      "B/O: FUNDING FLOW"
+    ],
+    "Supreme Cap Source": [
+      "METROPOLITAN COMMERCIAL BANK/026013356 B/O: SUPREME CAP SOURCE LLC",
+      "SUPREME CAP SOURCE LLC",
+      "SUPREME CAP",
+      "NAME:SUPREME CAP",
+      "B/O: SUPREME CAP SOURCE LLC"
+    ],
+    "Reserve Advance": [
+      "METROPOLITAN COMMERCIAL BANK/026013356 B/O: RESERVE CAPITAL MANAGEMENT",
+      "RESERVE CAPITAL MANAGEMENT",
+      "NAME:Reserve Advance",
+      "Reserve Advance",
+      "A/C: RESERVE CAPITAL MANAGEMENT",
+      "RESERVE CAPITAL"
+    ],
+    "Trofeo Capital": ["Trofeo Capital L", "Trofeo Capital"],
+    "Merchant Marketplace": [
+      "Merchant Market",
+      "Merchant Marketplace",
+      "WIRE REF# 20250801-00023107 INCOMING WIRE TRANSFER"
+    ],
+    "RADIANCE": ["RADIANCE FUNDI", "Radiance Funding"],
+    "Business Backer": [
+      "FRIBUSINESSBACKER",
+      "THUBUSINESSBACKER",
+      "WEDBUSINESSBACKER",
+      "TUEBUSINESSBACKER",
+      "MONBUSINESSBACKER",
+      "BUSINESSBACKER",
+      "BUSINESS BACKER",
+      "THEBUSINESSBACKER",
+      "THE BUSINESSBACKER",
+      "THE BUSINESS BACKER"
+    ],
+    "Main Street Group": [
+      "ORIG:MAIN STREET GROUP",
+      "MAIN STREET GROUP",
+      "MAIN STREET GROU",
+      "MAIN STREET MERC",
+      "MAINSTREET",
+      "MAIN STREET ME",
+      "B/O: MAIN STREET GROUP",
+      "/ORIG:MAIN STREET GROUP"
+    ],
+    "Sure Thing Funding": [
+      "Sure Thing Funding",
+      "Sure Thing Fundi",
+      "Sure Thing F"
+    ],
+    "1 DC Funding": ["1 DC Funding", "DC FUNDING", "BNF:1 DC FUNDING"],
+    "Eminent Funding": [
+      "OPTIMUMBANK/067015096 B/O: EMINENT FUNDING LLC",
+      "Eminent Funding",
+      "B/O: EMINENT FUNDING LLC",
+      "NAME:Eminent Funding",
+      "B/O: EMINENT FUNDING"
+    ],
+    "Lendzi": [
+      "DESCR:LENDZI",
+      "NAME:LENDZI",
+      "ENTRY DESCR:LENDZI",
+      "LENDZI LOAN",
+      "ID:LEZI RENEWAL",
+      "DESCR:LNDZI",
+      "NAME:LNDZI",
+      "FLAGSTAR B AN OBI=LENDZI",
+      "OBI=LENDZI"
+    ],
+    "Secure Funding Source": [
+      "ISRAEL DISCOUNT BANK OF NEW YORK/026009768 B/O: SECURE FUNDING SOURCE",
+      "SECURE FUNDING SOURCE",
+      "B/O: SECURE FUNDING SOURCE",
+      "OBI=SECURE FUNDING",
+      "NAME:SFS"
+    ],
+    "American Funding": [
+      "AmericanFunding",
+      "American Funding",
+      "BANK OF AMERICA, N /ORG=AMERICAN FUNDING SERVICES",
+      "/ORG=AMERICAN FUNDING SERVICES",
+      "ORG=AMERICAN FUNDING SERVICES",
+      "AMERICAN FUNDING SERVICES"
+    ],
+    "Unite America Funding": [
+      "UNITE AMERICA FU",
+      "NAME:UNITE AMERICA FU",
+      "UNITE AMERICA",
+      "NAME:UNITE AMERICA"
+    ],
+    "Elixir Funding": [
+      "ELIXIR FUNDING",
+      "ELIXIRFUNDING",
+      "WIRE REF# 20250218-00034530 INCOMING WIRE TRANSFER",
+      "DOMESTIC INCOMING WIRE 253CE04531N228QD",
+      "DOMESTIC INCOMING WIRE 252LL0027GXQ20TP",
+      "ORIG:ELIXIR CAPITAL",
+      "/ORG=ELIXIR CAPITAL"
+    ],
+    "Goose Funding": [
+      "OFFGOOSE FUNDING",
+      "GOOSE FUNDING",
+      "LOGAGOOSE FUNDING",
+      "DOMESTIC INCOMING WIRE 253KH48168CD1BYD",
+      "MGOOSE FUNDING",
+      "OGOOSE FUNDING"
+    ],
+    "FundR": [
+      "8883642189FUNDR",
+      "FUNDR",
+      "ORIG:ATIPANA CREDIT OPPORTUNIT",
+      "DOMESTIC INCOMING WIRE PA1LF071608B20A3",
+      "/ORG=ATIPANA CREDIT OPPORTUNITY FUND",
+      "Wire from ATIPANA CREDIT OPPORTUNITY FUND",
+      "/ORG=ATIPANA CREDIT OPPORTUNITY FUND I SRF# 3561095113ES",
+      "ORG=ATIPANA CREDIT OPPORTUNITY FUND I SRF#"
+    ],
+    "CapitaWize": ["RARITAN FINANCIAL", "CapitaWize", "7867445705"],
+    "Oak Capital": [
+      "WIRE TRANSFER 1/OAK CAPITAL INC",
+      "Oak Capital",
+      "WIRE FROM OAK CAPITAL"
+    ],
+    "Funding Depot": ["Funding Depot"],
+    "Reliable Capital": ["Reliable Cap"],
+    "Orange Funding": [
+      "ORANGEFUNDINGLLC",
+      "ORANGE FUNDING LLC",
+      "ORANGE FUNDING",
+      "ORANGE FUND",
+      "ORANGE FUND WEEKLY",
+      "ORANGE FUND ONETIME"
+    ],
+    "Arcadia Servicing": [
+      "FLAGSTAR BANK, NA/026013576 B/O: ARCADIA SERVICING, INC",
+      "Arcadia Servicing",
+      "Arcadia Servicin",
+      "ARCADIA SERVICING, INC",
+      "B/O: ARCADIA SERVICING, INC",
+      "NAME:ARCADIA"
+    ],
+    "Robin Funding": [
+      "GLADSTONE BANK/021205237 B/O: ROBIN FUNDING GROUP",
+      "ROBIN FUNDING GROUP",
+      "ROBIN FUNDING",
+      "NAME:ROBIN FUNDING",
+      "B/O: ROBIN FUNDING GROUP"
+    ],
+    "Fuji Funding": [
+      "OPTIMUMBANK/067015096 B/O: FUJI FUNDING",
+      "Fuji Funding",
+      "NAME:Fuji Funding"
+    ],
+    "Candy Capital": [
+      "BANKUNITED N.A/267090594 B/O: CANDY CAPITAL",
+      "CANDY CAPITAL",
+      "NAME:CANDY CAPITAL",
+      "NAME:CANDY CAPITAL CO"
+    ],
+    "Carpe Capital": ["Carpe Capit"],
+    "Preferred Capital": ["PREFERRED CAPITA", "Preferred Capital"],
+    "Square Capital": [
+      "DESCR:SQ CAP1587SEC:CCD",
+      "DES:SQ CAP0027",
+      "SQ CAP6965",
+      "SQ CAP4066",
+      "DESCR:SQ CAP7667SEC:CCD",
+      "DESCR:SQ CAP6805SEC:CCD",
+      "Square Loan",
+      "Square Inc SQ CAP6099",
+      "Square Inc SQ CAP6062",
+      "ORIG CO NAME:Square Inc ORIG ID:9424300002 DESC DATE:250606 CO ENTRY DESCR:SQ250606",
+      "Square Inc/SQ CAP1311",
+      "Square Inc/SQ CAP4572"
+    ],
+    "Liberty Funding Group": [
+      "OPTIMUMBANK/067015096 B/O: LIBERTY FUNDING GROUP",
+      "B/O: LIBERTY FUNDING GROUP",
+      "LIBERTY FUNDING GROUP",
+      "NAME:LIBERTYFUNDINGGR",
+      "LIBERTYFUNDINGGR",
+      "WEBSTER BANK, N.A./221970443 B/O: LIBERTY FUNDING SOURCE",
+      "LIBERTY FUNDING SOURCE",
+      "NAME:LIBERTY FUNDING",
+      "Liberty Funding"
+    ],
+    "Finova Capital": [
+      "FINOVA CAPITAL, LLC",
+      "FINOVA CAPITAL,",
+      "FINOVA CAPITAL",
+      "FINOVA PMT"
+    ],
+    "Pipe Capital": [
+      "Pipe Capital LLC",
+      "Pipe Coll",
+      "Pipe Advance Payout advc",
+      "Pipe Capital",
+      "PIPE TECHNOLOGIES"
+    ],
+    "Fundation": ["FUNDATION"],
+    "Fortun Advance": [
+      "TRUIST BANK/053101121 B/O: FORTUN ADVANCE LLC",
+      "B/O: FORTUN ADVANCE LLC",
+      "FORTUN ADVANCE",
+      "Name:FORTUN"
+    ],
+    "RBS Capital": ["Rbs Capital"],
+    "Vibrant Funding": ["NAME:VIBRANT FUNDING", "Vibrant Funding"],
+    "The Money Store Funding": [
+      "B/O: THE MONEY STORE FUNDING",
+      "NAME:Money Store",
+      "Money Store/Mpak 20",
+      "MONEY STORE FUNDING",
+      "THE MONEY STORE FUNDING",
+      "MONEY STORE FACTOR"
+    ],
+    "Loan23 (Boostra)": [
+      "BANK OF AMERICA, N.A./026009593 B/O: 1/BOOSTRA FLORIDA CORP.",
+      "BANK OF AMERICA, N.A./026009593 B/O: 1/BOOSTRA FLORIDA CORP",
+      "B/O: 1/BOOSTRA FLORIDA CORP.",
+      "B/O: 1/BOOSTRA FLORIDA CORP",
+      "NAME:BOOSTRAFLORIDACO",
+      "NAME:BOOSTRA",
+      "Loan23",
+      "BOOSTRA FLORIDA",
+      "BOOSTRAFLORIDACO"
+    ],
+    "Ascentium Capital": [
+      "NAME:AscentiumCapital",
+      "AscentiumCapital",
+      "Ascentium Capital"
+    ],
+    "B2B FINANCING": ["B2B FINANCING", "B2B WEEKLY"],
+    "Toast Capital": [
+      "NAME:WEBBANK/TOAST ORIG",
+      "NAME:WEBBANK/TOAST",
+      "WEBBANK/TOAST",
+      "TOAST, INC"
+    ],
+    "Express Capital": [
+      "EXPRESSCAPITALFU",
+      "EXPRESSCAPITAL",
+      "EXPRESS CAPITAL",
+      "NAME:EXPRESSCAPTLFUND",
+      "EXPRESSCAPTLFUND;",
+      "EXPRESSCAPTLFUND"
+    ],
+    "Balboa Capital": ["Balboa Capital", "Balboa pmt"],
+    "New York Tribeca Group": [
+      "CUSTOMERS BANK /ORG=NEW YORK TRIBECA GROUP, LLC",
+      "/ORG=NEW YORK TRIBECA GROUP, LLC",
+      "NEW YORK TRIBECA GROUP",
+      "/ORG=NEW YORK TRIBECA GROUP , LLC",
+      "/ORG=NEW YORK TRIBECA GROUP LLC",
+      "/ORG=NEW YORK TRIBECA GROUP ,LLC"
+    ],
+    "EIN OD CAPITAL": [
+      "EIN OD CAPITAL",
+      "WIRE-EIN OD CAPITAL",
+      "EIN OD CAPITA",
+      "B/O: EIN OD CAPITAL",
+      "B/O: EIN OD CAPITAL"
+    ],
+    "Viking Funding": ["Viking Funding"],
+    "Kash Advance": [
+      "Kash Advance LLC",
+      "Kash Advance",
+      "ORIG:KASH ADVANCE LLC"
+    ],
+    "DoorDash Capital": ["NAME:DoorDash Capital", "DoorDash Capital"],
+    "Parkview Advance": [
+      "Parkview Advance",
+      "Advance CORPORATE ACH Parkview",
+      "DOMESTIC INCOMING WIRE 254TK3506FHN5QK2",
+      "DOMESTIC INCOMING WIRE 24B8G1953C8H3WM8",
+      "B/O: PARKVIEW ADVANCE LLC",
+      "B/O: PARKVIEW ADVANCE"
+    ],
+    "ClearView Funding": ["ClearView"],
+    "Upfunding Capital": [
+      "UPFUNDING Capit",
+      "UPFUNDING Capital",
+      "INMEDIATO LLC"
+    ],
+    "Newport Business": ["Newport Business"],
+    "Accord Business Funding": [
+      "ACCORD BUSINESS FUNDING /ORG=ACCORD BUSINESS FUNDING",
+      "/ORG=ACCORD BUSINESS FUNDING",
+      "ACCORD BUSINESS FUNDING",
+      "ACCORD BUSINESS"
+    ],
+    "MR Advance": ["MR ADVANCE", "MR ADVANC"],
+    "Denali Advance": ["Denali Advance"],
+    "Core Funding Source": [
+      "Core Funding Source",
+      "Core Funding",
+      "BANKUNITED /ORG=CORE FUNDING SOURCE",
+      "/ORG=CORE FUNDING SOURCE"
+    ],
+    "Folmazel Funders": [
+      "Folmazel Funders",
+      "FUNDERS LL CORPORATE ACH MAZEL",
+      "DOMESTIC INCOMING WIRE 2573I59313PI381I"
+    ],
+    "Diamond Advance": [
+      "NAME:DIAMOND ADVANCES",
+      "NAME:DIAMOND ADVANCE",
+      "DIAMOND ADVANCES",
+      "DIAMOND ADVANCE",
+      "5164127771"
+    ],
+    "Fratello Capital": [
+      "DC Fratello Capital",
+      "Fratello Capital",
+      "T Fratello Capital",
+      "P Fratello Capital"
+    ],
+    "Global Funding Experts": ["White Road/ GFE", "Global Funding Experts"],
+    "Even Funding": ["OPTIMUMBANK /ORG=EVEN FUNDING", "Even Funding"],
+    "Credit Fresh Funding": [
+      "FEB_CreditFresh Funding",
+      "Credit Fresh Funding",
+      "CreditFresh Funding",
+      "CreditFresh"
+    ],
+    "Broadway Advance": ["BROADWAY ADVANCE"],
+    "Global Merchant": ["GLOBAL MERCHANT", "GLOBAL MER"],
+    "Lendistry": [
+      "NAME:LENDISTRY",
+      "LENDISTRY",
+      "Wire Transfer Deposit Wt76 Ref006505 City National Bank 250508b0233d 05/08 Card 0000"
+    ],
+    "Funding Fusion Advance": [
+      "FLAGSTAR BANK, NA/226071004 B/O: FUNDING FUSION ADVANCE INC",
+      "B/O: FUNDING FUSION ADVANCE INC",
+      "NAME:FUNDINGFUSIONGRO"
+    ],
+    "Nav Kapital": ["NAV KAPITAL", "DOMESTIC INCOMING WIRE 257MI4442QAY2JMG"],
+    "Vernon Capital": ["VERNONCAPITAL"],
+    "Divine Funding": [
+      "JPMORGAN CHASE BAN /ORG=DIVINE FUNDING",
+      "/ORG=DIVINE FUNDING",
+      "DIVINE FUNDING",
+      "6468675933"
+    ],
+    "Mindbody Capital": ["Mindbody Capital"],
+    "First Data Merchant Services (FDMS)": [
+      "FDMS FDMS PYMT xxxxxxxx8882US 2198483",
+      "FDMS PYMT FDMS"
+    ],
+    "Access 2 Funding": ["ACCESS2FUNDING", "Access 2 Funding"],
+    "Dash Capital": [
+      "DASH FUNDING SOU",
+      "DASHFUNDINGSOUR",
+      "DASHFUNDINGSOU",
+      "DASH FUNDING SOUR",
+      "DASH FUNDING",
+      "DASHFUNDING"
+    ],
+    "Fundpro Solutions": ["FUNDPRO SOLUTIONS", "FUND PRO SOLUTIONS"],
+    "Paladin Funding Group": [
+      "PALADIN FUNDING GROU",
+      "PALADIN FUNDING",
+      "PALADIN FUNDIN",
+      "067015096;PALADIN FUNDING GROU"
+    ],
+    "Gotham City Capital": [
+      "Gotham City CapiTHE",
+      "Gotham City Capi",
+      "GOTHAM CITY"
+    ],
+    "Sound Advance": ["SOUND ADVANCE", "SOUNDADVANCE", "ORIG:SOUND ADVANCE"],
+    "Titan Advance": ["BNF:TITAN ADVANCE GROUP", "TITAN ADVANCE"],
+    "Fresh Funding": [
+      "Ffs Fresh Funding",
+      "Fresh Funding",
+      "WIRE REF# 20250924-00019384",
+      "Fresh Percent; FFS1803;",
+      "Fresh Percent;",
+      "Fresh Percent",
+      "FFS1803;",
+      "FFS1803"
+    ],
+    "Aurum Funding Source": ["Aurum Funding", "ORIG:Aurum Funding Source"],
+    "Stage Advance": [
+      "ORIG:STAGE ADVANCE",
+      "STAGE ADVANCE",
+      "NAME:STAGE ADVANCE",
+      "STAGEADVANCE"
+    ],
+    "Silver Star Financial": [
+      "WIRE/IN-XXXXXXXX0006;ORG CAP DEPOSIT;REF XXXXXXXXX1765",
+      "Silver Star Fina",
+      "Silver Star Financial"
+    ],
+    "Arcarius Funding": ["ARCARIUS", "Arcarius Funding"],
+    "Alo Capital Group": [
+      "ALOCAPITALGROUP 256625869",
+      "ALOCAPITALGROUP",
+      "256625869"
+    ],
+    "Wide Merchant Capital": [
+      "NAME:WideCapExp6178",
+      "NAME:Wide Merchant ORIG ID:1842504923",
+      "NAME:Wide Merchant",
+      "ORIG ID:1842504923",
+      "WideCapExp6178",
+      "Wide Merchant"
+    ],
+    "Woodmere Capital": [
+      "OPTIMUMBANK/067015096 B/O: WOODMERE CAPITAL",
+      "NAME:WOODMERE CAPITAL",
+      "WOODMERE CAPITAL",
+      "WOODMERECAPITAL",
+      "WOODMERE CAPITA",
+      "B/O: WOODMERE CAPITAL"
+    ],
+    "Advantage Platform": [
+      "DOMESTIC INCOMING WIRE 24B8K5236ALH3FOC",
+      "Advantage Platform",
+      "ADVANTAGE PLATFO",
+      "DOMESTIC INCOMING WIRE 253SG352289E2JAF"
+    ],
+    "Surfside Capital": [
+      "Surfside Capital Surfdailyd",
+      "Surfside Capital",
+      "Surfdailyd"
+    ],
+    "Alpha Capital": ["ALPHA CAP"],
+    "IronWood Finance": [
+      "(361) 589-9719",
+      "IRONWOOD FINANCE",
+      "361-589-9719",
+      "DOMESTIC INCOMING WIRE 2526M2929P6R2N62",
+      "DOMESTIC INCOMING WIRE 24C5H5727OSR3RMI",
+      "DOMESTIC INCOMING WIRE 254TH4446EJM6VLV",
+      "FINANCE CORPORATE ACH IRONWOOD"
+    ],
+    "Capybara Capital": ["B/O: CAPYBARA CAPITAL", "NAME:CAPYBARA"],
+    "Oakwood Business Funding": [
+      "B/O: OAKWOOD BUSINESS FUNDING LLC",
+      "OAKWOOD BUSINESS FUNDING",
+      "NAME:OAKWOOD BUSINESS",
+      "OAKWOOD BUSINESS"
+    ],
+    "OnTap Capital": [
+      "B/O: ONTAP CAPITAL",
+      "NAME:OntapCapCorp",
+      "NAME:Ontap Capital"
+    ],
+    "Stafford Business": ["Stafford Busine", "9177159883"],
+    "Kapfi Equity": [
+      "KAPFI EQUITY",
+      "OFFKAPFI EQUITY",
+      "MKAPFI EQUITY",
+      "KAPFI EQUITY LLC",
+      "DOMESTIC INCOMING WIRE 2598F0021L2R61JK"
+    ],
+    "Spoton Funding": ["SPOTON FUNDING"],
+    "Xuper Funding": [
+      "ORIG:Xuper Funding",
+      "Xuper Funding",
+      "NAME:Xuper Funding"
+    ],
+    "Lynks Capital": [
+      "LYNKS CAPITAL",
+      "LYNKSCAPITAL",
+      "DES:LYNKS CAPI",
+      "Lynks Capital"
+    ],
+    "Barclays Advance": [
+      "BARCLAYS ADVANCE",
+      "BARCLAYSADVANCE",
+      "B/O: BARCLAYS ADVANCE",
+      "B/O: BARCLAYS ADVANCE"
+    ],
+    "Maverick Funding": [
+      "B/O: MAVERICK FUNDING LLC",
+      "MAVERICK FUNDING",
+      "MAVERICKFUNDING",
+      "NAME:MAVERICK FUNDING"
+    ],
+    "Funding Direct": [
+      "B/O: FUNDING DIRECT PARTNERS",
+      "FUNDING DIRECT PARTNERS",
+      "NAME:FUNDING DIRECT"
+    ],
+    "G & G Funding": [
+      "NAME:G AND G FUN-1331",
+      "NAME:G AND G FUN-1332",
+      "G & G Funding",
+      "G & G Fun",
+      "NAME:G AND G",
+      "G AND G FUN-1331"
+    ],
+    "Capital Shack": [
+      "CAPITAL SHACK",
+      "CAPITALSHACK",
+      "B/O: CAPITAL SHACK",
+      "NAME:CAPITAL SHACK"
+    ],
+    "Zahav Asset Management": [
+      "ZAHAVASSETMANAGE",
+      "/ORG=ZAHAV ASSET MANAGEMENT"
+    ],
+    "FYM Capital": ["/ORG=FYM Capital", "FYM Capital"],
+    "Apex Equity Group": ["Apex Equity Grou"],
+    "Fund Kite": [
+      "B/O: AKF, INC DBA FUNDKITE",
+      "NAME:FundKite",
+      "FundKite",
+      "B/O: AKF,",
+      "B/O: AKF INC"
+    ],
+    "I Lend Advance": ["I LEND ADVANCE"],
+    "Spring Funding": ["SPRING FUNDING"],
+    "Thriveway Funding": [
+      "THRIVEWAY F",
+      "Thrivewayfunding",
+      "/ORG=THRIVEWAY FUNDING GROUP",
+      "THRIVEWAY FUNDING",
+      "THRIVEWAY FUNDING GROUP"
+    ],
+    "Diesel Funding": [
+      "ORIG:HIGH OCTANE FUNDING",
+      "Diesel Funding",
+      "High Octane"
+    ],
+    "Fundgate": ["FundGate"],
+    "FB Funding": ["FB FUNDING", "NAME:FB FUNDING"],
+    "Smith Advance": ["NAME:SMITH ADVANCE", "SMITH ADVANCE"],
+    "Essentia Funding": [
+      "ORIG:ESSENTIA FUNDING",
+      "ESSENTIA FUNDING",
+      "MANAGE:ESSENTIA FUNDING"
+    ],
+    "501 Advance": [
+      "501ADVANCE/ACHPAYMENT",
+      "ORIG:1/501 ADVANCE",
+      "501ADVANCE"
+    ],
+    "Zen Funding": ["ZEN FUNDING"],
+    "Bull Fund": [
+      "Bull Fund/DIRECT",
+      "THE FUNDING BULL",
+      "KNIGHTSBRIDGE FUNDING",
+      "Bull Fund II",
+      "Bull Fund/ONLINE",
+      "BULL FUND"
+    ],
+    "Fast Capital Funds": ["ORIG:FAST CAPITAL FUNDS", "FastCash MCA"],
+    "Novus Capital": [
+      "Wire Transfer Deposit Wt01 Ref000551 Peapack-gladstone 250701b04vwh 07/01 Card 0000",
+      "Novuscapital",
+      "NOVUS CAPITAL"
+    ],
+    "Foforus Funding": ["ORIG:FOSFORUS1", "FOSFORUS1"],
+    "Premium Merchant Funding": [
+      "PREMIUMMERCHANTF",
+      "DET:PREMIUM MERC HANT FUNDING",
+      "/ORG=PREMIUM MERCHANT FUNDING",
+      "PREMIUM MERCHANT FUNDING",
+      "PREMIUMMERCHANTFUNDING"
+    ],
+    "Vista Point Services Funding": [
+      "123456780dummyplaceholderbecuasevistapointservicesrebrandedtoBluskyadvanc.e"
+    ],
+    "PIRS Capital": [
+      "Incoming Wire XXXX0244",
+      "PIRS Capital",
+      "B/O: PIRS CAPITAL"
+    ],
+    "Katan Capital": [
+      "WIRE REF# 20250717-00028740 INCOMING WIRE TRANSFER",
+      "KATAN CAPITAL"
+    ],
+    "Lend Bug": ["Lend Bug"],
+    "FundoMate": ["FUNDOMATE", "Fundomate Techno"],
+    "Likety Capital": ["LIKETY CAP", "LIKETY CAPITAL", "8774545389"],
+    "Trustify Advance": [
+      "732338259TRUSTIFY ADVANCE",
+      "732338259TRUSTIFY",
+      "DOMESTIC INCOMING WIRE 2587J5639ESB3VH8"
+    ],
+    "Miracle Funding": ["B/O: MIRACLE FUNDING", "NAME:MIRACLE FUNDING"],
+    "BizPoint Capital": [
+      "NAME:BizPoint Cap",
+      "BizPoint Cap",
+      "ORIG:BizPoint Capital",
+      "/ORIG:BizPoint Capital",
+      "BIZPOINT CAP"
+    ],
+    "Legendary Funding": ["Legendary Fundin", "Legendary Funding"],
+    "Swift Funding": [
+      "B/O: SWIFT FUNDING",
+      "NAME:SWIFT FUNDING",
+      "SWIFT FUNDING",
+      "A/C: SWIFT FUNDING SOURCE",
+      "SWIFT FUNDING SOURCE"
+    ],
+    "Sandora Capital": [
+      "NAME:SANDORACAPITAL",
+      "ORIG ID:1800651227",
+      "SANDORACAPITAL",
+      "SANDORA CAPITAL"
+    ],
+    "Nebula Financing": [
+      "NEBULAFINANCING",
+      "Nebula Financing",
+      "NEBULA FINANCING",
+      "NAME:NEBULAFINANCING",
+      "NAME:NEBULA FINANCING"
+    ],
+    "Merk Funding": ["B/O: MERK FUNDING", "MERK FUNDING"],
+    "Madison Advance": ["B/O: MADISON ADVANCE", "MADISON ADVANCE"],
+    "Purpose Fund": ["PURPOSE FUND"],
+    "BH Funding Source": [
+      "BH FUNDING SOURCE",
+      "NAME:BH FUNDING Sour",
+      "NAME:BH FUNDING"
+    ],
+    "Lifetime Funding": [
+      "LIFETIME-5883 DES:62325FUND",
+      "LIFETIME-5883",
+      "Lifetime Funding"
+    ],
+    "IMS FUND": [
+      "3152390160 IMS FUND",
+      "IMS FUND",
+      "IMS FUND SOUTH",
+      "BNF-COOLIDGE CAPITAL",
+      "COOLIDGE CAPITAL"
+    ],
+    "ML Factors": ["ML FACTORS"],
+    "Lion Heart Funding": [
+      "B/O: LIONHEART FUNDING",
+      "B/O:LIONHEART FUNDING",
+      "ORIG: LIONHEART FUNDING",
+      "ORIG:LIONHEART FUNDING",
+      "/ORIG:LIONHEART FUNDING",
+      "LIONHEART FUNDING",
+      "NAME:LIONHEART FUNDING",
+      "LION HEART FUNDING",
+      "NAME:LIONHEART FUNDIN",
+      "LIONHEART FUNDIN 5025958154",
+      "LIONHEART FUNDIN",
+      "5025958154"
+    ],
+    "Uptown Funding": [
+      "B/O: UPTOWN FUND",
+      "NAME:UPTOWN FUND",
+      "Uptown Funding",
+      "Uptown Fund",
+      "UPTOWN FUND"
+    ],
+    "Liberis": ["NAME:Liberis"],
+    "Apex Funding Source": [
+      "APEX FUN,DING SOURCE",
+      "Apex Funding Source",
+      "APEX FUNDING",
+      "6465181520"
+    ],
+    "Idea 247": ["IDEA 247"],
+    "X Capital Group": ["X CAPITAL GROUP", "NAME:X CAPITAL"],
+    "Casa Capital": ["B/O: CASA CAPITAL", "NAME:CASA CAPITAL"],
+    "PacWestern Financial": ["NAME:PACWESTERNFINANC", "NAME:PACWESTERN"],
+    "Urus Funding": ["B/O: URUS FUNDING", "URUS FUNDING", "NAME:URUS FUNDING"],
+    "Alliance Funding Group": ["NAME:AFG WC", "Alliance Funding Group"],
+    "Harbor Funding": ["B/O: HARBOR FUNDING", "NAME:HARBOR FUNDING"],
+    "Path 2 capital": [
+      "Path 2 Capital",
+      "WIRE REF# 20250819-00020705 INCOMING WIRE TRANSFER"
+    ],
+    "I Fund Experts": [
+      "B/O: I FUND EXPERTS",
+      "NAME: I FUND EXPERTS",
+      "A/C: IFUNDEXPERTS",
+      "IFUNDEXPERTS",
+      "NAME:I Fund Experts"
+    ],
+    "Fund Me Fast": [
+      "DOMESTIC INCOMING WIRE 2565F375564B0REA",
+      "FUND ME FAST",
+      "NAME:FUND ME FAST",
+      "FUNDMEFAST",
+      "ORIG/ FUND ME FAST"
+    ],
+    "Mavanza Capital": [
+      "MAVANZA CAPITAL",
+      "DOMESTIC INCOMING WIRE 2598C0213EJT2DCI"
+    ],
+    "Limitless Advance": [
+      "LIMITLESS ADVANC/ALG",
+      "Limitless Advance",
+      "LIMITLESS ADVANC"
+    ],
+    "Apollo Funding": [
+      "APOLLO FUNDING",
+      "NAME: APOLLO FUNDIN",
+      "NAME: APOLLO FUNDING",
+      "NAME:APOLLO FUNDING",
+      "NAME:APOLLO FUNDIN",
+      "APOLLOFUNDING",
+      "WIRE REF# 20240418-00028483",
+      "WIRE REF# 20250605-00026123",
+      "WIRE REF# 20251023-00028212"
+    ],
+    "Freedom Funding": ["FREEDOM FUNDING"],
+    "Neto Capital": ["ORIG:NETO CAPITAL", "Neto Capital"],
+    "West Lake Ventures": [
+      "WESTLAKEVENTURES",
+      "Westlake Venture",
+      "B/O: WESTLAKE VENTURES,"
+    ],
+    "Purple Peach": ["NAME:PURPLE PEACH", "PURPLE PEACH", "ID:334527350"],
+    "BHB Funding": ["BHB722", "BHB Funding"],
+    "Fusion Funding": ["/83347280/FUSION FUNDING/NC2038590", "Fusion Funding"],
+    "Timeless Funding": [
+      "TIMELESS FUNDING",
+      "TIMELESSFUNDING",
+      "NAME:TIMELESS FUNDING"
+    ],
+    "Fast Fund Inc": ["FASTFUNDINC 7327571832", "FASTFUNDINC", "FASTFUND"],
+    "Lyte Capital": ["ORIG:LYTE CAPITAL", "LYTE CAPITAL", "LYTECAPITAL"],
+    "Windgate Capital": ["ORIG:ACH CAPITAL UT LLC", "Windgate Capital"],
+    "NFG Advance": ["NFG ADV-OPERATI", "NFG Advance", "NFG ADV"],
+    "Cedar Advance": [
+      "WIRE REF# XXXXXXXXXXXX0024 INCOMING WIRE TRANSFER",
+      "Cedar Advance"
+    ],
+    "Stellar Capital": ["ORIG:STELLAR CAPITAL", "STELLAR CAPITAL"],
+    "Main Point Solutions": [
+      "B/O: MAIN POINT SOLUTIONS",
+      "NAME:MainPoint Sol",
+      "NAME:MainPoint Solutions"
+    ],
+    "Mercury Funding": [
+      "B/O: MERCURY FUNDING GROUP",
+      "MERCURY FUNDING",
+      "NAME:MERCURY FUNDING"
+    ],
+    "Power Funding Solutions": [
+      "POWER FUNDING SOLUTIONS",
+      "Power Funding",
+      "NAME:POWER FUNDING",
+      "NAME: POWER FUNDING",
+      "POWER FUNDING SO",
+      "POWERFUNDING"
+    ],
+    "Reboost Capital": [
+      "B/O: REBOOST CAPITAL",
+      "NAME:REBOOST CAPITAL",
+      "NAME: REBOOST CAPITAL",
+      "REBOOST CAPITAL",
+      "REBOOSTCAPITAL"
+    ],
+    "ELJay Cap": [
+      "B/O: ELJAY INVESTMENTS",
+      "NAME:ELJAYCAP",
+      "NAME: ELJAYCAP",
+      "ELJAYCAP",
+      "ELJAY INVESTMENTS"
+    ],
+    "East Shore Equities": [
+      "EAST SHORE EQU DES:CORP PAY",
+      "ESENOW.COM",
+      "EAST SHORE EQU",
+      "ESENOW",
+      "B/O: EAST SHORE EQUITIES SMB",
+      "NAME:EAST SHORE SMB"
+    ],
+    "Calabria Funding": [
+      "/ORG=CALABRIA FUNDING",
+      "Calabria Funding",
+      "NAME:Calabria Funding"
+    ],
+    "DiversiFI Biz Capital": [
+      "DIVERSIFIEBIZ CAPITAL",
+      "ACHPAYMENTEDUELEVATOR",
+      "EDUELEVATOR"
+    ],
+    "JWBT Holdings": ["JWBT HOLDINGS"],
+    "Sutton Funding": ["SuttonFunding", "Sutton Funding"],
+    "GM Funding": ["/ORG=GMFUNDING", "GMFunding", "GM FUNDING"],
+    "Capify Funding": ["CAPIFY FUNDING", "Capify", "CAPIFYFUNDING"],
+    "ROC Funding Group": [
+      "ROC FUNDING GROU",
+      "ROC FUNDING GROUP",
+      "ROC FUNDIN",
+      "ROCFUNDING",
+      "ROCFUNDIN",
+      "CLF"
+    ],
+    "Vivian Capital": ["VIVIAN CAPITAL", "VIVIAN CAPITAL GROUP"],
+    "ASAP Funding": [
+      "ASAP FUNDING GROUP",
+      "NAME:ASAPFUNDING",
+      "ASAPFUNDING",
+      "B/O: ASAP FUNDING GROUP"
+    ],
+    "Black Rok": ["/ORG=BLACK ROK", "BLACK ROK", "BLACKROK"],
+    "Adventure Funding": [
+      "Adventure Fundin",
+      "Adventure Funding",
+      "AdventureFunding",
+      "AdventureFundin"
+    ],
+    "Flagler Advance": [
+      "B/O: FLAGLER ADVANCE",
+      "FLAGLER ADVANCE",
+      "FLAGLERADVANCE"
+    ],
+    "Garden Funding": [
+      "B/O: GARDEN FUNDING",
+      "GARDEN FUNDING",
+      "GARDENFUNDING",
+      "GARDEN FUNDIN",
+      "GARDENFUNDIN",
+      "NAME:GARDEN FUNDING",
+      "NAME: GARDEN FUNDING"
+    ],
+    "Lotus Funding": ["LOTUS FUNDING GR OUP", "Lotus Funding"],
+    "Steddy Fund": [
+      "/ORG=STEDDY FUNDS LLC",
+      "STEDDY FUNDS",
+      "STEDDY FUND",
+      "STEDDYFUNDS",
+      "STEDDYFUND"
+    ],
+    "Invictus": ["INVICTUS PARTNERS LLC", "INVICTUS PARTNERS", "INVICTUS FRPA"],
+    "GCM Prime": ["/ORG=GCM PRIME", "GCM PRIME"],
+    "Rowan Advance": [
+      "ROWANADVANCE",
+      "ROWAN ADVANCE",
+      "NAME:ROWANADVANCE",
+      "NAME:ROWAN ADVANCE"
+    ],
+    "KIF Funding": [
+      "KIF FUNDING",
+      "KIF FUNDING,",
+      "KIFFUNDING",
+      "KIFFUNDIN",
+      "9495903362",
+      "KIF FUNDING,"
+    ],
+    "Total Merchant Funding": [
+      "TMRFUNDING TOTAL MERCHANT",
+      "TMRFUNDING",
+      "TMR FUNDING",
+      "TMRFUNDIN",
+      "TMR FUNDIN",
+      "TOTAL MERCHANT"
+    ],
+    "Harbor Point Capital": [
+      "B/O: HARBORPOINT CAPITAL",
+      "HARBORPOINT CAPITAL",
+      "HARBORPOINTCAPITAL",
+      "NAME:HARBORPOINT CAPI",
+      "NAME:HARBORPOINT CAPITAL",
+      "ORIG ID:2611608955",
+      "HARBORPOINT CAP",
+      "NAME:HARBORPOINT CAP"
+    ],
+    "Credit Line Capital": [
+      "CREDITLINE CAPITAL",
+      "CREDIT LINE CAPITAL",
+      "CREDITLINE CAPIT",
+      "CREDITLINECAPITA",
+      "CREDITLINE CAPITAL GROUP"
+    ],
+    "Coolidge Capital": [
+      "FROM: COOLIDGE CAPITAL",
+      "COOLIDGECAPITAL",
+      "COOLIDGEC",
+      "BNF-COOLIDGE CAPITAL"
+    ],
+    "Smart Step Funding": [
+      "NAME:SMART STEP FUNDI",
+      "NAME:SMART STEP",
+      "NAME:SMART STEP US"
+    ],
+    "Ocean Advance": [
+      "NAME:OCEAN ADVANCE",
+      "OCEAN ADVANCE",
+      "NAME:OCEANADVANCE",
+      "OCEANADVANCE"
+    ],
+    "Thoro Corp": ["THORO CORP"],
+    "Dext Capital": ["DEX CAPITAL OPR", "DEX CAPITAL", "DEXT CAPITAL"],
+    "RocketStone Fundin": [
+      "ROCKSTONE FUNDIN",
+      "ORIG:ROCKSTONE FUNDING GROUP",
+      "ROCKSTONE FUNDING"
+    ],
+    "AMF Team Inc": ["Amf Team Inc", "Amf Team"],
+    "Credexa Capital": ["CredExaCap", "Credexa Capital", "Credexa Cap"],
+    "Palisades Advance": [
+      "PALISAD ADV",
+      "Palisades Advance",
+      "Palisades Adv",
+      "PalisadesAdvance",
+      "PalisadesAdv",
+      "PalisadAdvance"
+    ],
+    "SBF Capital": ["/ORG=SBF CAPITAL", "SBF CAPITAL", "SBFCAPITAL"],
+    "Capital Assist": ["CapitalAssist", "NAME:CapitalAssist", "Capital Assist"],
+    "Kapitale": ["/ORG=KREC", "Kapitale", "7867615086"],
+    "Blue Tie Capital": ["BLUE TIE CAPITAL"],
+    "Star Advance": ["STAR ADVANCE"],
+    "Merit Business": ["Merit Business"],
+    "Regium Funding": [
+      "NAME:REGIUM FUNDING",
+      "Regium Funding",
+      "HCM ENTERPRISES LLC DBA REGIUM",
+      "HCM ENTERPRISES"
+    ],
+    "Backd": [
+      "1/FINWISE BANK/BACKD",
+      "Backd",
+      "NAME:Backd",
+      "ORIG ID:1016207445"
+    ],
+    "Prosperity Funding Group": [
+      "/ORG=PROSPERITY FUNDING GROUP",
+      "PROSPERITY FUNDING GROUP",
+      "PROSPERITY FUND",
+      "FUND PROSPERITY"
+    ],
+    "Lenderfy": ["Lenderfy"]
+  },
+  "transferKeywords": [
+    "online transfer",
+    "Trsf from RGSV",
+    "Online Banking transfer",
+    "TRANSFER FROM",
+    "From Share",
+    "WEB XFER FROM INTERNAL ACCOUNT",
+    "WEB XFER FROM BASIC CHECKING",
+    "Robinhood",
+    "ATM CHECK DEPOSI TW04B392 100 STONE VILLAGE DRIVE FT MILL",
+    "BANK TO BANK TRANSFER",
+    "Transfer between your",
+    "Transfer between",
+    "Tfr from",
+    "FROM ACCOUNT",
+    "Received from Checking",
+    "FROM CHECKING",
+    "FROM SAVINGS",
+    "Acorns",
+    "TRANSFER DEPOSIT FROM",
+    "TR FR",
+    "BKOFAMERICA BC 04/25 #XXXXX7249 FR CHKG 300 S Harbor Blvd",
+    "Mobile Banking Advance From Credit Line",
+    "Internet Banking Transfer",
+    "Mobile Banking Transfer",
+    "Branch acct xfr",
+    "OVERDRAFT PROTECTION",
+    "Transfer to checking",
+    "INTERNET TRF",
+    "Business Savings - Transfer",
+    "Mobile transfer to CHK",
+    "SBAD TREAS 310 MISC PAY 010325",
+    "INTERNET TFR FRMSAVINGS",
+    "24-HOUR GRACE OVERDRAFT FEE WAIV",
+    "WEB XFER FROM SAV",
+    "WEB XFER FROM CHK",
+    "Wire Transfer Deposit 04/12 Card 0000 Wt76 Ref008428 Northern Chgo 240412b02flv",
+    "Wire Transfer Deposit Wt76 Ref007933 Northern Chgo 241209b025x9 12/09 Card 0000",
+    "Transfer in",
+    "FIDELITY",
+    "Morgan Stanley",
+    "A2A xfer",
+    "Wire Transfer Credit VINEYARD INVESTMENT GROUP",
+    "I/B TRANSFER",
+    "Instant Transfer Received FROM",
+    "BUS ONL TFR FRM CHECKING",
+    "FUNDS TRANSFER CR",
+    "USAA Funds Transfer DB",
+    "WT FED#09109 NATIONAL FINANCIAL /ORG=1/ADAM SEBASTIAN MARTINEZ",
+    "Deposit from 360 Checking",
+    "DET:LOAN",
+    "ORIG:ANKIT PATEL",
+    "FUNDS TRANSFER FRM",
+    "Return Item Credit",
+    "Reverse OD item Charge",
+    "CHECKCARD REVERSAL",
+    "Social Security Administration",
+    "PURCHASE RETURN AUTHORIZED",
+    "RETURNED STOP PAY ITEM",
+    "REVERSAL",
+    "RETURNED ITEM",
+    "RETURNED CHECK#",
+    "POS REFUND",
+    "RETURN OF POSTED CHECK",
+    "REVERSE ACH WITHDRAWAL",
+    "REVERSE CHECK",
+    "REVERSE CORPORATE ACH DEBIT",
+    "Returned received ACH",
+    "Rejected ACH Withdrawal",
+    "RETURNED ACH,",
+    "RETURN - CHECK",
+    "REVERSE OVDERDRAFT FEE",
+    "RETURN ITEM",
+    "Check Returned",
+    "Non Check Return"
+  ]
+}

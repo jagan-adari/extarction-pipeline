@@ -1,0 +1,843 @@
+Date,Description,Inflow,Outflow,Ending Daily Balance
+"August 27, 2025",Xfer From ******7554,"$2,500.00",---,"$2,690.53"
+"August 29, 2025",Intuit,---,$916.28,---
+"August 29, 2025",Intuit,---,"$1,187.88",---
+"August 29, 2025",Intuit,---,$505.44,$80.93
+"September 3, 2025",Xfer From ******7554,"$2,530.00",---,"$2,610.93"
+"September 5, 2025",Intuit,---,"$1,187.88",---
+"September 5, 2025",Intuit,---,$505.44,---
+"September 5, 2025",Intuit,---,$916.28,$1.33
+"September 11, 2025",Xfer From ******7562,"$1,000.00",---,---
+"September 11, 2025",Xfer From ******7562,$609.00,---,---
+"September 11, 2025",Xfer From ******7554,"$1,000.00",---,"$2,610.33"
+"September 12, 2025",Intuit,---,"$1,187.88",---
+"September 12, 2025",Intuit,---,$916.28,---
+"September 12, 2025",Intuit,---,$505.44,$0.73
+"September 17, 2025",Xfer From ******7562,"$2,610.00",---,"$2,610.73"
+"September 19, 2025",Intuit,---,"$1,187.88",---
+"September 19, 2025",Intuit,---,$916.28,---
+"September 19, 2025",Intuit,---,$505.44,$1.13
+"September 24, 2025",Xfer From ******7562,"$1,250.00",---,---
+"September 24, 2025",Xfer From ******7554,"$1,250.00",---,"$2,501.13"
+"September 26, 2025",Intuit,---,$408.23,---
+"September 26, 2025",Xfer To ******7562,---,$150.00,---
+"September 26, 2025",Intuit,---,"$1,187.88",---
+"September 26, 2025",Intuit,---,$748.48,$6.54
+"October 2, 2025",Deposit,"$1,500.00",---,---
+"October 2, 2025",Deposit,$800.00,---,"$2,306.54"
+"October 3, 2025",Intuit,---,$748.48,---
+"October 3, 2025",Intuit,---,"$1,187.88",---
+"October 3, 2025",Intuit,---,$359.61,$10.57
+"October 9, 2025",Xfer From ******7562,"$2,335.00",---,"$2,345.57"
+"October 10, 2025",Intuit,---,"$1,187.88",---
+"October 10, 2025",Intuit,---,$748.48,---
+"October 10, 2025",Intuit,---,$408.23,$0.98
+"October 16, 2025",Xfer To ******7562,---,$325.00,---
+"October 16, 2025",Deposit,"$1,875.00",---,"$1,550.98"
+"October 17, 2025",Intuit,---,"$1,187.88",---
+"October 17, 2025",Intuit,---,$292.78,---
+"October 17, 2025",Intuit,---,$56.28,$14.04
+"October 21, 2025",Xfer From ******7562,"$1,850.00",---,"$1,864.04"
+"October 22, 2025",Xfer To ******7562,---,$15.00,"$1,849.04"
+"October 24, 2025",Intuit,---,"$1,187.88",---
+"October 24, 2025",Intuit,---,$657.34,$3.82
+"October 31, 2025",Intuit,---,$837.14,---
+"October 31, 2025",Intuit,---,"$1,187.88",---
+"October 31, 2025",Intuit,---,$29.00,---
+"October 31, 2025",Salary/Regular Income from Intuit,"$1,187.88",---,---
+"October 31, 2025",INTUIT 63921184 - PAYROLL 17968892,---,$29.00,$891.32
+"November 3, 2025",Deposit,$900.00,---,$8.68
+"November 4, 2025",Xfer From ******7562,"$1,500.00",---,"$1,508.68"
+"November 5, 2025",Intuit Service Charges/Fees,---,$100.00,---
+"November 5, 2025",Intuit,---,"$1,187.88",$220.80
+"November 6, 2025",Xfer From ******7562,"$2,750.00",---,---
+"November 6, 2025",Xfer From ******7562,"$2,000.00",---,"$4,970.80"
+"November 7, 2025",Over Counter Check # 1062,---,"$1,187.88","$3,782.92"
+"November 10, 2025",Check # 1063: Completed,---,$879.50,---
+"November 10, 2025",Check # 1064: Completed,---,$879.50,---
+"November 10, 2025",Check # 1065: Completed,---,$879.50,"$1,144.42"
+"November 12, 2025",Check # 1061: Completed,---,$916.28,$228.14
+"November 13, 2025",Xfer From ******7562,"$2,000.00",---,---
+"November 13, 2025",Xfer To ******7562,---,$225.00,"$2,003.14"
+"November 14, 2025",Intuit,---,"$1,187.88",---
+"November 14, 2025",Xfer To ******7562,---,$65.00,---
+"November 14, 2025",Intuit,---,$748.48,$1.78
+"November 17, 2025",Xfer From ******7562,"$2,000.00",---,"$2,001.78"
+"November 19, 2025",Xfer From ******7562,$150.00,---,"$2,151.78"
+"November 21, 2025",Intuit,---,"$1,187.88",---
+"November 21, 2025",Intuit,---,$916.28,---
+"November 21, 2025",Xfer To ******7562,---,$47.00,$0.62
+"November 26, 2025",Xfer From ******7562,"$1,575.00",---,"$1,575.62"
+"November 28, 2025",Intuit,---,$383.92,---
+"November 28, 2025",Intuit,---,"$1,187.88",$3.82
+"December 3, 2025",Xfer From ******7562,"$2,105.00",---,"$2,108.82"
+"December 5, 2025",Intuit,---,$916.28,---
+"December 5, 2025",Intuit,---,"$1,187.88",$4.66
+"December 11, 2025",Xfer From ******7562,"$2,000.00",---,"$2,004.66"
+"December 12, 2025",Intuit,---,"$1,187.88",---
+"December 12, 2025",Intuit,---,$748.48,$68.30
+"December 18, 2025",Xfer From ******7562,"$1,900.00",---,"$1,968.30"
+"December 19, 2025",Intuit,---,$748.48,---
+"December 19, 2025",Intuit,---,"$1,187.88",$31.94
+"December 23, 2025",Xfer From ******7562,$50.00,---,---
+"December 23, 2025",Xfer From ******7562,"$2,025.00",---,"$2,106.94"
+"December 26, 2025",Intuit,---,"$1,187.88",---
+"December 26, 2025",Intuit,---,$916.28,$2.78
+"December 29, 2025",Xfer From ******7562,"$2,117.00",---,"$2,119.78"
+"January 2, 2026",Intuit,---,"$1,193.33",---
+"January 2, 2026",Intuit,---,$924.82,$1.63
+"January 8, 2026",Xfer From ******7562,"$1,500.00",---,---
+"January 8, 2026",Xfer From ******7562,$619.00,---,"$2,120.63"
+"January 9, 2026",Intuit,---,$924.82,---
+"January 9, 2026",Intuit,---,"$1,193.33",$2.48
+"January 15, 2026",Xfer From ******7562,"$2,118.00",---,"$2,120.48"
+"January 16, 2026",Intuit,---,"$1,193.33",---
+"January 16, 2026",Intuit,---,$924.82,$2.33
+"January 21, 2026",Xfer From ******7562,"$2,118.00",---,"$2,120.33"
+"August 27, 2025",DOR ITS PAYMENTS - INDORITS XX1113,---,$29.00,---
+"August 27, 2025",DOR ITS PAYMENTS - INDORITS XX1113,---,$574.82,---
+"August 27, 2025",Xfer From ******7554,$475.00,---,---
+"August 27, 2025",,---,$90.00,---
+"August 27, 2025",Xfer From ******7554,$750.00,---,---
+"August 27, 2025",Xfer From ******7554,$500.00,---,---
+"August 27, 2025",Withdrawal,---,$475.00,---
+"August 27, 2025",Xfer From ******7554,$48.00,---,---
+"August 27, 2025",Reversal,$29.00,---,---
+"August 27, 2025",Deposit,$475.00,---,"$1,441.03"
+"August 28, 2025",Fundbox,---,$652.60,---
+"August 28, 2025",Reversal,$29.00,---,---
+"August 28, 2025",Deposit,$750.00,---,---
+"August 28, 2025",,---,$25.98,---
+"August 28, 2025",,$800.00,---,"$2,341.45"
+"August 29, 2025",Xfer To ******3665,---,"$1,084.46",---
+"August 29, 2025",,---,$327.41,---
+"August 29, 2025",Amazon,---,$42.79,---
+"August 29, 2025",Quickbooks,---,$243.00,$643.79
+"August 30, 2025",Walmart,---,$88.01,---
+"August 30, 2025",Amazon,---,$18.18,$537.60
+"September 1, 2025",Xfer From ******7554,$150.00,---,---
+"September 1, 2025",Circle K,---,$32.75,---
+"September 1, 2025",Walmart,---,$116.26,---
+"September 1, 2025",SP AFF ELORY C SAN FRANCISCO CAUS,---,$26.93,$511.66
+"September 2, 2025",,---,$27.00,---
+"September 2, 2025",Giant Eagle,---,$34.00,---
+"September 2, 2025",THE KROOT CORP - RECEIVABLE,$300.00,---,---
+"September 2, 2025",Giant Eagle,---,$8.55,---
+"September 2, 2025",Giant Eagle,---,$84.75,$657.36
+"September 3, 2025",Xfer From ******7554,$450.00,---,---
+"September 3, 2025",Intuit Financing,---,$172.25,---
+"September 3, 2025",Intuit Financing,---,$88.38,---
+"September 3, 2025",Xfer From *****9370,$100.00,---,$946.73
+"September 4, 2025",Centra Credit Union,"$1,100.00",---,---
+"September 4, 2025",Fundbox,---,$652.60,---
+"September 4, 2025",Xfer To *****9370,---,$250.00,"$1,144.13"
+"September 5, 2025",Buc-ee's,---,$181.78,---
+"September 5, 2025",Sirius XM,---,$32.07,---
+"September 5, 2025",Payment to Discover Bank,---,$202.00,---
+"September 5, 2025",Amazon,---,$102.92,$625.36
+"September 6, 2025",Buc-ee's,---,$18.00,---
+"September 6, 2025",Walmart,---,$33.11,$574.25
+"September 7, 2025",SP AFF TWS USA SAN FRANCISCO CAUS,---,$17.95,$556.30
+"September 8, 2025",Xfer From ******7554,$300.00,---,---
+"September 8, 2025",Giant Eagle,---,$24.60,---
+"September 8, 2025",Giant Eagle,---,$54.76,---
+"September 8, 2025",Kwik Trip,---,$82.25,---
+"September 8, 2025",Giant Eagle,---,$24.60,---
+"September 8, 2025",Giant Eagle,---,$32.00,$638.09
+"September 9, 2025",Love's,---,$93.00,---
+"September 9, 2025",Lowe's,---,$100.00,---
+"September 9, 2025",Giant Eagle,---,$20.01,---
+"September 9, 2025",Xfer From ******7554,$300.00,---,$725.08
+"September 10, 2025",Deposit,$675.00,---,"$1,400.08"
+"September 11, 2025",Fundbox,---,$652.60,---
+"September 11, 2025",Sheffield Financial,---,$419.97,---
+"September 11, 2025",,---,$44.00,---
+"September 11, 2025",Xfer To ******7570,---,$609.00,---
+"September 11, 2025",Xfer To ******7570,---,"$1,000.00",---
+"September 11, 2025",Audible,---,$14.98,---
+"September 11, 2025",Fundbox,"$2,333.00",---,---
+"September 11, 2025",Intuit Financing,---,$334.54,---
+"September 11, 2025",Deposit,"$1,050.00",---,"$1,707.99"
+"September 12, 2025",Intuit Financing,---,$57.42,---
+"September 12, 2025",,---,$83.43,---
+"September 12, 2025",Xfer To ******8704,---,$150.00,"$1,417.14"
+"September 13, 2025",,---,$30.00,---
+"September 13, 2025",Xfer To ******2180,---,$153.28,"$1,233.86"
+"September 14, 2025",,---,$104.71,"$1,129.15"
+"September 15, 2025",,$575.00,---,---
+"September 15, 2025",Intuit Financing,---,$143.37,---
+"September 15, 2025",Deposit,"$2,375.00",---,---
+"September 15, 2025",Stinker,---,$22.41,---
+"September 15, 2025",IRS Deposit,"$4,215.63",---,---
+"September 15, 2025",Audible,---,$14.98,---
+"September 15, 2025",Audible,---,$14.98,---
+"September 15, 2025",Tax Payment to IRS,---,"$4,215.63",---
+"September 15, 2025",IRS - USATAXPYMT 220565812482414,---,$29.00,---
+"September 15, 2025",Payment to Synchrony Bank,---,$150.00,---
+"September 15, 2025",GOOD TO GO STOR CODY CODY WYUS,---,$50.50,---
+"September 15, 2025",Stinker,---,$50.00,---
+"September 15, 2025",Payment to Vectren,---,$68.77,---
+"September 15, 2025",Xfer From ******7554,"$1,500.00",---,---
+"September 15, 2025",Intuit Financing,---,$90.83,---
+"September 15, 2025",Conoco Gas Station,---,$62.75,---
+"September 15, 2025",Payment to Chase,---,$200.00,"$4,681.56"
+"September 16, 2025",Intuit Financing,---,$119.63,---
+"September 16, 2025",Intuit Financing,---,$358.82,---
+"September 16, 2025",Buc-ee's,---,$66.50,---
+"September 16, 2025",Intuit Financing,---,$129.14,"$4,007.47"
+"September 17, 2025",Xfer To ******7570,---,"$2,610.00",---
+"September 17, 2025",,---,$94.04,---
+"September 17, 2025",Audible,---,$14.94,---
+"September 17, 2025",Xfer To *****9370,---,$250.00,---
+"September 17, 2025",Xfer To *****9370,---,"$1,000.00",---
+"September 17, 2025",,---,$8.35,---
+"September 17, 2025",Giant Eagle,---,$66.73,---
+"September 17, 2025",Fundbox,$601.00,---,---
+"September 17, 2025",Audible,---,$14.98,---
+"September 17, 2025",Intuit Financing,---,$145.86,---
+"September 17, 2025",,$700.00,---,"$1,103.57"
+"September 18, 2025",,---,$70.50,---
+"September 18, 2025",Fundbox,---,$652.60,---
+"September 18, 2025",Xfer From ******7554,$25.00,---,---
+"September 18, 2025",,---,$22.79,---
+"September 18, 2025",Payment to American Express,---,$100.00,---
+"September 18, 2025",Conoco Gas Station,---,$35.00,---
+"September 18, 2025",Deposit,"$3,125.00",---,---
+"September 18, 2025",SP AFF GRUNTST SAN FRANCISCO CAUS,---,$64.72,---
+"September 18, 2025",Payment to Affirm.com,---,$90.26,"$3,217.70"
+"September 19, 2025",Deposit,"$1,200.00",---,---
+"September 19, 2025",Xfer To ******7554,---,"$1,850.00",---
+"September 19, 2025",Maverik,---,$44.00,---
+"September 19, 2025",7-Eleven,---,$46.00,---
+"September 19, 2025",7-Eleven,---,$29.58,---
+"September 19, 2025",Intuit Financing,---,$45.46,---
+"September 19, 2025",Tiny Town Cabins,---,$63.01,---
+"September 19, 2025",Intuit Financing,---,$33.49,"$2,306.16"
+"September 20, 2025",,---,$169.19,---
+"September 20, 2025",,---,$39.99,---
+"September 20, 2025",Tractor Supply Company,---,$10.53,"$2,086.45"
+"September 21, 2025",ExxonMobil,---,$81.00,---
+"September 21, 2025",,---,$7.56,"$1,997.89"
+"September 22, 2025",Payment to Citibank,---,$200.00,---
+"September 22, 2025",Xfer From ******7554,$250.00,---,---
+"September 22, 2025",Xfer To ******8704,---,$125.00,---
+"September 22, 2025",,---,$38.41,---
+"September 22, 2025",Source One,---,$475.00,---
+"September 22, 2025",Iu Credit Union,---,$500.00,---
+"September 22, 2025",Chevron,---,$80.75,$828.73
+"September 23, 2025",Payment to Verizon Wireless,---,$400.46,---
+"September 23, 2025",Best Buy,---,$175.00,---
+"September 23, 2025",Xfer From ******7554,$250.00,---,---
+"September 23, 2025",Payment to Affirm.com,---,$121.42,$381.85
+"September 24, 2025",Deposit,"$2,396.00",---,---
+"September 24, 2025",Intuit Deposit,"$1,125.00",---,---
+"September 24, 2025",Maverik,---,$70.51,---
+"September 24, 2025",,---,$75.00,---
+"September 24, 2025",Intuit Service Charges/Fees,---,$11.25,---
+"September 24, 2025",Xfer To ******7570,---,"$1,250.00",---
+"September 24, 2025",Walmart,---,$72.97,"$2,423.12"
+"September 25, 2025",Fundbox,---,$786.46,---
+"September 25, 2025",Texaco,---,$11.75,---
+"September 25, 2025",Last Stop,---,$68.75,"$1,556.16"
+"September 26, 2025",Xfer From ******7570,$150.00,---,---
+"September 26, 2025",Chevron,---,$30.00,"$1,676.16"
+"September 27, 2025",,---,$181.25,"$1,494.91"
+"September 28, 2025",,---,$25.98,---
+"September 28, 2025",Chevron,---,$77.50,---
+"September 28, 2025",,---,$32.06,---
+"September 28, 2025",,---,$48.09,---
+"September 28, 2025",SP AFF WINDOWS SAN FRANCISCO CAUS,---,$50.82,---
+"September 28, 2025",,---,$59.50,---
+"September 28, 2025",Maverik,---,$50.75,---
+"September 28, 2025",Maverik,---,$60.25,"$1,089.96"
+"September 29, 2025",Quickbooks,---,$243.00,---
+"September 29, 2025",Shell,---,$72.00,---
+"September 29, 2025",Buc-ee's,---,$43.75,---
+"September 29, 2025",DOR ITS PAYMENTS - INDORITS XX0403,---,$29.00,---
+"September 29, 2025",On The Run,---,$75.50,---
+"September 29, 2025",DOR ITS PAYMENTS - INDORITS XX0403,---,$813.44,---
+"September 29, 2025",,---,$327.41,---
+"September 29, 2025",Deposit,"$1,886.00",---,---
+"September 29, 2025",Deposit,$800.00,---,"$2,171.86"
+"September 30, 2025",Payment to Affirm.com,---,$24.50,---
+"September 30, 2025",Intuit Financing,---,$76.49,---
+"September 30, 2025",Pilot Flying J,---,$70.75,"$2,000.12"
+"October 1, 2025",,---,$150.57,---
+"October 1, 2025",Payment to Duke Energy,---,$180.23,---
+"October 1, 2025",Intuit Financing,---,$88.38,---
+"October 1, 2025",Xfer To ******8704,---,$175.00,---
+"October 1, 2025",Fundbox,"$1,346.00",---,"$2,751.94"
+"October 2, 2025",,$325.00,---,---
+"October 2, 2025",Withdrawal,---,$800.00,---
+"October 2, 2025",,---,$73.00,---
+"October 2, 2025",Amazon,---,$64.19,---
+"October 2, 2025",Payment to Discover Bank,---,$243.57,---
+"October 2, 2025",Payment to First Insurance,---,$472.50,---
+"October 2, 2025",Fundbox,---,$786.46,---
+"October 2, 2025",Payment to Chase,---,$200.00,$437.22
+"October 3, 2025",Intuit Financing,---,$172.25,---
+"October 3, 2025",Deposit,$850.00,---,---
+"October 3, 2025",Walmart,---,$57.98,---
+"October 3, 2025",Gillman Home Center,---,$6.18,"$1,050.81"
+"October 4, 2025",Amazon,---,$6.94,"$1,043.87"
+"October 5, 2025",Sirius XM,---,$32.07,---
+"October 5, 2025",Arby's,---,$21.05,$990.75
+"October 6, 2025",Giant Eagle,---,$43.25,---
+"October 6, 2025",Xfer To ******7421,---,$819.20,---
+"October 6, 2025",Giant Eagle,---,$77.50,---
+"October 6, 2025",Deposit,"$2,675.00",---,---
+"October 6, 2025",Applebee's,---,$104.09,---
+"October 6, 2025",Giant Eagle,---,$58.70,"$2,563.01"
+"October 7, 2025",Lowe's,---,$100.00,---
+"October 7, 2025",Amazon,---,$302.65,---
+"October 7, 2025",Xfer To ******3665,---,"$1,138.68",---
+"October 7, 2025",Deposit,"$5,534.00",---,"$6,555.68"
+"October 8, 2025",Payment to Pekin Insurance,---,"$1,982.83",---
+"October 8, 2025",Xfer To *****9370,---,$200.00,---
+"October 8, 2025",Amazon,---,$47.12,"$4,325.73"
+"October 9, 2025",Fundbox,---,$847.58,---
+"October 9, 2025",Sheffield Financial,---,$419.97,---
+"October 9, 2025",Xfer To ******7570,---,"$2,335.00",$723.18
+"October 10, 2025",Centra Credit Union,$350.00,---,---
+"October 10, 2025",RMT*IV*XXXX*175.00\DTM*XXX*XX0902\,$175.00,---,---
+"October 10, 2025",Xfer To ******2180,---,$175.00,"$1,073.18"
+"October 11, 2025",Deposit,$325.00,---,"$1,398.18"
+"October 12, 2025",Sport Clips,---,$74.00,---
+"October 12, 2025",Walmart,---,$67.47,"$1,256.71"
+"October 14, 2025",Payment to Capital One,---,$100.00,---
+"October 14, 2025",Deposit,"$1,025.00",---,---
+"October 14, 2025",Intuit Financing,---,$334.54,---
+"October 14, 2025",Payment to Synchrony Bank,---,$150.00,---
+"October 14, 2025",Deposit,"$2,575.00",---,---
+"October 14, 2025",Menards,---,$21.33,---
+"October 14, 2025",THE KROOT CORP - RECEIVABLE,$300.00,---,---
+"October 14, 2025",Subway,---,$13.25,"$4,537.59"
+"October 15, 2025",Intuit Financing,---,$54.99,---
+"October 15, 2025",Intuit Financing,---,$119.63,---
+"October 15, 2025",Tax Payment to IRS,---,"$3,240.84",---
+"October 15, 2025",Amazon,---,$20.31,---
+"October 15, 2025",Payment to Chase,---,$250.00,---
+"October 15, 2025",RMT*IV*XXXX*175.00\DTM*XXX*XX1001\,$175.00,---,---
+"October 15, 2025",American Express,---,$150.00,---
+"October 15, 2025",Payment to Citibank,---,$125.00,---
+"October 15, 2025",Intuit Financing,---,$358.82,---
+"October 15, 2025",Intuit Financing,---,$129.14,---
+"October 15, 2025",Xfer To *****9370,---,$300.00,---
+"October 15, 2025",Town Of Paris,---,$106.36,---
+"October 15, 2025",Intuit Financing,---,$57.42,---
+"October 15, 2025",Intuit Deposit,"$1,350.00",---,---
+"October 15, 2025",Pressure Washer Payment,"$1,625.00",---,---
+"October 15, 2025",Intuit Financing,---,$90.83,---
+"October 15, 2025",Intuit Service Charges/Fees,---,$40.37,---
+"October 15, 2025",Intuit Financing,---,$143.37,"$2,500.51"
+"October 16, 2025",Fundbox,---,$847.58,---
+"October 16, 2025",Best Buy,---,$150.00,---
+"October 16, 2025",,---,$3.46,---
+"October 16, 2025",,---,$79.01,---
+"October 16, 2025",Xfer From ******7570,$325.00,---,"$1,745.46"
+"October 17, 2025",Gillman Home Center,---,$20.19,---
+"October 17, 2025",Deposit,$300.00,---,---
+"October 17, 2025",Pilot Flying J,---,$25.28,---
+"October 17, 2025",Withdrawal,---,$300.00,---
+"October 17, 2025",,"$1,275.00",---,---
+"October 17, 2025",Fundbox,"$1,504.00",---,---
+"October 17, 2025",Giant Eagle,---,$76.75,---
+"October 17, 2025",Deposit,$225.00,---,---
+"October 17, 2025",Payment to Vectren,---,$55.72,---
+"October 17, 2025",Deposit,"$2,300.00",---,---
+"October 17, 2025",Withdrawal,---,$225.00,---
+"October 17, 2025",Intuit Financing,---,$145.86,"$6,500.66"
+"October 18, 2025",Grunt Style,---,$64.72,---
+"October 18, 2025",,---,$347.72,---
+"October 18, 2025",Xfer To ******8704,---,$150.00,"$5,938.22"
+"October 20, 2025",Intuit Financing,---,$66.95,---
+"October 20, 2025",Uplift,---,$169.19,---
+"October 20, 2025",Texas Roadhouse,---,$139.84,---
+"October 20, 2025",Check # 1046: Completed,---,"$4,300.00",---
+"October 20, 2025",Payment to Capital One,---,$100.00,---
+"October 20, 2025",Payment to Affirm.com,---,$90.26,---
+"October 20, 2025",Walmart,---,$52.93,---
+"October 20, 2025",Deposit,$200.00,---,---
+"October 20, 2025",,---,$39.99,"$1,179.06"
+"October 21, 2025",Kroger Fuel Center,---,$38.91,---
+"October 21, 2025",Giant Eagle,---,$73.50,---
+"October 21, 2025",Payment to Capital One,---,$300.00,---
+"October 21, 2025",Intuit Financing,---,$45.46,---
+"October 21, 2025",Source One,---,$475.00,---
+"October 21, 2025",Deposit,"$2,675.00",---,---
+"October 21, 2025",Iu Credit Union,---,$450.00,---
+"October 21, 2025",Xfer From *****9370,$300.00,---,---
+"October 21, 2025",Intuit Financing,---,$33.49,---
+"October 21, 2025",Giant Eagle,---,$44.11,---
+"October 21, 2025",Xfer To ******7570,---,"$1,850.00",---
+"October 21, 2025",Source One,---,$29.00,$814.59
+"October 22, 2025",Xfer From ******7570,$15.00,---,---
+"October 22, 2025",Deposit,$450.00,---,---
+"October 22, 2025",Audible,---,$18.68,"$1,260.91"
+"October 23, 2025",Fundbox,---,$29.00,---
+"October 23, 2025",Deposit,$200.00,---,---
+"October 23, 2025",Xfer From ******4172,$80.00,---,---
+"October 23, 2025",Deposit,$29.00,---,---
+"October 23, 2025",Payment to Affirm.com,---,$121.42,---
+"October 23, 2025",Fundbox,---,$847.58,---
+"October 23, 2025",Payment to Verizon Wireless,---,$401.89,$170.02
+"October 24, 2025",Deposit,$42.00,---,---
+"October 24, 2025",Giant Eagle,---,$30.00,$182.02
+"October 27, 2025",Martin Orthodontics,---,$181.25,---
+"October 27, 2025",Giant Eagle,---,$30.51,---
+"October 27, 2025",Fundbox,$789.00,---,$759.26
+"October 28, 2025",Intuit Financing,---,$76.49,---
+"October 28, 2025",Deposit,$775.00,---,---
+"October 28, 2025",,---,$25.98,---
+"October 28, 2025",Windows,---,$50.82,"$1,380.97"
+"October 29, 2025",Quickbooks,---,$233.00,---
+"October 29, 2025",,---,$327.41,---
+"October 29, 2025",,$275.00,---,---
+"October 29, 2025",DOR ITS PAYMENTS - INDORITS XX4364,---,$515.40,---
+"October 29, 2025",Xfer To ******8704,---,$75.00,---
+"October 29, 2025",Fundbox,$790.00,---,"$1,295.16"
+"October 30, 2025",Walmart,---,$87.31,---
+"October 30, 2025",Fundbox,---,$916.21,---
+"October 30, 2025",Payment to Affirm.com,---,$24.50,$267.14
+"October 31, 2025",Giant Eagle,---,$75.25,---
+"October 31, 2025",,$125.00,---,---
+"October 31, 2025",Deposit,$400.00,---,$716.89
+"November 1, 2025",Xfer To ******8704,---,$100.00,$616.89
+"November 2, 2025",,---,$205.23,$411.66
+"November 3, 2025",Intuit Financing,---,$88.38,---
+"November 3, 2025",Giant Eagle,---,$36.00,---
+"November 3, 2025",Deposit,"$10,926.00",---,---
+"November 3, 2025",Xfer To ******7421,---,$792.77,---
+"November 3, 2025",Deposit,"$1,775.00",---,---
+"November 3, 2025",Xfer To ******3665,---,"$1,084.46",---
+"November 3, 2025",Payment to Discover Bank,---,$212.00,---
+"November 3, 2025",Xfer To ******3665,---,$250.00,---
+"November 3, 2025",Xfer To *****9370,---,$350.00,"$10,299.05"
+"November 4, 2025",Intuit Financing,---,$31.07,---
+"November 4, 2025",Intuit Financing,---,$172.25,---
+"November 4, 2025",Amazon,---,$16.03,---
+"November 4, 2025",Xfer To ******7570,---,"$1,500.00",---
+"November 4, 2025",Payment to First Insurance,---,$414.88,---
+"November 4, 2025",,---,$350.00,---
+"November 4, 2025",Amazon,---,$16.03,---
+"November 4, 2025",Payment to Chase,---,$250.00,---
+"November 4, 2025",Hyundai Motor Company,---,$793.24,---
+"November 4, 2025",,---,$83.72,"$6,671.83"
+"November 5, 2025",Payment to Pekin Insurance,---,$990.76,---
+"November 5, 2025",Lowe's,---,$250.00,---
+"November 5, 2025",Sirius XM,---,$45.98,---
+"November 5, 2025",,"$13,550.00",---,"$18,935.09"
+"November 6, 2025",Xfer To ******7570,---,"$2,750.00",---
+"November 6, 2025",Xfer To ******7570,---,"$2,000.00",---
+"November 6, 2025",Fundbox,$845.00,---,---
+"November 6, 2025",Fundbox,---,$987.94,"$14,042.15"
+"November 7, 2025",Xfer To *****9370,---,"$1,187.88",---
+"November 7, 2025",,$75.00,---,---
+"November 7, 2025",Check # 1047: Completed,---,"$2,500.00",---
+"November 7, 2025",Transfer to Dick's Sporting Goods,---,$100.00,---
+"November 7, 2025",Intuit Deposit,$800.00,---,---
+"November 7, 2025",Giant Eagle,---,$48.50,---
+"November 7, 2025",Payment to Capital One,---,$192.85,---
+"November 7, 2025",Lowe's,---,$88.18,---
+"November 7, 2025",Sheffield Financial,---,$419.97,---
+"November 7, 2025",Payment to Capital One,---,$332.05,---
+"November 7, 2025",Over Counter Check # 1049,---,"$3,000.00",---
+"November 7, 2025",Deposit,"$1,187.88",---,---
+"November 7, 2025",Intuit Service Charges/Fees,---,$8.00,"$8,227.60"
+"November 8, 2025",,---,$320.73,---
+"November 8, 2025",,---,$348.94,---
+"November 8, 2025",Amazon,---,$76.60,---
+"November 8, 2025",Xfer To ******8704,---,$175.00,---
+"November 8, 2025",,---,$93.81,---
+"November 8, 2025",,---,$9.59,"$7,202.93"
+"November 9, 2025",CVS Pharmacy,---,$59.73,---
+"November 9, 2025",,---,$205.42,"$6,937.78"
+"November 10, 2025",Giant Eagle,---,$69.00,---
+"November 10, 2025",,---,$210.00,---
+"November 10, 2025",Lowe's,---,$64.16,---
+"November 10, 2025",Giant Eagle,---,$24.60,---
+"November 10, 2025",THE KROOT CORP - RECEIVABLE,$300.00,---,---
+"November 10, 2025",Amazon,---,$84.51,---
+"November 10, 2025",Payment to Progressive Corporation,---,$651.00,---
+"November 10, 2025",Amazon,---,$29.91,---
+"November 10, 2025",,---,$69.02,---
+"November 10, 2025",Amazon,---,$10.74,---
+"November 10, 2025",,---,$500.00,"$5,524.84"
+"November 12, 2025",Check # 1048: Completed,---,"$2,000.00",---
+"November 12, 2025",Deposit,"$1,425.00",---,---
+"November 12, 2025",Payment to Walmart Plus,---,$98.00,---
+"November 12, 2025",Intuit Financing,---,$334.54,"$4,517.30"
+"November 13, 2025",Intuit Financing,---,$57.42,---
+"November 13, 2025",Intuit Financing,---,$90.83,---
+"November 13, 2025",Tax Payment to IRS,---,"$3,242.79",---
+"November 13, 2025",Fundbox,---,$987.94,---
+"November 13, 2025",Xfer From *****9370,"$2,475.00",---,---
+"November 13, 2025",Payment to Chase,---,$200.00,---
+"November 13, 2025",Xfer From ******7570,$225.00,---,---
+"November 13, 2025",Tax Payment to IRS,---,$29.00,---
+"November 13, 2025",Intuit Financing,---,$143.37,---
+"November 13, 2025",Xfer From *****9370,$125.00,---,---
+"November 13, 2025",Xfer To ******7570,---,"$2,000.00",---
+"November 13, 2025",Xfer To *****9370,---,$275.00,---
+"November 13, 2025",,---,$31.46,---
+"November 13, 2025",Xfer From *****9370,$125.00,---,---
+"November 13, 2025",Walmart,---,$115.05,$294.44
+"November 14, 2025",Intuit Financing,---,$119.63,---
+"November 14, 2025",CP-Paid,---,$29.00,---
+"November 14, 2025",Walmart,---,$78.61,---
+"November 14, 2025",Xfer From ******7570,$65.00,---,---
+"November 14, 2025",Check # 1050: Completed,---,$255.00,---
+"November 14, 2025",Payment to Synchrony Bank,---,$150.00,---
+"November 14, 2025",Xfer From *****9370,$50.00,---,---
+"November 14, 2025",,$600.00,---,---
+"November 14, 2025",Centra Credit Union,$150.00,---,---
+"November 14, 2025",Intuit Financing,---,$54.99,---
+"November 14, 2025",Intuit Financing,---,$358.82,$113.39
+"November 15, 2025",Xfer From ******7554,$150.00,---,$263.39
+"November 17, 2025",Payment to Vectren,---,$72.57,---
+"November 17, 2025",Xfer To ******7570,---,"$2,000.00",---
+"November 17, 2025",Fundbox,$903.00,---,---
+"November 17, 2025",Xfer To ******2180,---,$175.00,---
+"November 17, 2025",Deposit,"$2,825.00",---,---
+"November 17, 2025",Xfer From ******7554,"$5,350.00",---,---
+"November 17, 2025",Intuit Financing,---,$129.14,"$6,964.68"
+"November 18, 2025",TF Group Inc/Taycor financial,---,"$5,639.15",---
+"November 18, 2025",Intuit Financing,---,$121.89,---
+"November 18, 2025",Intuit Financing,---,$145.86,---
+"November 18, 2025",Payment to American Express,---,$125.00,---
+"November 18, 2025",Domestic x3728,---,$15.00,---
+"November 18, 2025",SP AFF GRUNTST SAN FRANCISCO CAUS,---,$64.72,---
+"November 18, 2025",Intuit Financing,---,$66.95,---
+"November 18, 2025",,$825.00,---,---
+"November 18, 2025",Xfer To ******8704,---,$100.00,---
+"November 18, 2025",Payment to Affirm.com,---,$90.26,---
+"November 18, 2025",Payment to Citibank,---,$125.00,"$1,295.85"
+"November 19, 2025",Xfer To ******7570,---,$150.00,---
+"November 19, 2025",Intuit Deposit,"$1,350.00",---,---
+"November 19, 2025",Intuit Financing,---,$45.46,---
+"November 19, 2025",Walmart,---,$176.85,---
+"November 19, 2025",Intuit Service Charges/Fees,---,$13.50,---
+"November 19, 2025",Intuit Financing,---,$33.49,"$2,226.55"
+"November 20, 2025",,$325.00,---,---
+"November 20, 2025",Source One,---,$475.00,---
+"November 20, 2025",,---,$39.99,---
+"November 20, 2025",Uplift,---,$169.19,---
+"November 20, 2025",Fundbox,---,"$1,026.54",---
+"November 20, 2025",Deposit,$600.00,---,---
+"November 20, 2025",Iu Credit Union,---,$500.00,---
+"November 20, 2025",Payment to Capital One,---,$150.00,$790.83
+"November 21, 2025",Xfer From ******7570,$47.00,---,$837.83
+"November 22, 2025",Deposit,$225.00,---,"$1,062.83"
+"November 24, 2025",Payment to Affirm.com,---,$121.42,---
+"November 24, 2025",Payment to Verizon Wireless,---,$401.89,---
+"November 24, 2025",Walmart,---,$83.75,---
+"November 24, 2025",Giant Eagle,---,$81.00,$374.77
+"November 25, 2025",,---,$22.25,---
+"November 25, 2025",Fundbox,"$1,859.00",---,---
+"November 25, 2025",Riverlink,---,$20.00,"$2,191.52"
+"November 26, 2025",,---,$181.25,---
+"November 26, 2025",Centra Credit Union,"$3,000.00",---,---
+"November 26, 2025",Xfer To ******7570,---,"$1,575.00",---
+"November 26, 2025",,---,$20.00,"$3,415.27"
+"November 28, 2025",,---,$25.98,---
+"November 28, 2025",Windows,---,$50.82,---
+"November 28, 2025",Xfer To ******3665,---,$250.00,---
+"November 28, 2025",Fundbox,---,"$1,067.75",---
+"November 28, 2025",Xfer To ******7421,---,$800.00,---
+"November 28, 2025",Giant Eagle,---,$24.50,---
+"November 28, 2025",Xfer To ******3665,---,"$1,084.46",---
+"November 28, 2025",Giant Eagle,---,$53.36,---
+"November 28, 2025",Deposit,"$13,525.00",---,"$13,583.40"
+"November 29, 2025",Walmart,---,$18.45,---
+"November 29, 2025",Quickbooks,---,$233.00,---
+"November 29, 2025",Xfer To ******8704,---,$350.00,---
+"November 29, 2025",,---,$200.00,---
+"November 29, 2025",Lowe's,---,$311.97,---
+"November 29, 2025",,---,$211.85,---
+"November 29, 2025",Walmart,---,$92.55,---
+"November 29, 2025",MyPillow,---,$176.38,"$11,989.20"
+"November 30, 2025",,---,$327.41,---
+"November 30, 2025",,---,$21.07,---
+"November 30, 2025",CVS Pharmacy,---,$86.54,"$11,554.18"
+"December 1, 2025",Sam's Club,---,$675.49,---
+"December 1, 2025",Best Buy,---,$350.00,---
+"December 1, 2025",Walmart,---,$27.33,---
+"December 1, 2025",Payment to Capital One,---,$52.75,---
+"December 1, 2025",Payment to American Express,---,$500.00,---
+"December 1, 2025",Payment to Capital One,---,$368.54,---
+"December 1, 2025",SP AFF REACH I SAN FRANCISCO CAUS,---,$205.23,---
+"December 1, 2025",Intuit Financing,---,$76.49,---
+"December 1, 2025",,---,$180.00,---
+"December 1, 2025",Intuit Financing,---,$26.29,---
+"December 1, 2025",Sam's Club,---,$6.98,---
+"December 1, 2025",Giant Eagle,---,$78.00,---
+"December 1, 2025",Payment to Affirm.com,---,$24.51,"$8,982.57"
+"December 2, 2025",Intuit Financing,---,$31.07,---
+"December 2, 2025",Giant Eagle,---,$26.25,---
+"December 2, 2025",Deposit,"$8,065.00",---,---
+"December 2, 2025",Payment to Discover Bank,---,$250.00,---
+"December 2, 2025",Payment to American Express,---,$350.00,---
+"December 2, 2025",Intuit Financing,---,$88.38,---
+"December 2, 2025",Payment to Pekin Insurance,---,$990.76,---
+"December 2, 2025",Payment to First Insurance,---,$414.88,---
+"December 2, 2025",DOR ITS PAYMENTS - INDORITS XX3723,---,$603.86,"$14,292.37"
+"December 3, 2025",Payment to American Express,---,$350.00,---
+"December 3, 2025",Xfer To *****9370,---,$150.00,---
+"December 3, 2025",Xfer To ******7570,---,"$2,105.00",---
+"December 3, 2025",Intuit Financing,---,$172.25,"$11,515.12"
+"December 4, 2025",Payment to Chase,---,$500.00,---
+"December 4, 2025",Sam's Club,---,$201.18,---
+"December 4, 2025",JayC Food Stores,---,$213.90,---
+"December 4, 2025",Gillman Home Center,---,$59.45,---
+"December 4, 2025",Walmart,---,$222.41,---
+"December 4, 2025",Fundbox,---,"$1,152.25",---
+"December 4, 2025",Deposit,"$1,589.00",---,---
+"December 4, 2025",Walmart,---,$180.41,---
+"December 4, 2025",McDonald's,---,$16.11,"$10,558.41"
+"December 5, 2025",Payment to Sheffield Financial,---,$419.97,---
+"December 5, 2025",The UPS Store,---,$10.00,---
+"December 5, 2025",JayC Food Stores,---,$87.09,---
+"December 5, 2025",Taco Bell,---,$11.55,---
+"December 5, 2025",Lowe's,---,$253.67,"$9,776.13"
+"December 6, 2025",,---,"$1,518.07",---
+"December 6, 2025",,---,$200.00,---
+"December 6, 2025",Sirius XM,---,$45.98,"$8,012.08"
+"December 7, 2025",Walmart,---,$50.78,"$7,961.30"
+"December 8, 2025",Payment to American Express,---,$250.00,---
+"December 8, 2025",Payment to Affirm.com,---,$54.84,"$7,656.46"
+"December 10, 2025",Lowe's,---,$9.07,"$7,647.39"
+"December 11, 2025",,---,"$2,217.34",---
+"December 11, 2025",Deposit,"$5,747.00",---,---
+"December 11, 2025",JayC Food Stores,---,$11.76,---
+"December 11, 2025",Xfer To ******7570,---,"$2,000.00",---
+"December 11, 2025",Fundbox,---,"$1,152.41",---
+"December 11, 2025",Intuit Financing,---,$334.52,---
+"December 11, 2025",Walmart,---,$62.75,---
+"December 11, 2025",Giant Eagle,---,$23.00,"$7,592.61"
+"December 12, 2025",Giant Eagle,---,$63.75,---
+"December 12, 2025",Intuit Financing,---,$57.42,---
+"December 12, 2025",Withdrawal,---,$250.00,---
+"December 12, 2025",Buc-ee's,---,$129.41,---
+"December 12, 2025",Giant Eagle,---,$27.80,"$7,064.23"
+"December 13, 2025",Under Armour,---,$87.38,"$6,976.85"
+"December 14, 2025",Grunt Style,---,$65.82,---
+"December 14, 2025",,---,$13.00,"$6,898.03"
+"December 15, 2025",Payment to Vectren,---,$87.24,---
+"December 15, 2025",Xfer To *****9370,---,$375.00,---
+"December 15, 2025",,---,$153.65,---
+"December 15, 2025",,---,$578.61,---
+"December 15, 2025",Buc-ee's,---,$71.50,---
+"December 15, 2025",Buc-ee's,---,$8.75,---
+"December 15, 2025",Amazon,---,$120.90,---
+"December 15, 2025",Payment to Capital One,---,$215.63,---
+"December 15, 2025",Intuit Financing,---,$143.37,---
+"December 15, 2025",Payment to Synchrony Bank,---,$250.00,---
+"December 15, 2025",Intuit Financing,---,$90.83,"$4,802.55"
+"December 16, 2025",Payment to Citibank,---,$150.00,---
+"December 16, 2025",Intuit Financing,---,$119.63,---
+"December 16, 2025",,---,$4.99,---
+"December 16, 2025",Tax Payment to IRS,---,"$2,749.32",---
+"December 16, 2025",Intuit Financing,---,$129.14,---
+"December 16, 2025",Intuit Financing,---,$54.99,---
+"December 16, 2025",Intuit Financing,---,$57.38,---
+"December 16, 2025",Intuit Financing,---,$358.82,"$1,178.28"
+"December 17, 2025",Intuit Financing,---,$121.89,---
+"December 17, 2025",Deposit,"$1,400.00",---,---
+"December 17, 2025",Walmart,---,$88.45,---
+"December 17, 2025",Hobby Lobby,---,$96.34,---
+"December 17, 2025",Withdrawal,---,$400.00,---
+"December 17, 2025",Intuit Financing,---,$145.86,"$1,725.74"
+"December 18, 2025",Xfer To *****9370,---,$250.00,---
+"December 18, 2025",Fundbox,---,$697.19,---
+"December 18, 2025",Audible,---,$16.73,---
+"December 18, 2025",Xfer To ******2180,---,$250.00,---
+"December 18, 2025",Xfer To ******7570,---,"$1,900.00",---
+"December 18, 2025",SP AFF GRUNTST SAN FRANCISCO CAUS,---,$64.72,---
+"December 18, 2025",Giant Eagle,---,$73.50,---
+"December 18, 2025",Intuit Financing,---,$66.95,---
+"December 18, 2025",Meijer,---,$61.25,---
+"December 18, 2025",Payment to Affirm.com,---,$90.26,---
+"December 18, 2025",Fundbox,"$3,123.00",---,"$1,378.14"
+"December 19, 2025",Xfer To ******8704,---,$175.00,---
+"December 19, 2025",Intuit Financing,---,$45.46,---
+"December 19, 2025",Dollar Tree,---,$35.85,---
+"December 19, 2025",Macy's,---,$77.97,---
+"December 19, 2025",Intuit Financing,---,$78.89,---
+"December 19, 2025",Xfer To *****9370,---,$550.00,---
+"December 19, 2025",Deposit,"$11,430.00",---,---
+"December 19, 2025",Intuit Financing,---,$33.49,"$11,811.48"
+"December 20, 2025",,---,$365.86,---
+"December 20, 2025",Conner Prairie,---,$260.00,---
+"December 20, 2025",Uplift,---,$169.19,---
+"December 20, 2025",,---,$39.99,---
+"December 20, 2025",,---,$154.79,"$10,821.65"
+"December 21, 2025",Amazon,---,$26.74,---
+"December 21, 2025",Walmart,---,$96.58,---
+"December 21, 2025",7 Brew,---,$40.11,---
+"December 21, 2025",Amazon,---,$53.09,"$10,605.13"
+"December 22, 2025",Iu Credit Union,---,$500.00,---
+"December 22, 2025",Payment to Capital One,---,$750.00,---
+"December 22, 2025",Source One,---,$475.00,---
+"December 22, 2025",Giant Eagle,---,$36.69,---
+"December 22, 2025",Payment to Chase,---,$150.00,"$8,693.44"
+"December 23, 2025",Amazon,---,$20.53,---
+"December 23, 2025",Payment to Verizon Wireless,---,$381.62,---
+"December 23, 2025",Xfer To ******7570,---,"$2,025.00",---
+"December 23, 2025",Deposit,"$7,525.00",---,---
+"December 23, 2025",Payment to Affirm.com,---,$121.42,---
+"December 23, 2025",Xfer To ******7570,---,$50.00,---
+"December 23, 2025",Intuit Financing,---,$31.08,"$13,588.79"
+"December 24, 2025",Giant Eagle,---,$30.50,---
+"December 24, 2025",Walmart,---,$34.22,---
+"December 24, 2025",Waffle House,---,$31.00,---
+"December 24, 2025",Giant Eagle,---,$53.04,"$13,440.03"
+"December 26, 2025",Amazon,---,$21.34,---
+"December 26, 2025",Giant Eagle,---,$75.75,---
+"December 26, 2025",Amazon,---,$78.08,---
+"December 26, 2025",Walmart,---,$64.79,---
+"December 26, 2025",,---,$181.25,---
+"December 26, 2025",Check # 1053: Completed,---,"$3,250.00",---
+"December 26, 2025",Payment to American Express,---,$325.00,---
+"December 26, 2025",Amazon,---,$41.68,---
+"December 26, 2025",Giant Eagle,---,$4.27,---
+"December 26, 2025",Amazon,---,$10.69,---
+"December 26, 2025",Fundbox,---,$697.19,"$8,689.99"
+"December 27, 2025",Amazon,---,$51.35,"$8,638.64"
+"December 28, 2025",,---,$25.98,---
+"December 28, 2025",,---,$299.00,---
+"December 28, 2025",Windows,---,$50.82,"$8,262.84"
+"December 29, 2025",Xfer To ******7570,---,"$2,117.00",---
+"December 29, 2025",Quickbooks,---,$233.00,---
+"December 29, 2025",,---,$327.41,---
+"December 29, 2025",Payment to American Express,---,$325.00,---
+"December 29, 2025",Amazon,---,$214.00,---
+"December 29, 2025",Walmart,---,$48.03,"$4,998.40"
+"December 30, 2025",DOR ITS PAYMENTS - INDORITS XX7489,---,$520.96,---
+"December 30, 2025",Intuit Financing,---,$76.49,---
+"December 30, 2025",Intuit Financing,---,$26.29,---
+"December 30, 2025",Payment to Duke Energy,---,$86.63,---
+"December 30, 2025",Payment to Discover Bank,---,$225.00,"$4,063.03"
+"December 31, 2025",Xfer To *****9370,---,$150.00,---
+"December 31, 2025",Macy's,$61.92,---,---
+"December 31, 2025",Check # 1052: Completed,---,"$3,000.00",---
+"December 31, 2025",Xfer To *****9370,---,$500.00,$474.95
+"January 1, 2026",SP AFF REACH I SAN FRANCISCO CAUS,---,$205.23,---
+"January 1, 2026",,---,$29.00,---
+"January 1, 2026",Holiday Inn,---,$379.62,$138.90
+"January 2, 2026",Fundbox,---,$839.87,---
+"January 2, 2026",Intuit Financing,---,$88.34,---
+"January 2, 2026",Giant Eagle,---,$54.75,---
+"January 2, 2026",Withdrawal,---,$26.74,---
+"January 2, 2026",,"$2,085.00",---,$936.40
+"January 3, 2026",Amazon,---,$5.27,---
+"January 3, 2026",Amazon,---,$2.09,---
+"January 3, 2026",Kroger Fuel Center,---,$50.75,$878.29
+"January 5, 2026",,"$2,255.90",---,---
+"January 5, 2026",Payment to First Insurance,---,$414.88,---
+"January 5, 2026",Intuit Financing,---,$172.25,---
+"January 5, 2026",,---,"$2,255.90",---
+"January 5, 2026",Sirius XM,---,$45.98,---
+"January 5, 2026",,---,$29.00,---
+"January 5, 2026",Intuit Financing,---,$31.07,$185.11
+"January 6, 2026",Deposit,"$2,675.00",---,---
+"January 6, 2026",Xfer To ******7421,---,$750.00,---
+"January 6, 2026",Payment to Affirm.com,---,$54.84,"$2,055.27"
+"January 7, 2026",Sheffield Financial,---,$419.97,---
+"January 7, 2026",Giant Eagle,---,$34.99,---
+"January 7, 2026",Deposit,"$3,500.00",---,---
+"January 7, 2026",Lowe's,---,$100.00,"$5,000.31"
+"January 8, 2026",,---,"$2,265.90",---
+"January 8, 2026",Fundbox,---,$726.32,---
+"January 8, 2026",Xfer To ******7570,---,$619.00,---
+"January 8, 2026",Blue Ridge Bank Deposit,"$1,830.20",---,---
+"January 8, 2026",RMT*IV*XXXX*175.00\DTM*XXX*XX1104\,$175.00,---,---
+"January 8, 2026",Xfer To ******7570,---,"$1,500.00","$1,894.29"
+"January 9, 2026",Xfer To ******8704,---,$150.00,"$1,744.29"
+"January 11, 2026",Walmart,---,$73.19,---
+"January 11, 2026",Walmart,---,$0.94,"$1,670.16"
+"January 12, 2026",Walmart,---,$58.92,---
+"January 12, 2026",,"$9,263.00",---,"$10,874.24"
+"January 13, 2026",Giant Eagle,---,$50.00,---
+"January 13, 2026",Intuit Financing,---,$90.83,---
+"January 13, 2026",CVS Pharmacy,---,$23.73,---
+"January 13, 2026",Intuit Financing,---,$57.42,---
+"January 13, 2026",Xfer To *****9370,---,$350.00,---
+"January 13, 2026",Xfer To ******8704,---,$250.00,---
+"January 13, 2026",Payment to Pekin Insurance,---,$990.76,"$9,061.50"
+"January 14, 2026",Payment to Synchrony Bank,---,$200.00,---
+"January 14, 2026",Intuit Financing,---,$119.63,---
+"January 14, 2026",,---,$154.10,---
+"January 14, 2026",Best Buy,---,$175.00,---
+"January 14, 2026",Tax Payment to IRS,---,$168.00,---
+"January 14, 2026",Intuit Financing,---,$358.82,---
+"January 14, 2026",Xfer To ******8704,---,$150.00,---
+"January 14, 2026",Payment to Citibank,---,$150.00,---
+"January 14, 2026",,---,$218.97,---
+"January 14, 2026",Tax Payment to IRS,---,"$2,574.36",---
+"January 14, 2026",Intuit Financing,---,$54.99,"$4,737.63"
+"January 15, 2026",Payment to Capital One,---,$263.39,---
+"January 15, 2026",Payment to Capital One,---,$150.00,---
+"January 15, 2026",Xfer To ******7570,---,"$2,118.00",---
+"January 15, 2026",,---,$75.00,---
+"January 15, 2026",Intuit Financing,---,$57.38,---
+"January 15, 2026",Giant Eagle,---,$55.32,---
+"January 15, 2026",Fundbox,---,$726.32,---
+"January 15, 2026",,---,$134.97,---
+"January 15, 2026",Xfer To ******8704,---,$250.00,---
+"January 15, 2026",AFIC 2777 EFT - AFC EMPAFBCXX1799,---,$80.00,---
+"January 15, 2026",Intuit Financing,---,$129.14,---
+"January 15, 2026",Xfer To ******8704,---,$125.00,$573.11
+"January 16, 2026",,---,$4.39,---
+"January 16, 2026",Xfer To ******8704,---,$125.00,---
+"January 16, 2026",,"$1,025.00",---,---
+"January 16, 2026",Xfer To ******2180,---,$150.00,---
+"January 16, 2026",Walmart,---,$11.57,---
+"January 16, 2026",Centra Credit Union,"$4,125.00",---,---
+"January 16, 2026",Payment to Vectren,---,$161.52,---
+"January 16, 2026",CVS Pharmacy,---,$22.17,---
+"January 16, 2026",Deposit,$875.00,---,---
+"January 16, 2026",Gillman Home Center,---,$11.76,---
+"January 16, 2026",,---,$158.00,"$5,953.70"
+"January 17, 2026",Walmart,---,$43.96,---
+"January 17, 2026",Xfer To ******8704,---,$200.00,---
+"January 17, 2026",Xfer To ******8704,---,$125.00,"$5,584.74"
+"January 18, 2026",,---,$3.20,---
+"January 18, 2026",,---,$75.00,---
+"January 18, 2026",Xfer To ******8704,---,$125.00,---
+"January 18, 2026",SP AFF GRUNTST SAN FRANCISCO CAUS,---,$64.72,"$5,316.82"
+"January 19, 2026",Xfer To *****9370,---,"$1,000.00",---
+"January 19, 2026",,---,$884.29,"$3,432.53"
+"January 20, 2026",Iu Credit Union,---,$500.00,---
+"January 20, 2026",Xfer To ******8704,---,$125.00,---
+"January 20, 2026",Giant Eagle,---,$56.00,---
+"January 20, 2026",Walmart,---,$0.44,---
+"January 20, 2026",Intuit Financing,---,$145.86,---
+"January 20, 2026",Intuit Financing,---,$121.89,---
+"January 20, 2026",Uplift,---,$169.19,---
+"January 20, 2026",,---,$39.99,---
+"January 20, 2026",,---,$309.23,---
+"January 20, 2026",Xfer To ******8704,---,$100.00,"$1,864.93"
+"January 21, 2026",Source One,---,$475.00,---
+"January 21, 2026",Intuit Financing,---,$33.49,---
+"January 21, 2026",Intuit Financing,---,$31.08,---
+"January 21, 2026",Intuit Financing,---,$78.89,---
+"January 21, 2026",Xfer To ******7570,---,"$2,118.00",---
+"January 21, 2026",,$875.00,---,---
+"January 21, 2026",Deposit,"$3,825.00",---,---
+"January 21, 2026",Walmart,---,$50.36,---
+"January 21, 2026",Intuit Financing,---,$45.46,---
+"January 21, 2026",Intuit Financing,---,$66.95,---
+"January 21, 2026",Xfer To *****9370,---,$250.00,"$3,415.70"
+"January 22, 2026",Giant Eagle,---,$52.06,---
+"January 22, 2026",Fundbox,---,$726.32,---
+"January 22, 2026",Xfer To ******8704,---,$125.00,---
+"January 22, 2026",Check # 1054: Completed,---,$421.50,---
+"January 22, 2026",Xfer To ******8704,---,$125.00,---
+"January 22, 2026",Xfer To *****9370,---,$250.00,---
+"January 22, 2026",RMT*IV*XXXX*200.00\DTM*XXX*XX0105\,$200.00,---,---
+"January 22, 2026",Giant Eagle,---,$33.14,---
+"January 22, 2026",,$440.00,---,"$2,322.68"
+"January 21, 2026",,---,$23.25,---
+"January 22, 2026",Card Hold; Walmart.com Bentonville ARUS,---,$16.76,---
+"January 22, 2026",,---,$99.96,---
+"January 23, 2026",VERIZON WIRELESS - PAYMENTS,---,$468.19,---
