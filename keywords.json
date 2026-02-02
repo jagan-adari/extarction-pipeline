@@ -1,0 +1,287 @@
+{
+  "lenderKeywords": {
+    "8-fig": ["8FIG INC", "UNCAPPED", "Currency Cloud", "8fig Growth"],
+    "Bluevine": [
+      "CELTIC BANK BV_LOAN",
+      "BV_LOAN",
+      "Wire Transfer Dep WIRE IN CELTIC BANK",
+      "Bluevine Capital",
+      "DESCR:BV_LOAN SEC:CCD",
+      "BlueVine Loan Proceeds",
+      "BlueVine Loan"
+    ],
+    "BriteCap": ["BriteCap", "forwardline"],
+    "Byzfunder": [
+      "BYZFUNDER",
+      "JPMORGAN CHASE BAN /ORG=BYZFUNDER",
+      "/ORG=BYZFUNDER",
+      "ORG=BYZFUNDER",
+      "Tandem Advance",
+      "B/O: BYZFUNDER NY LLC",
+      "B/O: BYZFUNDER",
+      "BOOK TRANSFER CREDIT B/O: BYZFUNDER",
+      "ByzFlex"
+    ],
+    "Gotorro": [
+      "GOTORRO",
+      "ACHPAYMENT GOTORRO"
+    ],
+    "AspireFunding": [
+      "ASPIREFUNDING",
+      "ASPIRE FUNDING",
+      "ACHPAYMENT ASPIREFUNDING"
+    ],
+    "Top Choice Financial": [
+      "TOP CHOICE",
+      "SUPERFAST",
+      "Top Choice Finan",
+      "TOP CHOICE FINANCIAL"
+    ],
+    "CFG Merchant Solutions": [
+      "CFGMS - GGG",
+      "CFGMS",
+      "CFG MERCHANT SOL",
+      "CFG MERCHANT",
+      "CREDITCFG MERCHANT SOLUTIONS",
+      "ACHPAYMENTCFG",
+      "CFG MERCHANT SOLUTIONS",
+      "CFG MERCHANT SOLUTIONS LLC"
+    ],
+    "Credit Ninja": ["CREDITNINJA PMT PAYMENT", "CREDITNINJA SERV ADVANCE", "CREDITNINJA"],
+    "Delta Bridge Funding": ["Delta Bridge Fun", "ORIG:DELTA BRIDGE FUNDING LLC", "DELTA BRIDGE"],
+    "Everest Business Funding": [
+      "EBF Holdings",
+      "EBF HOLDINGS, LLC",
+      "EBF / HOLDINGS LLC",
+      "EBF DEBIT",
+      "EBF HOL",
+      "BNF:EBF HOLDING",
+      "EBFH REFUNEBFHOLDINGCREDIT",
+      "EBFHOLDINGCREDIT",
+      "8006192943EBF",
+      "EBF HOLDINGS",
+      "EVEREST BUSINESS FUNDING"
+    ],
+    "Expansion Capital Group": [
+      "ACH EXPANSIONCAPITAL",
+      "EXPANSION CAPITA FUNDING",
+      "EXPANSIONCAPITAL",
+      "EXPANSIONCAP",
+      "EXPANSION CAPITAL GROUP",
+      "EXPANSION CAPITAFUNDING",
+      "EXPANSIONCAPITALPMTS",
+      "WIRE WIRE FROM EXPANSION",
+      "EXPANSION CAPITAPMTS",
+      "EXPANSIONCAPITA",
+      "EXPANSION CAPITAL GR",
+      "EXPANSION CAPITA",
+      "EXPANSION CAPITA FEE",
+      "Expansion Capit Funding",
+      "ExpansionCapital",
+      "ExpansionCap",
+      "EXPANSION CAPITAL",
+      "EXPANSION FF",
+      "EXPANSION CAPITACCD"
+    ],
+    "Flash Funding": [
+      "FLASH FUNDING SERVICES",
+      "FLASHFUNDINGSERVICES",
+      "FLASHFUNDINGSVC",
+      "FLASHFUNDINGSVCS",
+      "8002017337FLASHFUNDINGSVC",
+      "8002017337"
+    ],
+    "Forward Financing": [
+      "FF FORWARD FINANCIN GROUP CORP",
+      "FORWARDFINANCE3 PAYMENTS",
+      "FORWARDFINANCING",
+      "FORWARD FINANCINFF",
+      "FORWARD FINANCIN",
+      "FF SPE II",
+      "FORWARDFINANCING8882449099",
+      "FORWARD FINANCINRPP2952677FF",
+      "NAME:FORWARDFINANCE4",
+      "Forward Financing",
+      "FORWARDFINANCINGACH",
+      "FF FORWARD FINANCINCCD",
+      "FORWARDFINANCE3ACH239693",
+      "FORWARDFINANCE3",
+      "FORWARDFINANCE4",
+      "FORWARD FIN",
+      "FORWARD FINANC",
+      "FORWARDFINUSA6",
+      "FORWARD / FINANCIN"
+    ],
+    "Fundbox": [
+      "ORIG CO NAME:Fundbox INC.",
+      "Orig CO Name:Fundbox Inc.",
+      "Fundbox",
+      "Fundbox INC.",
+      "FUNDBOX"
+    ],
+    "FundingMetrics": [
+      "FDM001",
+      "FUNDING METRICS",
+      "FUNDING MET,RICS",
+      "BANK FUNDING MET,RICS",
+      "FUNDING METRIC",
+      "WIRE TRANSFER CREDIT FUNDING METRICS"
+    ],
+    "Giggle Finance": [
+      "Giggle Finance",
+      "GIGGLE FINAN",
+      "4694895343GIGGLE FINANCE",
+      "ACH DEBIT GIGGLE",
+      "INTERBANKGIGGLE",
+      "GIGGLE"
+    ],
+    "Greenbox Capital": [
+      "GREENBOX CAPITAL DES:PREAUTHPAY",
+      "WIRE TYPE ORIG:GREENBOX CAPITAL",
+      "GREENBOX CAPITAL",
+      "WIRE TRANSFER FROM MERCHANT CAPITAL GROUP",
+      "MERCHANT CAPITAL GROUP",
+      "GREENBOX"
+    ],
+    "Lendr": [
+      "Lendr/TRN",
+      "LendrFund",
+      "LendrFund7282",
+      "Lendr",
+      "LENDR",
+      "Lendr VenturesCR Lendr",
+      "Lendr VenturesCR",
+      "LENDR VENTURES"
+    ],
+    "McKenzie Capital": [
+      "McKenzie Capital CO",
+      "McKenzie Capital",
+      "McKenzie Capital - Advance",
+      "McKenzie Capital - Payment",
+      "MCKENZIE"
+    ],
+    "Parkside Funding Group": [
+      "ORIG CO NAME PARKSIDE FUND",
+      "FEDWIRE CREDIT PARKSIDE FUNDING GROUP LLC",
+      "PARKSIDE FUND",
+      "PARKSIDE FUNDING GROUP",
+      "PARKSIDE FUND WEEKLY",
+      "PARKSIDE FUND DAILY",
+      "BANKUNITED /ORG=PARKSIDE FUNDING GROUP LLC",
+      "/ORG=PARKSIDE FUNDING GROUP LLC",
+      "/ORG=PARKSIDE FUNDING GROUP",
+      "PARKSIDE"
+    ],
+    "Paypal Working Capital": [
+      "PayPal DES:DEBIT",
+      "ORIG:1/WebBank/PayPal",
+      "PAYPAL WORKING CAPITAL",
+      "PAYPAL CAPITAL"
+    ],
+    "Snap Advances": ["ACH SNAP ADVANCES", "SNAP ADVANCES LLC SRF", "SNAP ADVANCES"],
+    "The Fundworks": [
+      "The Fundworks",
+      "THE FUNDWORKS",
+      "FUNDWORKS"
+    ],
+    "Union Funding Source": [
+      "Unionfundingsour",
+      "Union Fund Funding",
+      "UNION FUNDING",
+      "ORIG:UNION FUNDING",
+      "OPTIMUMBANK/067015096 B/O: UNION FUNDING"
+    ],
+    "VADER MOUNTAIN CAPITAL": [
+      "VADER SERVICING, LLC",
+      "VADER ORIG",
+      "VADER SERVICING VADER",
+      "Vader Servicing LI",
+      "VADER",
+      "VADER SERVICING"
+    ],
+    "Fenix Capital Funding": ["FENIX CAPITAL", "FENIX / CAPITAL", "FENIX"],
+    "National Funding": [
+      "NFAS2",
+      "NF1017",
+      "National Funding",
+      "NFSPV",
+      "NFSPV1Collection",
+      "NF1016",
+      "QB1017",
+      "NAME:NFAS3",
+      "NFSPV1CollectionEDI",
+      "NFSPV1CollectionEDI PYMNTS",
+      "NFAS3",
+      "NATIONAL FUNDING"
+    ],
+    "Vox Funding": [
+      "Vox Funding",
+      "VOX FUNDINGEntry",
+      "VOX FUNDING"
+    ],
+    "VitalCap Funding": [
+      "Vitalcap Fund",
+      "Vital cap Fund",
+      "Vitalcap",
+      "Vital cap",
+      "EMERALD GROUP HOLDINGS LLC",
+      "VITALCAP"
+    ],
+    "Smart Business Funding": ["Smart Business", "SMART BUSINE8970", "SMART BUSINESS"],
+    "Highland Hill Capital": [
+      "HIGHLANDHILLCAP",
+      "HIGHLAND HILL CA",
+      "Highland Hill Payment",
+      "HIGHLAND HILL"
+    ],
+    "Splash Advance": [
+      "ACHPAYMENTSPLASHADVANCELLC",
+      "Splash advance",
+      "SPLASHADVANCELLC",
+      "SPLASH ADVANCE"
+    ],
+    "Bizfund": ["BizFund", "biz fund", "BIZFUND"],
+    "Liquidbee": ["LIQUIDIBEE", "Southern Cap", "ORIG:LIQUIDIBEE", "LIQUIDBEE"],
+    "Pearl Capital": ["Pearl Capital", "ORIG:PEARL DELTA FUNDING", "PEARL CAPITAL", "PEARL DELTA"],
+    "Hunter Caroline": ["HUNTER CAROLINE CAPITAL", "HUNTER CAROLINE"],
+    "Intuit Financing": [
+      "INTUIT FINANCING",
+      "INTUIT FIN",
+      "INTUIT LOAN",
+      "INTUIT CREDIT"
+    ],
+    "OnDeck": ["ondeck", "ON DECK", "ONDECK"],
+    "Kabbage": ["kabbage", "KABBAGE"],
+    "Credibly": ["credibly", "CREDIBLY"],
+    "Rapid Finance": ["rapid finance", "RAPID FINANCE", "RAPIDFINANCE"],
+    "Can Capital": ["can capital", "CAN CAPITAL", "CANCAPITAL"],
+    "Behalf": ["behalf", "BEHALF"],
+    "Fundation": ["fundation", "FUNDATION"],
+    "Headway Capital": ["headway capital", "HEADWAY CAPITAL", "HEADWAY"],
+    "Lendio": ["lendio", "LENDIO"],
+    "Street Shares": ["street shares", "STREET SHARES", "STREETSHARES"],
+    "Accion": ["accion", "ACCION"],
+    "Biz2Credit": ["biz2credit", "BIZ2CREDIT", "BIZ 2 CREDIT"],
+    "Fora Financial": ["fora financial", "FORA FINANCIAL", "FORAFINANCIAL"]
+  },
+  "transferKeywords": [
+    "transfer",
+    "xfer",
+    "ach",
+    "refund",
+    "credit",
+    "deposit",
+    "return",
+    "reversal",
+    "cashback",
+    "reward",
+    "wire",
+    "direct deposit",
+    "payroll",
+    "incoming",
+    "inbound",
+    "funding",
+    "loan proceeds",
+    "disbursement"
+  ]
+}
