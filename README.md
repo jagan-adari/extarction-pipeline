@@ -1,81 +1,137 @@
-# PDF Extraction Pipeline
+# Bank Statement Extraction Pipeline
 
-Fast, deterministic extraction pipeline for loan underwriting data from PDFs.
+Smart extraction pipeline for bank statements using hybrid agentic + vision approach.
 
-## Features
+## How It Works
 
-- **Multi-format support**: Plaid asset reports, Truist statements, generic bank statements
-- **Multi-account detection**: Handles PDFs with multiple accounts
-- **Lender matching**: Exact + fuzzy keyword matching (rapidfuzz)
-- **Underwriting metrics**: Debt service ratio, parse confidence
-- **Optional LLM summaries**: xAI/Grok integration for natural language summaries
-- **Deterministic**: No LLM in hot path, consistent reproducible results
+```
+PDF Input
+    │
+    ▼
+┌─────────────────────┐
+│ Check for text      │
+└─────────┬───────────┘
+          │
+    ┌─────┴─────┐
+    │           │
+    ▼           ▼
+Has Text?    No Text?
+    │           │
+    ▼           ▼
+┌─────────┐  ┌─────────┐
+│ Agentic │  │ Vision  │
+│ (~18s)  │  │ (~50s)  │
+└────┬────┘  └────┬────┘
+     │            │
+     ▼            │
+Got 3+ txns?      │
+     │            │
+  ┌──┴──┐         │
+  │     │         │
+  ▼     ▼         │
+ Yes    No ───────┤
+  │               │
+  ▼               ▼
+┌─────────────────────┐
+│ Return Transactions │
+└─────────────────────┘
+```
+
+### Agentic Extraction (~18 seconds)
+1. Sample first 3 pages (images + text)
+2. Claude analyzes format and writes custom Python parser
+3. Execute parser locally
+4. Return transactions
+
+### Vision Extraction (~50-180 seconds)
+1. Send PDF directly to Claude Vision
+2. Claude reads and extracts all transactions
+3. Return transactions
 
 ## Installation
 
 ```bash
-pip install pdfplumber rapidfuzz python-dotenv openai
+pip install pdfplumber anthropic pdf2image pillow
+brew install poppler  # Required for pdf2image on macOS
 ```
 
 ## Usage
 
 ```bash
+# Set API key
+export ANTHROPIC_API_KEY=your_key
+
 # Basic extraction
-python fast_extract.py "statement.pdf" -o output.json
+python3 smart_extractor.py statement.pdf
 
-# With LLM summaries
-python fast_extract.py "statement.pdf" --llm -o output.json
+# With verbose output
+python3 smart_extractor.py statement.pdf -v
 
-# Custom keywords file
-python fast_extract.py "statement.pdf" -k custom_keywords.json -o output.json
+# Save to JSON
+python3 smart_extractor.py statement.pdf -o output.json
 ```
 
-## Output
+## Output Format
 
 ```json
 {
-  "extraction_date": "2026-01-31",
-  "source_file": "statement.pdf",
-  "accounts": [
+  "pdf_name": "statement.pdf",
+  "method": "agentic",
+  "transactions": [
     {
-      "accountId": "1234567890",
-      "accountName": "Business Checking",
-      "deposits": 50000.00,
-      "internalTransfers": 10000.00,
-      "lenderCredits": 5000.00,
-      "payments": 3000.00,
-      "lenders": 2,
-      "lenderNames": ["Fundbox", "Intuit Financing"],
-      "debtServiceRatio": 0.06,
-      "parseConfidence": 1.0,
-      "aggregateDeposits": 150000.00,
-      "aggregatePayments": 9000.00,
-      "summary": "Monthly deposits: $50,000.00..."
+      "date": "2025-12-04",
+      "description": "ACH DEPOSIT PAYROLL",
+      "amount": 3500.00,
+      "type": "credit"
+    },
+    {
+      "date": "2025-12-05",
+      "description": "VISA PURCHASE AMAZON",
+      "amount": 125.99,
+      "type": "debit"
     }
-  ]
+  ],
+  "transaction_count": 169,
+  "time_seconds": 17.8
 }
 ```
 
-## Keywords Configuration
+## Performance
 
-Edit `keywords.json` to add/modify lender and transfer keywords:
+| Method | Time | When Used |
+|--------|------|-----------|
+| Agentic | ~18s | Text-based PDFs |
+| Vision | ~50-180s | Image/scanned PDFs, or agentic fallback |
+
+## Files
+
+```
+├── smart_extractor.py   # Main extraction tool
+├── keywords.json        # Lender matching keywords
+├── data/                # Sample PDFs
+└── .env                 # API keys (not in repo)
+```
+
+## Lender Matching
+
+Edit `keywords.json` to add lender keywords:
 
 ```json
 {
   "lenderKeywords": {
     "Fundbox": ["FUNDBOX", "FBX"],
-    "Intuit Financing": ["INTUIT FIN", "QBO CAPITAL"]
+    "OnDeck": ["ONDECK", "ON DECK CAPITAL"]
   },
-  "transferKeywords": ["TRANSFER", "ACH", "WIRE", "XFER"]
+  "transferKeywords": ["TRANSFER", "ACH", "WIRE"]
 }
 ```
 
-## Environment Variables
+## Environment
 
-For LLM summaries, create a `.env` file:
+Create `.env` file:
 
 ```
-XAI_API_KEY=your_xai_api_key
+ANTHROPIC_API_KEY=sk-ant-...
 ```
 
 ## License
