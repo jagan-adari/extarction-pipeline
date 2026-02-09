@@ -2,33 +2,26 @@
 """
 Smart Bank Statement Extractor
 
-Strategy:
+Hybrid approach that combines agentic and vision extraction:
 1. Check if PDF has extractable text
-2. If yes → Try agentic parser (Claude writes custom code)
-3. If agentic fails or no text → Fall back to vision
+2. If yes → Try agentic (fast, ~18s)
+3. If agentic fails or no text → Fall back to vision (~50-180s)
 
 This gives us:
-- Fast, cheap extraction when agentic works (~5s, 1 API call)
-- Reliable fallback via vision when it doesn't (~50s, more expensive)
+- Fast extraction when agentic works
+- Reliable fallback when it doesn't
 """
 
-import os
 import json
 import time
-import base64
-import subprocess
-import tempfile
 from pathlib import Path
-from io import BytesIO
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass
 from typing import Optional
 
 import pdfplumber
-import anthropic
-from pdf2image import convert_from_path
 
-MODEL = "claude-sonnet-4-20250514"
-client = anthropic.Anthropic()
+from agentic_extractor import agentic_extract
+from vision_extractor import vision_extract
 
 # Minimum text per page to consider text-extractable
 MIN_TEXT_PER_PAGE = 100
@@ -46,224 +39,6 @@ class ExtractionResult:
     time_seconds: float
     error: Optional[str] = None
 
-
-# ============================================================
-# AGENTIC EXTRACTION
-# ============================================================
-
-def agentic_extract(pdf_path: str) -> tuple[list, str]:
-    """
-    Have Claude analyze the PDF and write a custom parser.
-    Returns: (transactions, error_message)
-    """
-    pdf_path = Path(pdf_path)
-
-    # Get sample text and images
-    with pdfplumber.open(pdf_path) as pdf:
-        pages_to_sample = min(3, len(pdf.pages))
-        text = ""
-        for i in range(pages_to_sample):
-            page_text = pdf.pages[i].extract_text() or ""
-            text += f"\n=== PAGE {i+1} ===\n{page_text}"
-
-    images = convert_from_path(pdf_path, dpi=150, first_page=1, last_page=pages_to_sample)
-
-    # Build content for Claude
-    content = []
-    for img in images:
-        buffered = BytesIO()
-        img.save(buffered, format="JPEG", quality=85)
-        img_base64 = base64.standard_b64encode(buffered.getvalue()).decode("utf-8")
-        content.append({
-            "type": "image",
-            "source": {"type": "base64", "media_type": "image/jpeg", "data": img_base64}
-        })
-
-    prompt = f"""Write a Python script to extract ALL transactions from this bank statement.
-
-EXTRACTED TEXT:
-{text[:12000]}
-
-Requirements:
-1. Use pdfplumber to open: "{pdf_path}"
-2. Extract ALL transactions from ALL pages
-3. Handle the specific format in this statement (sections, dates, amounts)
-4. Output JSON array to stdout
-
-Output format:
-[{{"date": "YYYY-MM-DD", "description": "...", "amount": 123.45, "type": "credit" or "debit"}}]
-
-Important:
-- Identify ALL sections (deposits=credit, withdrawals/payments=debit)
-- Handle the date format used in this statement
-- Handle multi-line descriptions if present
-- Skip headers, subtotals, page numbers
-- Print ONLY the JSON array
-
-Return ONLY Python code starting with ```python"""
-
-    content.append({"type": "text", "text": prompt})
-
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=4096,
-        messages=[{"role": "user", "content": content}]
-    )
-
-    response_text = response.content[0].text
-
-    # Extract code
-    if "```python" in response_text:
-        code = response_text.split("```python")[1].split("```")[0]
-    elif "```" in response_text:
-        code = response_text.split("```")[1].split("```")[0]
-    else:
-        return [], "No code in response"
-
-    # Execute code
-    with tempfile.NamedTemporaryFile(mode='w', suffix='.py', delete=False) as f:
-        f.write(code)
-        parser_path = f.name
-
-    try:
-        result = subprocess.run(
-            ["python3", parser_path],
-            capture_output=True,
-            text=True,
-            timeout=60
-        )
-        os.unlink(parser_path)
-
-        if result.returncode != 0:
-            return [], f"Script error: {result.stderr[:500]}"
-
-        output = result.stdout.strip()
-        if "[" in output:
-            json_str = output[output.index("["):output.rindex("]")+1]
-            transactions = json.loads(json_str)
-            return transactions, None
-        return [], "No JSON in output"
-
-    except subprocess.TimeoutExpired:
-        os.unlink(parser_path)
-        return [], "Script timeout"
-    except Exception as e:
-        return [], str(e)
-
-
-# ============================================================
-# VISION EXTRACTION
-# ============================================================
-
-def vision_extract(pdf_path: str) -> tuple[list, str]:
-    """
-    Use Claude Vision to directly extract transactions.
-    Returns: (transactions, error_message)
-    """
-    pdf_path = Path(pdf_path)
-
-    with pdfplumber.open(pdf_path) as pdf:
-        page_count = len(pdf.pages)
-
-    # For large PDFs, use page-wise extraction
-    if page_count > 10:
-        return vision_extract_pagewise(pdf_path, page_count)
-
-    # For small PDFs, send whole document
-    with open(pdf_path, "rb") as f:
-        pdf_base64 = base64.standard_b64encode(f.read()).decode("utf-8")
-
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=16384,
-        messages=[{
-            "role": "user",
-            "content": [
-                {
-                    "type": "document",
-                    "source": {"type": "base64", "media_type": "application/pdf", "data": pdf_base64}
-                },
-                {
-                    "type": "text",
-                    "text": """Extract ALL transactions from this bank statement.
-
-Return JSON array:
-[{"date": "YYYY-MM-DD", "description": "...", "amount": 123.45, "type": "credit" or "debit"}]
-
-Include EVERY transaction. Return ONLY the JSON array."""
-                }
-            ]
-        }]
-    )
-
-    return parse_vision_response(response.content[0].text)
-
-
-def vision_extract_pagewise(pdf_path: Path, page_count: int) -> tuple[list, str]:
-    """Extract from large PDFs page by page."""
-    pages = convert_from_path(pdf_path, dpi=150)
-    all_transactions = []
-
-    batch_size = 5
-    for i in range(0, len(pages), batch_size):
-        batch = pages[i:i + batch_size]
-
-        content = []
-        for page in batch:
-            buffered = BytesIO()
-            page.save(buffered, format="JPEG", quality=85)
-            img_base64 = base64.standard_b64encode(buffered.getvalue()).decode("utf-8")
-            content.append({
-                "type": "image",
-                "source": {"type": "base64", "media_type": "image/jpeg", "data": img_base64}
-            })
-
-        content.append({
-            "type": "text",
-            "text": "Extract ALL transactions from these bank statement pages. Return JSON array: [{\"date\": \"YYYY-MM-DD\", \"description\": \"...\", \"amount\": 123.45, \"type\": \"credit\" or \"debit\"}]. Return ONLY JSON."
-        })
-
-        response = client.messages.create(
-            model=MODEL,
-            max_tokens=8192,
-            messages=[{"role": "user", "content": content}]
-        )
-
-        batch_txns, _ = parse_vision_response(response.content[0].text)
-        all_transactions.extend(batch_txns)
-
-    # Deduplicate
-    seen = set()
-    unique = []
-    for t in all_transactions:
-        key = (t.get("date"), t.get("description", "")[:30], t.get("amount"))
-        if key not in seen:
-            seen.add(key)
-            unique.append(t)
-
-    return unique, None
-
-
-def parse_vision_response(text: str) -> tuple[list, str]:
-    """Parse Claude's response to extract JSON."""
-    try:
-        if "```json" in text:
-            json_str = text.split("```json")[1].split("```")[0]
-        elif "```" in text:
-            json_str = text.split("```")[1].split("```")[0]
-        elif "[" in text:
-            json_str = text[text.index("["):text.rindex("]")+1]
-        else:
-            return [], "No JSON found"
-
-        return json.loads(json_str.strip()), None
-    except Exception as e:
-        return [], str(e)
-
-
-# ============================================================
-# SMART EXTRACTION (MAIN)
-# ============================================================
 
 def smart_extract(pdf_path: str) -> ExtractionResult:
     """
@@ -316,6 +91,8 @@ def main():
     parser.add_argument("pdf", help="PDF file")
     parser.add_argument("-o", "--output", help="Output JSON file")
     parser.add_argument("-v", "--verbose", action="store_true")
+    parser.add_argument("--agentic", action="store_true", help="Force agentic only")
+    parser.add_argument("--vision", action="store_true", help="Force vision only")
 
     args = parser.parse_args()
 
@@ -323,7 +100,33 @@ def main():
     print(f"PDF: {args.pdf}")
     print()
 
-    result = smart_extract(args.pdf)
+    start_time = time.time()
+
+    # Handle forced modes
+    if args.agentic:
+        print("  Using agentic extraction (forced)...")
+        transactions, error = agentic_extract(args.pdf)
+        result = ExtractionResult(
+            pdf_name=Path(args.pdf).name,
+            method="agentic",
+            transactions=transactions,
+            transaction_count=len(transactions),
+            time_seconds=round(time.time() - start_time, 2),
+            error=error
+        )
+    elif args.vision:
+        print("  Using vision extraction (forced)...")
+        transactions, error = vision_extract(args.pdf)
+        result = ExtractionResult(
+            pdf_name=Path(args.pdf).name,
+            method="vision",
+            transactions=transactions,
+            transaction_count=len(transactions),
+            time_seconds=round(time.time() - start_time, 2),
+            error=error
+        )
+    else:
+        result = smart_extract(args.pdf)
 
     print(f"\n=== Results ===")
     print(f"Method: {result.method}")
